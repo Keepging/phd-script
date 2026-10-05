@@ -68,17 +68,17 @@
 ### 定义
 - 组 = 同 layer × fraction 的 20 个 run（5 tp × 4 rep）。
 - 对 `n_precursors` 和 `median_log2` 各算：`med = median(20 值)`，`MAD = median(|x − med|)`，`z = (x − med) / (1.4826 × MAD)`；MAD = 0 时 z 留空并记录。
-- 报 24 个 CTRL run（phospho 12 + proteome 12）。
+- 报全部 CTRL run。**advisor 修正**：数据里 CTRL run 是 48 个（2 layer × 6 fraction × 4 rep），任务原文写的 24（磷酸 12 + 蛋白 12）与数据不符，按 48 报。
 
 ### 输出
-- `03_ctrl_qc.tsv`（24 行）：`layer, fraction, rep, run, n_precursors, median_log2, cell_median_n, cell_mad_n, z_n_precursors, cell_median_log2, cell_mad_log2, z_median_log2, flag_n(|z|>2 yes/no), flag_log2(|z|>2 yes/no)`。
+- `03_ctrl_qc.tsv`（48 行；原稿写 24，见上）：`layer, fraction, rep, run, n_precursors, median_log2, cell_median_n, cell_mad_n, z_n_precursors, cell_median_log2, cell_mad_log2, z_median_log2, flag_n(|z|>2 yes/no), flag_log2(|z|>2 yes/no)`。
 - `03_ctrl_qc_cells.tsv`（12 行）：`layer, fraction, n_runs, median_n, mad_n, median_log2, mad_log2`。
 - `03_ctrl_qc.md`：① 输入 ② 定义 ③ 24 行表 ④ |z|>2 清单（run、指标、值、z）⑤ 计数：phospho / proteome 各有几个 CTRL run 在 n、在 log2 上 |z|>2 ⑥ 跳过项。
 
 ### 验收标准
-1. 24 行；每个 cell n_runs = 20；z 用 20 个 run（含非 CTRL）算，不是只用 CTRL。
+1. 48 行（原稿 24，advisor 修正）；每个 cell n_runs = 20；z 用 20 个 run（含非 CTRL）算，不是只用 CTRL。
 2. advisor 参考：|z|>2 的 (run, 指标) 共 25 条，其中 phospho 9 条（含 FR2 Rep4 median_log2 z = −5.153、FR6 Rep4 median_log2 z = 5.222）、proteome 16 条（含 FR3 Rep4 median_log2 z = 5.697、FR6 Rep4 median_log2 z = 5.594）。逐条对上（容差 0.001）。
-3. 24 个 CTRL run 的 n_precursors、median_log2 与 run_medians.tsv 原值一致。
+3. 48 个 CTRL run 的 n_precursors、median_log2 与 run_medians.tsv 原值一致。
 
 ---
 
