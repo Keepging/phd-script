@@ -1,37 +1,48 @@
-# 09 验收记录（advisor，gate1）
+# 09 验收记录（advisor，gate1）— 2026-10-06 重跑版
 
-方案：`00_design.md`。执行：三个 Opus subagent（任务 1 与 3 并行，任务 2 在任务 1 通过后派）。三个任务一轮通过，没有重派。
+## 本轮经过
+1. 首轮（commit 157284f）：`data/pilot/gate1_proteins.tsv` 只有表头、0 行，三个任务由三个 Opus subagent 写好脚本并在 scratchpad 合成夹具上验证逻辑（advisor 用独立实现逐格比对，全部一致），真实结果全部"缺数据，跳过"。
+2. 重新导出的数据以 `analysis/gate1_proteins.tsv`（344 行，commit 9af8707 "Add files via upload"）进入当前分支；`data/pilot/gate1_proteins.tsv` 仍为 0 行，`data/` 未改。三个脚本通过 `--proteins analysis/gate1_proteins.tsv`（03 为 `--gate1`）按 01 → 03 → 02 重跑，输出覆盖 `analysis/08_gate1/`。
+3. 两处定义按确认执行：centered = quantity × 2^a（a 为 07 实际施加的 log2 因子，`01_run_factors.tsv` 的 `a` 列）；Movement Score 阈值改为作者 :181 的严格 `> 0.1`（`02_events.py` 与 `00_design.md` 已改，列名 `gt_0.1`）。
+4. 验收：advisor 用独立实现在真实数据上重算份额（160 行）、EGFR 总量（40 行）与比值（8 行）、E-A/E-B/E-C/E-D（328 项），与脚本输出 0 处不符（份额 1e-9、总量 3e-8、MS 1e-6、p 1e-5 容差）。
 
-## 核心事实：输入为空
-`data/pilot/gate1_proteins.tsv`（分支 `claude/determined-goldberg-atmb8n` commit bee801a，已合并进当前分支，`analysis/gate1_proteins.tsv` 为同一文件副本）**只有表头、0 行数据**。因此：
-- GRB2 / SHC1 / CBL / EGFR 各在 **0/120** 个 run 测到。
-- 任务 1、2、3 的全部数值结果：**缺数据，跳过**。三个任务的表只有表头，`02_events.png` 为 18 个写着 "no data" 的空图框。
-- 三个脚本（`01_shares.py`、`02_events.py`、`03_egfr_total.py`）已按方案写好并对着真实文件跑过（退出码 0，复跑逐字节相同）；数据到位后按 01 → 03 → 02 的顺序直接复跑即可，不需改动。
+## 输入事实
+- 344 行，119 个 distinct run（120 个设计格中 119 个有行），解析失败 0；run 名无 `proteome/` 前缀，按 (timepoint, fraction, rep) 匹配因子。
+- 每个基因只有一个 protein_group，无 secondary：GRB2 P62993、SHC1 P29353、CBL P22681、EGFR P00533。
+- **四个蛋白测到的 run 数 /120**：GRB2 90、SHC1 115、CBL 59、EGFR 80。
+- 每个基因 20 个 (timepoint, rep) 格都有 ≥1 个 fraction；**fraction 不全（<6）的格**：SHC1 5/20、GRB2 18/20、CBL 20/20、EGFR 20/20。份额按有值 fraction 之和归一，缺的在 `01_shares.md` ③ 逐行列出，未填补。
 
-## 验收方法
-真实输入无数可对，advisor 改为验证脚本逻辑：在 scratchpad 建了一个明显合成的夹具（4 基因 × 120 run，含故意缺失的 fraction、一个基因两个 protein_group），用独立实现算出参考值，再用三个脚本的可选参数 `--proteins/--shares/--factors/--outdir` 在 scratchpad 跑夹具比对。夹具与其任何数字都不进入 `analysis/`。
+## 任务 1 份额表 — 合格
+`01_shares.tsv` 160 行（4 基因 × 5 tp × 4 rep × raw/centered），三格非空行 Cyt+Mem+Nuc = 1（1e-12 内）；`01_shares_secondary.tsv` 只有表头；`01_groups.tsv` 4 行。
 
-## 任务 1 份额表 — 合格（脚本逻辑）
-文件：`01_shares.tsv`、`01_shares_secondary.tsv`、`01_groups.tsv`（均只有表头）、`01_shares.md`、`01_shares.py`。
-夹具比对：160 行（4 基因 × 5 tp × 4 rep × raw/centered）Cyt/Mem/Nuc 与 advisor 参考逐格一致（0 处不符，含留空格）；`n_fractions_present` 一致；三格非空行 Cyt+Mem+Nuc 与 1 的最大偏差 1e-12；primary/secondary 分流正确（run 数多者为主）；centered = quantity × 2^a 正确。真实输入：md ① 写明 0/120、解析 0/120。
+## 任务 2 三个易位事件 — 合格
+- E-B 方向计数（Mem 上升且 Cyt 下降，按 rep 配对 vs CTRL；raw 与 centered 相同）：
+  | gene | 2 min | 8 min |
+  |---|---|---|
+  | GRB2 | 4/4 | 4/4 |
+  | SHC1 | 4/4 | 4/4 |
+  | CBL | 3/4 | 2/3 |
+- E-C Movement Score（作者定义）：可算的只有 SHC1 全部 8 格和 GRB2 8min 两格；GRB2 的 2/20/90 min 与 CBL 全部时间点因某 fraction 在 tp 或 CTRL 的 4 个 rep 全缺而留空（方案规定不在少于 6 个 fraction 上算）。**MS_author > 0.1 的 3 个**：(GRB2, raw, 8min) 0.1298；(GRB2, centered, 8min) 0.1288；(SHC1, centered, 2min) 0.1013。SHC1 raw 2min = 0.0981（低于阈值）。MS_max1 在上述格均为 FR4，MS_max2 为 FR1。
+- E-A 均值/标准差/Δ份额 90 行、E-D Welch p 值 24 行见 `02_events.md`（n = 4/4 或实际 n，只作参考）。
+- 图 `02_events.png`：2 × 9，缺份额处断开。
 
-## 任务 2 三个易位事件 — 合格（脚本逻辑）
-文件：`02_events.md`、`02_events.tsv`（只有表头）、`02_events.png`（2×9 空图框）、`02_events.py`。
-夹具比对：E-A 90 格 × (mean, sd, Δ) 全部一致（1e-5）；E-B 12 行 × 4 个计数一致（`n/4` 格式，分母为两边四格都有值的 rep 数）；E-C 24 行 MS_author（作者定义：fraction 级线性重复均值 → 份额 → 6 个 |Δ| 的均值）、MS_max1、MS_max2、ge_0.1 一致；E-D 24 行 Welch t、p 一致。夹具图目视：2 行 × 9 列、每图 4 条重复线、缺份额处断开、图例一次。
-subagent 记录的口径选择（advisor 认可）：阈值按方案用 ≥ 0.1（作者第 181 行是 > 0.1，只在恰等于 0.1 时不同）；某 fraction 在 tp 或 CTRL 的 4 个 rep 全缺时 E-C 该行留空并列出；`n_mem_up`/`n_cyt_down` 为单项计数，排他计数可由减法得到；作者的 `pval_combi_FDR < 0.05` 条件未复现。
-
-## 任务 3 EGFR 总量 — 合格（脚本逻辑）
-文件：`03_egfr_total.tsv`、`03_egfr_ratio.tsv`（只有表头）、`03_egfr_total.md`、`03_egfr_total.py`。
-夹具比对：40 行 total（raw/centered）与参考最大差 5e-10；`n_fractions_present` 一致；8 个按 rep 配对的 90min/CTRL 比值全部一致。`02_events.md` ⑦ 节已抄入其 ③④ 节。
-subagent 口径：`n_fractions_present = 0` 的 (tp, rep) 也出一行（total 留空），与任务 1"一个 fraction 都没有则不出行"不一致，数据到位后两表行数会差这一类行；其余一致。
+## 任务 3 EGFR 总量 — 合格
+EGFR 90 min / CTRL 总量比值（按 rep 配对）：
+| rep | raw | centered |
+|---|---|---|
+| Rep1 | 0.471 | 0.409 |
+| Rep2 | 0.247 | 0.272 |
+| Rep3 | 0.397 | 0.360 |
+| Rep4 | 1.468 | 1.694 |
+EGFR 的 20 个 (tp, rep) 格全部 fraction 不全，总量是有值 fraction 之和，详见 `03_egfr_total.md`。
 
 ## 改过什么
-- 方案 §1 引用作者代码第 181 行时漏了行尾 `+`（ggplot 续行符），subagent 已在 md 注明；方案文本未再改。
-- 无重派，输出未被 advisor 手改。
+- 阈值 ≥ 0.1 → > 0.1（`00_design.md`、`02_events.py`，列名 `ge_0.1` → `gt_0.1`）。
+- 输入路径：脚本默认仍指向 `data/pilot/gate1_proteins.tsv`（0 行），本轮用参数指向 `analysis/gate1_proteins.tsv`；若以后把导出放回 `data/pilot/`，不加参数即可。
+- 本轮重跑由 advisor 直接执行已验收的脚本并独立核对，未再派 subagent。
 
 ## 没解决 / 需要知道的问题
-1. **输入为空是本轮唯一阻塞项**：`gate1_proteins.tsv` 需要重新导出（每个 proteome run 的 `report.pg_matrix.tsv` 最后一列）。导出后复跑三个脚本即可得到全部结果。
-2. **centered 的定义**：按 `quantity × 2^a`（`a` 为 `01_run_factors.tsv` 中 07 实际使用的 log2 因子，= anchor − m_07）。任务原文写"除以 2^该 run 的 factor"，若 factor 指 m_07 − anchor，两者等价；若指别的量，需要改一行。
-3. **Movement Score 口径**（方案 §1）：作者只对 2 min vs CTRL 算，且输入是 DAPAR 按 fraction LOESS 归一化并填补后的值；本轮对四个 EGF 时间点都算，且 raw/centered 两版都不复现 DAPAR 归一化与填补，缺失 rep 直接从均值里剔除。
-4. 份额的归一化基数是"有值的 fraction 之和"，缺 fraction 的 (tp, rep) 在 md 单列；没有填补。
-5. 行数口径小差异：任务 3 对 `n_fractions_present = 0` 的格出空行，任务 1 不出行。
+1. **覆盖不全是主要限制**：CBL 只在 59/120 个 run 测到，所有 (tp, rep) 格都缺 fraction，Movement Score 全部无法按作者定义计算；GRB2 只有 8 min 可算。份额与方向计数在缺 fraction 的格上是按"有值 fraction 之和"归一的，分母随缺失情况变化。
+2. 运行 `FR?`：120 个设计格中 1 个没有任何行（见 `01_shares.md` ①）。
+3. 作者的 `pval_combi_FDR < 0.05`（limma + sumlog + BH）条件未复现；DAPAR 的 LOESS 归一化与填补未复现。
+4. 任务 3 对 `n_fractions_present = 0` 的格出空行、任务 1 不出行；本数据下每格都 ≥1 个 fraction，两表行数一致。

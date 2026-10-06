@@ -74,7 +74,7 @@ EA_COLS = ["gene", "normalization", "timepoint", "compartment", "n", "mean", "sd
 EB_COLS = ["gene", "normalization", "timepoint", "n_mem_up_cyt_down", "n_mem_up", "n_cyt_down",
            "denominator"]
 EC_COLS = ["gene", "normalization", "timepoint", "MS_author", "MS_max1", "MS_max2",
-           "MS_perrep_mean", "ge_0.1"]
+           "MS_perrep_mean", "gt_0.1"]
 ED_COLS = ["gene", "normalization", "timepoint", "mem_mean_tp", "mem_mean_ctrl", "t", "p_welch",
            "n_tp", "n_ctrl"]
 LONG_COLS = ["table", "gene", "normalization", "timepoint", "key", "value"]
@@ -451,7 +451,7 @@ def main():
                     if len(per) < len(REPS):
                         ec_perrep_short.append((g, norm, tp, len(per)))
                     pm = mean_or_none(per)
-                    ge = "" if ms is None else ("yes" if ms >= MS_THRESHOLD else "no")
+                    ge = "" if ms is None else ("yes" if ms > MS_THRESHOLD else "no")
                     EC.append([g, norm, tp, ms, mx1, mx2, pm, ge])
 
     # ================================================================ E-D
@@ -696,8 +696,8 @@ def main():
             if None not in ct + cc:
                 same_as_comp += abs(sum(abs(x - y) for x, y in zip(ct, cc)) / 3 - ms) <= TOL
         chk("E-C：MS_author 不等于用 3 个区室份额算的同式值", same_as_comp == 0, f"相等 {same_as_comp}")
-        bad_ge = sum(1 for r in EC if r[3] is not None and (r[7] == "yes") != (r[3] >= MS_THRESHOLD))
-        chk("E-C：ge_0.1 = (MS_author ≥ 0.1)", bad_ge == 0, f"不一致 {bad_ge}")
+        bad_ge = sum(1 for r in EC if r[3] is not None and (r[7] == "yes") != (r[3] > MS_THRESHOLD))
+        chk("E-C：gt_0.1 = (MS_author > 0.1)", bad_ge == 0, f"不一致 {bad_ge}")
     else:
         chk("E-C：MS_author 由 fraction 级（6 个 fraction）重复均值复算一致", "不适用", "0 行")
 
@@ -800,12 +800,12 @@ def main():
              "若\"仅\"指排他（Mem 升且 Cyt 不降），其值 = `n_mem_up − n_mem_up_cyt_down`（同一组 rep），"
              "`n_cyt_down` 同理。")
     L.append("- **E-C 缺整个 fraction（方案未定义）**：tp 或 CTRL 中任一 fraction 在 4 个 rep 全缺，"
-             "或 6 个均值之和 = 0 → `MS_author`、`MS_max1`、`MS_max2`、`ge_0.1` 留空，在 ⑤ 列出；不在少于 6 个 fraction 上算。")
+             "或 6 个均值之和 = 0 → `MS_author`、`MS_max1`、`MS_max2`、`gt_0.1` 留空，在 ⑤ 列出；不在少于 6 个 fraction 上算。")
     L.append("- **MS_max2**：照作者 `maxN`（:38-45）取第二大的值，再 `match` 第一个等于它的位置；"
              "若最大值并列，`MS_max2` 与 `MS_max1` 相同（作者代码行为）。写成 `FRk`，对应作者的整数 k。")
     L.append("- **MS_perrep_mean**：某 rep 只有在 tp 与 CTRL 两边 6 个 fraction 都有值时才计入；计入 rep 数不足 4 的在 ⑤ 列出。")
-    L.append("- **阈值（歧义）**：方案列名 `ge_0.1` 与\"≥0.1 的时间点清单\"用 ≥ 0.1；作者 :181 为严格 `> 0.1`。"
-             "本脚本按方案用 ≥；两者只在 MS 恰为 0.1 时不同。作者的 `pval_combi_FDR < 0.05` 条件（limma + sumlog + BH）本轮不复现。")
+    L.append("- **阈值**：按作者 :181 的严格 `> 0.1`（2026-10-06 确认，原方案的 ≥ 0.1 已改）。"
+             "作者的 `pval_combi_FDR < 0.05` 条件（limma + sumlog + BH）本轮不复现。")
     L.append("- quantity 按线性值使用（§2\"线性值\"），不做 2^x（作者 :19-20 的 2^ 针对其 log2 输入）。")
     L.append("- E-A：CTRL 行的 `delta_vs_ctrl` = 0；n < 2 时 sd 留空；n = 0 时 mean、delta 留空。")
     L.append("- E-D：tp 组在前、CTRL 组在后（t > 0 表示 tp 的 Mem 均值更高）；任一组 n < 2 或结果为 nan 时 t、p 留空；"
@@ -848,8 +848,8 @@ def main():
     else:
         L.append(md_table(EC_COLS, [[g, nm, tp, f4(f12(ms)), mx1 or "", mx2 or "", f4(f12(pm)), ge]
                                      for g, nm, tp, ms, mx1, mx2, pm, ge in EC]))
-        hits = [(g, nm, tp) for g, nm, tp, ms, *_ in EC if ms is not None and ms >= MS_THRESHOLD]
-        L.append(f"\n**MS_author ≥ 0.1 的 (gene, normalization, timepoint)**：{len(hits)} 个"
+        hits = [(g, nm, tp) for g, nm, tp, ms, *_ in EC if ms is not None and ms > MS_THRESHOLD]
+        L.append(f"\n**MS_author > 0.1 的 (gene, normalization, timepoint)**：{len(hits)} 个"
                  + ("：" + "；".join(f"({g}, {nm}, {tp})" for g, nm, tp in hits) if hits else "") + "。\n")
         L.append(f"- MS_author 留空（tp 或 CTRL 缺整个 fraction）：{len(ec_missing_fr)}"
                  + ("：" + "；".join(f"{g}/{nm}/{tp}（缺 {w}）" for g, nm, tp, w in ec_missing_fr) if ec_missing_fr else "") + "。")

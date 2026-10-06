@@ -1,1 +1,673 @@
 table	gene	normalization	timepoint	key	value
+E-A	GRB2	raw	CTRL	Cyt_n	4
+E-A	GRB2	raw	CTRL	Cyt_mean	0.775761258701
+E-A	GRB2	raw	CTRL	Cyt_sd	0.187390245486
+E-A	GRB2	raw	CTRL	Cyt_delta_vs_ctrl	0
+E-A	GRB2	raw	CTRL	Mem_n	4
+E-A	GRB2	raw	CTRL	Mem_mean	0.187239514715
+E-A	GRB2	raw	CTRL	Mem_sd	0.116454369699
+E-A	GRB2	raw	CTRL	Mem_delta_vs_ctrl	0
+E-A	GRB2	raw	CTRL	Nuc_n	1
+E-A	GRB2	raw	CTRL	Nuc_mean	0.147996906334
+E-A	GRB2	raw	CTRL	Nuc_sd	
+E-A	GRB2	raw	CTRL	Nuc_delta_vs_ctrl	0
+E-A	GRB2	raw	2min	Cyt_n	4
+E-A	GRB2	raw	2min	Cyt_mean	0.345392915704
+E-A	GRB2	raw	2min	Cyt_sd	0.0597549956988
+E-A	GRB2	raw	2min	Cyt_delta_vs_ctrl	-0.430368342997
+E-A	GRB2	raw	2min	Mem_n	4
+E-A	GRB2	raw	2min	Mem_mean	0.636809077226
+E-A	GRB2	raw	2min	Mem_sd	0.0765124168984
+E-A	GRB2	raw	2min	Mem_delta_vs_ctrl	0.44956956251
+E-A	GRB2	raw	2min	Nuc_n	2
+E-A	GRB2	raw	2min	Nuc_mean	0.0355960141405
+E-A	GRB2	raw	2min	Nuc_sd	0.00932482334484
+E-A	GRB2	raw	2min	Nuc_delta_vs_ctrl	-0.112400892194
+E-A	GRB2	raw	8min	Cyt_n	4
+E-A	GRB2	raw	8min	Cyt_mean	0.323622926272
+E-A	GRB2	raw	8min	Cyt_sd	0.0643650161064
+E-A	GRB2	raw	8min	Cyt_delta_vs_ctrl	-0.45213833243
+E-A	GRB2	raw	8min	Mem_n	4
+E-A	GRB2	raw	8min	Mem_mean	0.620793726675
+E-A	GRB2	raw	8min	Mem_sd	0.084678167679
+E-A	GRB2	raw	8min	Mem_delta_vs_ctrl	0.43355421196
+E-A	GRB2	raw	8min	Nuc_n	3
+E-A	GRB2	raw	8min	Nuc_mean	0.0741111294047
+E-A	GRB2	raw	8min	Nuc_sd	0.0307886437946
+E-A	GRB2	raw	8min	Nuc_delta_vs_ctrl	-0.0738857769293
+E-A	GRB2	raw	20min	Cyt_n	4
+E-A	GRB2	raw	20min	Cyt_mean	0.44161317217
+E-A	GRB2	raw	20min	Cyt_sd	0.0748799702086
+E-A	GRB2	raw	20min	Cyt_delta_vs_ctrl	-0.334148086531
+E-A	GRB2	raw	20min	Mem_n	4
+E-A	GRB2	raw	20min	Mem_mean	0.50853755266
+E-A	GRB2	raw	20min	Mem_sd	0.0703285849206
+E-A	GRB2	raw	20min	Mem_delta_vs_ctrl	0.321298037944
+E-A	GRB2	raw	20min	Nuc_n	2
+E-A	GRB2	raw	20min	Nuc_mean	0.09969855034
+E-A	GRB2	raw	20min	Nuc_sd	0.0509868048564
+E-A	GRB2	raw	20min	Nuc_delta_vs_ctrl	-0.048298355994
+E-A	GRB2	raw	90min	Cyt_n	4
+E-A	GRB2	raw	90min	Cyt_mean	0.671577760848
+E-A	GRB2	raw	90min	Cyt_sd	0.0385533135178
+E-A	GRB2	raw	90min	Cyt_delta_vs_ctrl	-0.104183497853
+E-A	GRB2	raw	90min	Mem_n	4
+E-A	GRB2	raw	90min	Mem_mean	0.318139287612
+E-A	GRB2	raw	90min	Mem_sd	0.0350091246006
+E-A	GRB2	raw	90min	Mem_delta_vs_ctrl	0.130899772896
+E-A	GRB2	raw	90min	Nuc_n	1
+E-A	GRB2	raw	90min	Nuc_mean	0.041131806162
+E-A	GRB2	raw	90min	Nuc_sd	
+E-A	GRB2	raw	90min	Nuc_delta_vs_ctrl	-0.106865100172
+E-A	GRB2	centered	CTRL	Cyt_n	4
+E-A	GRB2	centered	CTRL	Cyt_mean	0.72080298699
+E-A	GRB2	centered	CTRL	Cyt_sd	0.161519615685
+E-A	GRB2	centered	CTRL	Cyt_delta_vs_ctrl	0
+E-A	GRB2	centered	CTRL	Mem_n	4
+E-A	GRB2	centered	CTRL	Mem_mean	0.24159581555
+E-A	GRB2	centered	CTRL	Mem_sd	0.092423803773
+E-A	GRB2	centered	CTRL	Mem_delta_vs_ctrl	0
+E-A	GRB2	centered	CTRL	Nuc_n	1
+E-A	GRB2	centered	CTRL	Nuc_mean	0.150404789839
+E-A	GRB2	centered	CTRL	Nuc_sd	
+E-A	GRB2	centered	CTRL	Nuc_delta_vs_ctrl	0
+E-A	GRB2	centered	2min	Cyt_n	4
+E-A	GRB2	centered	2min	Cyt_mean	0.285185829615
+E-A	GRB2	centered	2min	Cyt_sd	0.0460883266363
+E-A	GRB2	centered	2min	Cyt_delta_vs_ctrl	-0.435617157375
+E-A	GRB2	centered	2min	Mem_n	4
+E-A	GRB2	centered	2min	Mem_mean	0.685182072684
+E-A	GRB2	centered	2min	Mem_sd	0.0789514532436
+E-A	GRB2	centered	2min	Mem_delta_vs_ctrl	0.443586257134
+E-A	GRB2	centered	2min	Nuc_n	2
+E-A	GRB2	centered	2min	Nuc_mean	0.059264195403
+E-A	GRB2	centered	2min	Nuc_sd	0.0088260920303
+E-A	GRB2	centered	2min	Nuc_delta_vs_ctrl	-0.091140594436
+E-A	GRB2	centered	8min	Cyt_n	4
+E-A	GRB2	centered	8min	Cyt_mean	0.257509227068
+E-A	GRB2	centered	8min	Cyt_sd	0.0335544014611
+E-A	GRB2	centered	8min	Cyt_delta_vs_ctrl	-0.463293759922
+E-A	GRB2	centered	8min	Mem_n	4
+E-A	GRB2	centered	8min	Mem_mean	0.657207716576
+E-A	GRB2	centered	8min	Mem_sd	0.0690605771616
+E-A	GRB2	centered	8min	Mem_delta_vs_ctrl	0.415611901026
+E-A	GRB2	centered	8min	Nuc_n	3
+E-A	GRB2	centered	8min	Nuc_mean	0.113710741808
+E-A	GRB2	centered	8min	Nuc_sd	0.0383183262494
+E-A	GRB2	centered	8min	Nuc_delta_vs_ctrl	-0.0366940480307
+E-A	GRB2	centered	20min	Cyt_n	4
+E-A	GRB2	centered	20min	Cyt_mean	0.343729401438
+E-A	GRB2	centered	20min	Cyt_sd	0.070181318932
+E-A	GRB2	centered	20min	Cyt_delta_vs_ctrl	-0.377073585552
+E-A	GRB2	centered	20min	Mem_n	4
+E-A	GRB2	centered	20min	Mem_mean	0.588422492116
+E-A	GRB2	centered	20min	Mem_sd	0.0582750626159
+E-A	GRB2	centered	20min	Mem_delta_vs_ctrl	0.346826676566
+E-A	GRB2	centered	20min	Nuc_n	2
+E-A	GRB2	centered	20min	Nuc_mean	0.13569621289
+E-A	GRB2	centered	20min	Nuc_sd	0.0615280375759
+E-A	GRB2	centered	20min	Nuc_delta_vs_ctrl	-0.014708576949
+E-A	GRB2	centered	90min	Cyt_n	4
+E-A	GRB2	centered	90min	Cyt_mean	0.6013887436
+E-A	GRB2	centered	90min	Cyt_sd	0.0429511650106
+E-A	GRB2	centered	90min	Cyt_delta_vs_ctrl	-0.11941424339
+E-A	GRB2	centered	90min	Mem_n	4
+E-A	GRB2	centered	90min	Mem_mean	0.384117680326
+E-A	GRB2	centered	90min	Mem_sd	0.0393840974576
+E-A	GRB2	centered	90min	Mem_delta_vs_ctrl	0.142521864776
+E-A	GRB2	centered	90min	Nuc_n	1
+E-A	GRB2	centered	90min	Nuc_mean	0.057974304296
+E-A	GRB2	centered	90min	Nuc_sd	
+E-A	GRB2	centered	90min	Nuc_delta_vs_ctrl	-0.092430485543
+E-A	SHC1	raw	CTRL	Cyt_n	4
+E-A	SHC1	raw	CTRL	Cyt_mean	0.732961408774
+E-A	SHC1	raw	CTRL	Cyt_sd	0.130753954055
+E-A	SHC1	raw	CTRL	Cyt_delta_vs_ctrl	0
+E-A	SHC1	raw	CTRL	Mem_n	4
+E-A	SHC1	raw	CTRL	Mem_mean	0.217726151689
+E-A	SHC1	raw	CTRL	Mem_sd	0.081431964612
+E-A	SHC1	raw	CTRL	Mem_delta_vs_ctrl	0
+E-A	SHC1	raw	CTRL	Nuc_n	4
+E-A	SHC1	raw	CTRL	Nuc_mean	0.0493124395363
+E-A	SHC1	raw	CTRL	Nuc_sd	0.0538207681902
+E-A	SHC1	raw	CTRL	Nuc_delta_vs_ctrl	0
+E-A	SHC1	raw	2min	Cyt_n	4
+E-A	SHC1	raw	2min	Cyt_mean	0.469328121034
+E-A	SHC1	raw	2min	Cyt_sd	0.0411164851346
+E-A	SHC1	raw	2min	Cyt_delta_vs_ctrl	-0.263633287741
+E-A	SHC1	raw	2min	Mem_n	4
+E-A	SHC1	raw	2min	Mem_mean	0.465533745043
+E-A	SHC1	raw	2min	Mem_sd	0.0397585921427
+E-A	SHC1	raw	2min	Mem_delta_vs_ctrl	0.247807593354
+E-A	SHC1	raw	2min	Nuc_n	4
+E-A	SHC1	raw	2min	Nuc_mean	0.065138133923
+E-A	SHC1	raw	2min	Nuc_sd	0.0129967942275
+E-A	SHC1	raw	2min	Nuc_delta_vs_ctrl	0.0158256943867
+E-A	SHC1	raw	8min	Cyt_n	4
+E-A	SHC1	raw	8min	Cyt_mean	0.479226104541
+E-A	SHC1	raw	8min	Cyt_sd	0.0331054325033
+E-A	SHC1	raw	8min	Cyt_delta_vs_ctrl	-0.253735304233
+E-A	SHC1	raw	8min	Mem_n	4
+E-A	SHC1	raw	8min	Mem_mean	0.431644314308
+E-A	SHC1	raw	8min	Mem_sd	0.0540154340483
+E-A	SHC1	raw	8min	Mem_delta_vs_ctrl	0.213918162619
+E-A	SHC1	raw	8min	Nuc_n	4
+E-A	SHC1	raw	8min	Nuc_mean	0.0891295811505
+E-A	SHC1	raw	8min	Nuc_sd	0.0230082660671
+E-A	SHC1	raw	8min	Nuc_delta_vs_ctrl	0.0398171416142
+E-A	SHC1	raw	20min	Cyt_n	4
+E-A	SHC1	raw	20min	Cyt_mean	0.600328025384
+E-A	SHC1	raw	20min	Cyt_sd	0.0556856786356
+E-A	SHC1	raw	20min	Cyt_delta_vs_ctrl	-0.132633383391
+E-A	SHC1	raw	20min	Mem_n	4
+E-A	SHC1	raw	20min	Mem_mean	0.298877169072
+E-A	SHC1	raw	20min	Mem_sd	0.060638444795
+E-A	SHC1	raw	20min	Mem_delta_vs_ctrl	0.081151017383
+E-A	SHC1	raw	20min	Nuc_n	4
+E-A	SHC1	raw	20min	Nuc_mean	0.100794805545
+E-A	SHC1	raw	20min	Nuc_sd	0.0614194836032
+E-A	SHC1	raw	20min	Nuc_delta_vs_ctrl	0.0514823660082
+E-A	SHC1	raw	90min	Cyt_n	4
+E-A	SHC1	raw	90min	Cyt_mean	0.668140048953
+E-A	SHC1	raw	90min	Cyt_sd	0.0253033737904
+E-A	SHC1	raw	90min	Cyt_delta_vs_ctrl	-0.0648213598215
+E-A	SHC1	raw	90min	Mem_n	4
+E-A	SHC1	raw	90min	Mem_mean	0.274543711172
+E-A	SHC1	raw	90min	Mem_sd	0.0289476986233
+E-A	SHC1	raw	90min	Mem_delta_vs_ctrl	0.0568175594833
+E-A	SHC1	raw	90min	Nuc_n	4
+E-A	SHC1	raw	90min	Nuc_mean	0.0573162398747
+E-A	SHC1	raw	90min	Nuc_sd	0.0233805498993
+E-A	SHC1	raw	90min	Nuc_delta_vs_ctrl	0.0080038003385
+E-A	SHC1	centered	CTRL	Cyt_n	4
+E-A	SHC1	centered	CTRL	Cyt_mean	0.6718069921
+E-A	SHC1	centered	CTRL	Cyt_sd	0.118989240875
+E-A	SHC1	centered	CTRL	Cyt_delta_vs_ctrl	0
+E-A	SHC1	centered	CTRL	Mem_n	4
+E-A	SHC1	centered	CTRL	Mem_mean	0.263380935937
+E-A	SHC1	centered	CTRL	Mem_sd	0.083608480687
+E-A	SHC1	centered	CTRL	Mem_delta_vs_ctrl	0
+E-A	SHC1	centered	CTRL	Nuc_n	4
+E-A	SHC1	centered	CTRL	Nuc_mean	0.0648120719637
+E-A	SHC1	centered	CTRL	Nuc_sd	0.0500289439706
+E-A	SHC1	centered	CTRL	Nuc_delta_vs_ctrl	0
+E-A	SHC1	centered	2min	Cyt_n	4
+E-A	SHC1	centered	2min	Cyt_mean	0.397416972475
+E-A	SHC1	centered	2min	Cyt_sd	0.0251553022944
+E-A	SHC1	centered	2min	Cyt_delta_vs_ctrl	-0.274390019625
+E-A	SHC1	centered	2min	Mem_n	4
+E-A	SHC1	centered	2min	Mem_mean	0.502310670088
+E-A	SHC1	centered	2min	Mem_sd	0.0342843041194
+E-A	SHC1	centered	2min	Mem_delta_vs_ctrl	0.238929734151
+E-A	SHC1	centered	2min	Nuc_n	4
+E-A	SHC1	centered	2min	Nuc_mean	0.100272357437
+E-A	SHC1	centered	2min	Nuc_sd	0.0186694719245
+E-A	SHC1	centered	2min	Nuc_delta_vs_ctrl	0.0354602854733
+E-A	SHC1	centered	8min	Cyt_n	4
+E-A	SHC1	centered	8min	Cyt_mean	0.394937607825
+E-A	SHC1	centered	8min	Cyt_sd	0.0232630439373
+E-A	SHC1	centered	8min	Cyt_delta_vs_ctrl	-0.276869384275
+E-A	SHC1	centered	8min	Mem_n	4
+E-A	SHC1	centered	8min	Mem_mean	0.474745735427
+E-A	SHC1	centered	8min	Mem_sd	0.0416495085514
+E-A	SHC1	centered	8min	Mem_delta_vs_ctrl	0.21136479949
+E-A	SHC1	centered	8min	Nuc_n	4
+E-A	SHC1	centered	8min	Nuc_mean	0.130316656748
+E-A	SHC1	centered	8min	Nuc_sd	0.0389462854075
+E-A	SHC1	centered	8min	Nuc_delta_vs_ctrl	0.0655045847845
+E-A	SHC1	centered	20min	Cyt_n	4
+E-A	SHC1	centered	20min	Cyt_mean	0.494321597894
+E-A	SHC1	centered	20min	Cyt_sd	0.048121012463
+E-A	SHC1	centered	20min	Cyt_delta_vs_ctrl	-0.177485394206
+E-A	SHC1	centered	20min	Mem_n	4
+E-A	SHC1	centered	20min	Mem_mean	0.347062692003
+E-A	SHC1	centered	20min	Mem_sd	0.0639395328493
+E-A	SHC1	centered	20min	Mem_delta_vs_ctrl	0.0836817560658
+E-A	SHC1	centered	20min	Nuc_n	4
+E-A	SHC1	centered	20min	Nuc_mean	0.158615710104
+E-A	SHC1	centered	20min	Nuc_sd	0.0900407495032
+E-A	SHC1	centered	20min	Nuc_delta_vs_ctrl	0.0938036381403
+E-A	SHC1	centered	90min	Cyt_n	4
+E-A	SHC1	centered	90min	Cyt_mean	0.591829696661
+E-A	SHC1	centered	90min	Cyt_sd	0.041631048129
+E-A	SHC1	centered	90min	Cyt_delta_vs_ctrl	-0.079977295439
+E-A	SHC1	centered	90min	Mem_n	4
+E-A	SHC1	centered	90min	Mem_mean	0.324028857263
+E-A	SHC1	centered	90min	Mem_sd	0.0342428692932
+E-A	SHC1	centered	90min	Mem_delta_vs_ctrl	0.0606479213263
+E-A	SHC1	centered	90min	Nuc_n	4
+E-A	SHC1	centered	90min	Nuc_mean	0.0841414460765
+E-A	SHC1	centered	90min	Nuc_sd	0.0308562875733
+E-A	SHC1	centered	90min	Nuc_delta_vs_ctrl	0.0193293741128
+E-A	CBL	raw	CTRL	Cyt_n	4
+E-A	CBL	raw	CTRL	Cyt_mean	0.619997946843
+E-A	CBL	raw	CTRL	Cyt_sd	0.4126354691
+E-A	CBL	raw	CTRL	Cyt_delta_vs_ctrl	0
+E-A	CBL	raw	CTRL	Mem_n	4
+E-A	CBL	raw	CTRL	Mem_mean	0.380002053157
+E-A	CBL	raw	CTRL	Mem_sd	0.4126354691
+E-A	CBL	raw	CTRL	Mem_delta_vs_ctrl	0
+E-A	CBL	raw	CTRL	Nuc_n	0
+E-A	CBL	raw	CTRL	Nuc_mean	
+E-A	CBL	raw	CTRL	Nuc_sd	
+E-A	CBL	raw	CTRL	Nuc_delta_vs_ctrl	
+E-A	CBL	raw	2min	Cyt_n	4
+E-A	CBL	raw	2min	Cyt_mean	0.122260629123
+E-A	CBL	raw	2min	Cyt_sd	0.0231299495712
+E-A	CBL	raw	2min	Cyt_delta_vs_ctrl	-0.497737317719
+E-A	CBL	raw	2min	Mem_n	4
+E-A	CBL	raw	2min	Mem_mean	0.698309880366
+E-A	CBL	raw	2min	Mem_sd	0.118902521345
+E-A	CBL	raw	2min	Mem_delta_vs_ctrl	0.318307827209
+E-A	CBL	raw	2min	Nuc_n	3
+E-A	CBL	raw	2min	Nuc_mean	0.239239320681
+E-A	CBL	raw	2min	Nuc_sd	0.0135448264599
+E-A	CBL	raw	2min	Nuc_delta_vs_ctrl	
+E-A	CBL	raw	8min	Cyt_n	3
+E-A	CBL	raw	8min	Cyt_mean	0.154064534686
+E-A	CBL	raw	8min	Cyt_sd	0.0820224952074
+E-A	CBL	raw	8min	Cyt_delta_vs_ctrl	-0.465933412157
+E-A	CBL	raw	8min	Mem_n	4
+E-A	CBL	raw	8min	Mem_mean	0.79609264119
+E-A	CBL	raw	8min	Mem_sd	0.110515275784
+E-A	CBL	raw	8min	Mem_delta_vs_ctrl	0.416090588033
+E-A	CBL	raw	8min	Nuc_n	3
+E-A	CBL	raw	8min	Nuc_mean	0.117811943727
+E-A	CBL	raw	8min	Nuc_sd	0.0576980717403
+E-A	CBL	raw	8min	Nuc_delta_vs_ctrl	
+E-A	CBL	raw	20min	Cyt_n	4
+E-A	CBL	raw	20min	Cyt_mean	0.129739204786
+E-A	CBL	raw	20min	Cyt_sd	0.103608889276
+E-A	CBL	raw	20min	Cyt_delta_vs_ctrl	-0.490258742057
+E-A	CBL	raw	20min	Mem_n	4
+E-A	CBL	raw	20min	Mem_mean	0.799258164914
+E-A	CBL	raw	20min	Mem_sd	0.0857586972128
+E-A	CBL	raw	20min	Mem_delta_vs_ctrl	0.419256111757
+E-A	CBL	raw	20min	Nuc_n	2
+E-A	CBL	raw	20min	Nuc_mean	0.1420052606
+E-A	CBL	raw	20min	Nuc_sd	0.0977294063098
+E-A	CBL	raw	20min	Nuc_delta_vs_ctrl	
+E-A	CBL	raw	90min	Cyt_n	4
+E-A	CBL	raw	90min	Cyt_mean	0.748343315909
+E-A	CBL	raw	90min	Cyt_sd	0.46139799909
+E-A	CBL	raw	90min	Cyt_delta_vs_ctrl	0.128345369066
+E-A	CBL	raw	90min	Mem_n	2
+E-A	CBL	raw	90min	Mem_mean	0.503313368182
+E-A	CBL	raw	90min	Mem_sd	0.620757596894
+E-A	CBL	raw	90min	Mem_delta_vs_ctrl	0.123311315025
+E-A	CBL	raw	90min	Nuc_n	0
+E-A	CBL	raw	90min	Nuc_mean	
+E-A	CBL	raw	90min	Nuc_sd	
+E-A	CBL	raw	90min	Nuc_delta_vs_ctrl	
+E-A	CBL	centered	CTRL	Cyt_n	4
+E-A	CBL	centered	CTRL	Cyt_mean	0.544113709201
+E-A	CBL	centered	CTRL	Cyt_sd	0.366618965516
+E-A	CBL	centered	CTRL	Cyt_delta_vs_ctrl	0
+E-A	CBL	centered	CTRL	Mem_n	4
+E-A	CBL	centered	CTRL	Mem_mean	0.455886290799
+E-A	CBL	centered	CTRL	Mem_sd	0.366618965516
+E-A	CBL	centered	CTRL	Mem_delta_vs_ctrl	0
+E-A	CBL	centered	CTRL	Nuc_n	0
+E-A	CBL	centered	CTRL	Nuc_mean	
+E-A	CBL	centered	CTRL	Nuc_sd	
+E-A	CBL	centered	CTRL	Nuc_delta_vs_ctrl	
+E-A	CBL	centered	2min	Cyt_n	4
+E-A	CBL	centered	2min	Cyt_mean	0.09028278676
+E-A	CBL	centered	2min	Cyt_sd	0.008717286402
+E-A	CBL	centered	2min	Cyt_delta_vs_ctrl	-0.453830922441
+E-A	CBL	centered	2min	Mem_n	4
+E-A	CBL	centered	2min	Mem_mean	0.667659198004
+E-A	CBL	centered	2min	Mem_sd	0.172123556495
+E-A	CBL	centered	2min	Mem_delta_vs_ctrl	0.211772907205
+E-A	CBL	centered	2min	Nuc_n	3
+E-A	CBL	centered	2min	Nuc_mean	0.322744020315
+E-A	CBL	centered	2min	Nuc_sd	0.0789056590787
+E-A	CBL	centered	2min	Nuc_delta_vs_ctrl	
+E-A	CBL	centered	8min	Cyt_n	3
+E-A	CBL	centered	8min	Cyt_mean	0.10491516502
+E-A	CBL	centered	8min	Cyt_sd	0.0716078732123
+E-A	CBL	centered	8min	Cyt_delta_vs_ctrl	-0.439198544181
+E-A	CBL	centered	8min	Mem_n	4
+E-A	CBL	centered	8min	Mem_mean	0.793093758919
+E-A	CBL	centered	8min	Mem_sd	0.133893871863
+E-A	CBL	centered	8min	Mem_delta_vs_ctrl	0.33720746812
+E-A	CBL	centered	8min	Nuc_n	3
+E-A	CBL	centered	8min	Nuc_mean	0.170959823088
+E-A	CBL	centered	8min	Nuc_sd	0.0867581770119
+E-A	CBL	centered	8min	Nuc_delta_vs_ctrl	
+E-A	CBL	centered	20min	Cyt_n	4
+E-A	CBL	centered	20min	Cyt_mean	0.0923479022223
+E-A	CBL	centered	20min	Cyt_sd	0.0855360530034
+E-A	CBL	centered	20min	Cyt_delta_vs_ctrl	-0.451765806979
+E-A	CBL	centered	20min	Mem_n	4
+E-A	CBL	centered	20min	Mem_mean	0.837866578243
+E-A	CBL	centered	20min	Mem_sd	0.0697106361304
+E-A	CBL	centered	20min	Mem_delta_vs_ctrl	0.381980287444
+E-A	CBL	centered	20min	Nuc_n	2
+E-A	CBL	centered	20min	Nuc_mean	0.13957103907
+E-A	CBL	centered	20min	Nuc_sd	0.0938065639841
+E-A	CBL	centered	20min	Nuc_delta_vs_ctrl	
+E-A	CBL	centered	90min	Cyt_n	4
+E-A	CBL	centered	90min	Cyt_mean	0.729650916927
+E-A	CBL	centered	90min	Cyt_sd	0.464188172356
+E-A	CBL	centered	90min	Cyt_delta_vs_ctrl	0.185537207726
+E-A	CBL	centered	90min	Mem_n	2
+E-A	CBL	centered	90min	Mem_mean	0.540698166146
+E-A	CBL	centered	90min	Mem_sd	0.595027286091
+E-A	CBL	centered	90min	Mem_delta_vs_ctrl	0.084811875347
+E-A	CBL	centered	90min	Nuc_n	0
+E-A	CBL	centered	90min	Nuc_mean	
+E-A	CBL	centered	90min	Nuc_sd	
+E-A	CBL	centered	90min	Nuc_delta_vs_ctrl	
+E-B	GRB2	raw	2min	n_mem_up_cyt_down	4/4
+E-B	GRB2	raw	2min	n_mem_up	4/4
+E-B	GRB2	raw	2min	n_cyt_down	4/4
+E-B	GRB2	raw	2min	denominator	4
+E-B	GRB2	raw	8min	n_mem_up_cyt_down	4/4
+E-B	GRB2	raw	8min	n_mem_up	4/4
+E-B	GRB2	raw	8min	n_cyt_down	4/4
+E-B	GRB2	raw	8min	denominator	4
+E-B	GRB2	centered	2min	n_mem_up_cyt_down	4/4
+E-B	GRB2	centered	2min	n_mem_up	4/4
+E-B	GRB2	centered	2min	n_cyt_down	4/4
+E-B	GRB2	centered	2min	denominator	4
+E-B	GRB2	centered	8min	n_mem_up_cyt_down	4/4
+E-B	GRB2	centered	8min	n_mem_up	4/4
+E-B	GRB2	centered	8min	n_cyt_down	4/4
+E-B	GRB2	centered	8min	denominator	4
+E-B	SHC1	raw	2min	n_mem_up_cyt_down	4/4
+E-B	SHC1	raw	2min	n_mem_up	4/4
+E-B	SHC1	raw	2min	n_cyt_down	4/4
+E-B	SHC1	raw	2min	denominator	4
+E-B	SHC1	raw	8min	n_mem_up_cyt_down	4/4
+E-B	SHC1	raw	8min	n_mem_up	4/4
+E-B	SHC1	raw	8min	n_cyt_down	4/4
+E-B	SHC1	raw	8min	denominator	4
+E-B	SHC1	centered	2min	n_mem_up_cyt_down	4/4
+E-B	SHC1	centered	2min	n_mem_up	4/4
+E-B	SHC1	centered	2min	n_cyt_down	4/4
+E-B	SHC1	centered	2min	denominator	4
+E-B	SHC1	centered	8min	n_mem_up_cyt_down	4/4
+E-B	SHC1	centered	8min	n_mem_up	4/4
+E-B	SHC1	centered	8min	n_cyt_down	4/4
+E-B	SHC1	centered	8min	denominator	4
+E-B	CBL	raw	2min	n_mem_up_cyt_down	3/4
+E-B	CBL	raw	2min	n_mem_up	3/4
+E-B	CBL	raw	2min	n_cyt_down	3/4
+E-B	CBL	raw	2min	denominator	4
+E-B	CBL	raw	8min	n_mem_up_cyt_down	2/3
+E-B	CBL	raw	8min	n_mem_up	2/3
+E-B	CBL	raw	8min	n_cyt_down	2/3
+E-B	CBL	raw	8min	denominator	3
+E-B	CBL	centered	2min	n_mem_up_cyt_down	3/4
+E-B	CBL	centered	2min	n_mem_up	3/4
+E-B	CBL	centered	2min	n_cyt_down	3/4
+E-B	CBL	centered	2min	denominator	4
+E-B	CBL	centered	8min	n_mem_up_cyt_down	2/3
+E-B	CBL	centered	8min	n_mem_up	2/3
+E-B	CBL	centered	8min	n_cyt_down	2/3
+E-B	CBL	centered	8min	denominator	3
+E-C	GRB2	raw	2min	MS_author	
+E-C	GRB2	raw	2min	MS_max1	
+E-C	GRB2	raw	2min	MS_max2	
+E-C	GRB2	raw	2min	MS_perrep_mean	
+E-C	GRB2	raw	2min	gt_0.1	
+E-C	GRB2	raw	8min	MS_author	0.129841257064
+E-C	GRB2	raw	8min	MS_max1	FR4
+E-C	GRB2	raw	8min	MS_max2	FR1
+E-C	GRB2	raw	8min	MS_perrep_mean	
+E-C	GRB2	raw	8min	gt_0.1	yes
+E-C	GRB2	raw	20min	MS_author	
+E-C	GRB2	raw	20min	MS_max1	
+E-C	GRB2	raw	20min	MS_max2	
+E-C	GRB2	raw	20min	MS_perrep_mean	
+E-C	GRB2	raw	20min	gt_0.1	
+E-C	GRB2	raw	90min	MS_author	
+E-C	GRB2	raw	90min	MS_max1	
+E-C	GRB2	raw	90min	MS_max2	
+E-C	GRB2	raw	90min	MS_perrep_mean	
+E-C	GRB2	raw	90min	gt_0.1	
+E-C	GRB2	centered	2min	MS_author	
+E-C	GRB2	centered	2min	MS_max1	
+E-C	GRB2	centered	2min	MS_max2	
+E-C	GRB2	centered	2min	MS_perrep_mean	
+E-C	GRB2	centered	2min	gt_0.1	
+E-C	GRB2	centered	8min	MS_author	0.128771752255
+E-C	GRB2	centered	8min	MS_max1	FR4
+E-C	GRB2	centered	8min	MS_max2	FR1
+E-C	GRB2	centered	8min	MS_perrep_mean	
+E-C	GRB2	centered	8min	gt_0.1	yes
+E-C	GRB2	centered	20min	MS_author	
+E-C	GRB2	centered	20min	MS_max1	
+E-C	GRB2	centered	20min	MS_max2	
+E-C	GRB2	centered	20min	MS_perrep_mean	
+E-C	GRB2	centered	20min	gt_0.1	
+E-C	GRB2	centered	90min	MS_author	
+E-C	GRB2	centered	90min	MS_max1	
+E-C	GRB2	centered	90min	MS_max2	
+E-C	GRB2	centered	90min	MS_perrep_mean	
+E-C	GRB2	centered	90min	gt_0.1	
+E-C	SHC1	raw	2min	MS_author	0.0980988390288
+E-C	SHC1	raw	2min	MS_max1	FR4
+E-C	SHC1	raw	2min	MS_max2	FR1
+E-C	SHC1	raw	2min	MS_perrep_mean	0.0909613401814
+E-C	SHC1	raw	2min	gt_0.1	no
+E-C	SHC1	raw	8min	MS_author	0.088291979737
+E-C	SHC1	raw	8min	MS_max1	FR4
+E-C	SHC1	raw	8min	MS_max2	FR1
+E-C	SHC1	raw	8min	MS_perrep_mean	0.052440299875
+E-C	SHC1	raw	8min	gt_0.1	no
+E-C	SHC1	raw	20min	MS_author	0.0542636460839
+E-C	SHC1	raw	20min	MS_max1	FR4
+E-C	SHC1	raw	20min	MS_max2	FR5
+E-C	SHC1	raw	20min	MS_perrep_mean	0.0469124794316
+E-C	SHC1	raw	20min	gt_0.1	no
+E-C	SHC1	raw	90min	MS_author	0.0288374942181
+E-C	SHC1	raw	90min	MS_max1	FR5
+E-C	SHC1	raw	90min	MS_max2	FR4
+E-C	SHC1	raw	90min	MS_perrep_mean	
+E-C	SHC1	raw	90min	gt_0.1	no
+E-C	SHC1	centered	2min	MS_author	0.101262434532
+E-C	SHC1	centered	2min	MS_max1	FR4
+E-C	SHC1	centered	2min	MS_max2	FR1
+E-C	SHC1	centered	2min	MS_perrep_mean	0.0750489455441
+E-C	SHC1	centered	2min	gt_0.1	yes
+E-C	SHC1	centered	8min	MS_author	0.095128905134
+E-C	SHC1	centered	8min	MS_max1	FR4
+E-C	SHC1	centered	8min	MS_max2	FR1
+E-C	SHC1	centered	8min	MS_perrep_mean	0.0659332535894
+E-C	SHC1	centered	8min	gt_0.1	no
+E-C	SHC1	centered	20min	MS_author	0.0679162024399
+E-C	SHC1	centered	20min	MS_max1	FR4
+E-C	SHC1	centered	20min	MS_max2	FR6
+E-C	SHC1	centered	20min	MS_perrep_mean	0.0388922536531
+E-C	SHC1	centered	20min	gt_0.1	no
+E-C	SHC1	centered	90min	MS_author	0.0370598532497
+E-C	SHC1	centered	90min	MS_max1	FR5
+E-C	SHC1	centered	90min	MS_max2	FR4
+E-C	SHC1	centered	90min	MS_perrep_mean	
+E-C	SHC1	centered	90min	gt_0.1	no
+E-C	CBL	raw	2min	MS_author	
+E-C	CBL	raw	2min	MS_max1	
+E-C	CBL	raw	2min	MS_max2	
+E-C	CBL	raw	2min	MS_perrep_mean	
+E-C	CBL	raw	2min	gt_0.1	
+E-C	CBL	raw	8min	MS_author	
+E-C	CBL	raw	8min	MS_max1	
+E-C	CBL	raw	8min	MS_max2	
+E-C	CBL	raw	8min	MS_perrep_mean	
+E-C	CBL	raw	8min	gt_0.1	
+E-C	CBL	raw	20min	MS_author	
+E-C	CBL	raw	20min	MS_max1	
+E-C	CBL	raw	20min	MS_max2	
+E-C	CBL	raw	20min	MS_perrep_mean	
+E-C	CBL	raw	20min	gt_0.1	
+E-C	CBL	raw	90min	MS_author	
+E-C	CBL	raw	90min	MS_max1	
+E-C	CBL	raw	90min	MS_max2	
+E-C	CBL	raw	90min	MS_perrep_mean	
+E-C	CBL	raw	90min	gt_0.1	
+E-C	CBL	centered	2min	MS_author	
+E-C	CBL	centered	2min	MS_max1	
+E-C	CBL	centered	2min	MS_max2	
+E-C	CBL	centered	2min	MS_perrep_mean	
+E-C	CBL	centered	2min	gt_0.1	
+E-C	CBL	centered	8min	MS_author	
+E-C	CBL	centered	8min	MS_max1	
+E-C	CBL	centered	8min	MS_max2	
+E-C	CBL	centered	8min	MS_perrep_mean	
+E-C	CBL	centered	8min	gt_0.1	
+E-C	CBL	centered	20min	MS_author	
+E-C	CBL	centered	20min	MS_max1	
+E-C	CBL	centered	20min	MS_max2	
+E-C	CBL	centered	20min	MS_perrep_mean	
+E-C	CBL	centered	20min	gt_0.1	
+E-C	CBL	centered	90min	MS_author	
+E-C	CBL	centered	90min	MS_max1	
+E-C	CBL	centered	90min	MS_max2	
+E-C	CBL	centered	90min	MS_perrep_mean	
+E-C	CBL	centered	90min	gt_0.1	
+E-D	GRB2	raw	2min	mem_mean_tp	0.636809077226
+E-D	GRB2	raw	2min	mem_mean_ctrl	0.187239514715
+E-D	GRB2	raw	2min	t	6.45282050567
+E-D	GRB2	raw	2min	p_welch	0.00116093396966
+E-D	GRB2	raw	2min	n_tp	4
+E-D	GRB2	raw	2min	n_ctrl	4
+E-D	GRB2	raw	8min	mem_mean_tp	0.620793726675
+E-D	GRB2	raw	8min	mem_mean_ctrl	0.187239514715
+E-D	GRB2	raw	8min	t	6.02216536004
+E-D	GRB2	raw	8min	p_welch	0.00131493772698
+E-D	GRB2	raw	8min	n_tp	4
+E-D	GRB2	raw	8min	n_ctrl	4
+E-D	GRB2	raw	20min	mem_mean_tp	0.50853755266
+E-D	GRB2	raw	20min	mem_mean_ctrl	0.187239514715
+E-D	GRB2	raw	20min	t	4.72347358093
+E-D	GRB2	raw	20min	p_welch	0.0054150801047
+E-D	GRB2	raw	20min	n_tp	4
+E-D	GRB2	raw	20min	n_ctrl	4
+E-D	GRB2	raw	90min	mem_mean_tp	0.318139287612
+E-D	GRB2	raw	90min	mem_mean_ctrl	0.187239514715
+E-D	GRB2	raw	90min	t	2.15290590288
+E-D	GRB2	raw	90min	p_welch	0.106603477014
+E-D	GRB2	raw	90min	n_tp	4
+E-D	GRB2	raw	90min	n_ctrl	4
+E-D	GRB2	centered	2min	mem_mean_tp	0.685182072684
+E-D	GRB2	centered	2min	mem_mean_ctrl	0.24159581555
+E-D	GRB2	centered	2min	t	7.29855878877
+E-D	GRB2	centered	2min	p_welch	0.00037659055725
+E-D	GRB2	centered	2min	n_tp	4
+E-D	GRB2	centered	2min	n_ctrl	4
+E-D	GRB2	centered	8min	mem_mean_tp	0.657207716576
+E-D	GRB2	centered	8min	mem_mean_ctrl	0.24159581555
+E-D	GRB2	centered	8min	t	7.20450422188
+E-D	GRB2	centered	8min	p_welch	0.000510918266022
+E-D	GRB2	centered	8min	n_tp	4
+E-D	GRB2	centered	8min	n_ctrl	4
+E-D	GRB2	centered	20min	mem_mean_tp	0.588422492116
+E-D	GRB2	centered	20min	mem_mean_ctrl	0.24159581555
+E-D	GRB2	centered	20min	t	6.34854368056
+E-D	GRB2	centered	20min	p_welch	0.00137034389053
+E-D	GRB2	centered	20min	n_tp	4
+E-D	GRB2	centered	20min	n_ctrl	4
+E-D	GRB2	centered	90min	mem_mean_tp	0.384117680326
+E-D	GRB2	centered	90min	mem_mean_ctrl	0.24159581555
+E-D	GRB2	centered	90min	t	2.83723702501
+E-D	GRB2	centered	90min	p_welch	0.0462627062552
+E-D	GRB2	centered	90min	n_tp	4
+E-D	GRB2	centered	90min	n_ctrl	4
+E-D	SHC1	raw	2min	mem_mean_tp	0.465533745043
+E-D	SHC1	raw	2min	mem_mean_ctrl	0.217726151689
+E-D	SHC1	raw	2min	t	5.46918358487
+E-D	SHC1	raw	2min	p_welch	0.00423989641516
+E-D	SHC1	raw	2min	n_tp	4
+E-D	SHC1	raw	2min	n_ctrl	4
+E-D	SHC1	raw	8min	mem_mean_tp	0.431644314308
+E-D	SHC1	raw	8min	mem_mean_ctrl	0.217726151689
+E-D	SHC1	raw	8min	t	4.37826989348
+E-D	SHC1	raw	8min	p_welch	0.00650877380117
+E-D	SHC1	raw	8min	n_tp	4
+E-D	SHC1	raw	8min	n_ctrl	4
+E-D	SHC1	raw	20min	mem_mean_tp	0.298877169072
+E-D	SHC1	raw	20min	mem_mean_ctrl	0.217726151689
+E-D	SHC1	raw	20min	t	1.59857436627
+E-D	SHC1	raw	20min	p_welch	0.165066054986
+E-D	SHC1	raw	20min	n_tp	4
+E-D	SHC1	raw	20min	n_ctrl	4
+E-D	SHC1	raw	90min	mem_mean_tp	0.274543711172
+E-D	SHC1	raw	90min	mem_mean_ctrl	0.217726151689
+E-D	SHC1	raw	90min	t	1.3148537281
+E-D	SHC1	raw	90min	p_welch	0.263265218306
+E-D	SHC1	raw	90min	n_tp	4
+E-D	SHC1	raw	90min	n_ctrl	4
+E-D	SHC1	centered	2min	mem_mean_tp	0.502310670088
+E-D	SHC1	centered	2min	mem_mean_ctrl	0.263380935937
+E-D	SHC1	centered	2min	t	5.2881169441
+E-D	SHC1	centered	2min	p_welch	0.00621769842743
+E-D	SHC1	centered	2min	n_tp	4
+E-D	SHC1	centered	2min	n_ctrl	4
+E-D	SHC1	centered	8min	mem_mean_tp	0.474745735427
+E-D	SHC1	centered	8min	mem_mean_ctrl	0.263380935937
+E-D	SHC1	centered	8min	t	4.52562386981
+E-D	SHC1	centered	8min	p_welch	0.00847810970785
+E-D	SHC1	centered	8min	n_tp	4
+E-D	SHC1	centered	8min	n_ctrl	4
+E-D	SHC1	centered	20min	mem_mean_tp	0.347062692003
+E-D	SHC1	centered	20min	mem_mean_ctrl	0.263380935937
+E-D	SHC1	centered	20min	t	1.59007466728
+E-D	SHC1	centered	20min	p_welch	0.166291017825
+E-D	SHC1	centered	20min	n_tp	4
+E-D	SHC1	centered	20min	n_ctrl	4
+E-D	SHC1	centered	90min	mem_mean_tp	0.324028857263
+E-D	SHC1	centered	90min	mem_mean_ctrl	0.263380935937
+E-D	SHC1	centered	90min	t	1.34252471899
+E-D	SHC1	centered	90min	p_welch	0.25090327549
+E-D	SHC1	centered	90min	n_tp	4
+E-D	SHC1	centered	90min	n_ctrl	4
+E-D	CBL	raw	2min	mem_mean_tp	0.698309880366
+E-D	CBL	raw	2min	mem_mean_ctrl	0.380002053157
+E-D	CBL	raw	2min	t	1.48248387573
+E-D	CBL	raw	2min	p_welch	0.22224000684
+E-D	CBL	raw	2min	n_tp	4
+E-D	CBL	raw	2min	n_ctrl	4
+E-D	CBL	raw	8min	mem_mean_tp	0.79609264119
+E-D	CBL	raw	8min	mem_mean_ctrl	0.380002053157
+E-D	CBL	raw	8min	t	1.94808669604
+E-D	CBL	raw	8min	p_welch	0.134984688924
+E-D	CBL	raw	8min	n_tp	4
+E-D	CBL	raw	8min	n_ctrl	4
+E-D	CBL	raw	20min	mem_mean_tp	0.799258164914
+E-D	CBL	raw	20min	mem_mean_ctrl	0.380002053157
+E-D	CBL	raw	20min	t	1.98957495557
+E-D	CBL	raw	20min	p_welch	0.133434716515
+E-D	CBL	raw	20min	n_tp	4
+E-D	CBL	raw	20min	n_ctrl	4
+E-D	CBL	raw	90min	mem_mean_tp	0.503313368182
+E-D	CBL	raw	90min	mem_mean_ctrl	0.380002053157
+E-D	CBL	raw	90min	t	0.254243646529
+E-D	CBL	raw	90min	p_welch	0.830341650602
+E-D	CBL	raw	90min	n_tp	2
+E-D	CBL	raw	90min	n_ctrl	4
+E-D	CBL	centered	2min	mem_mean_tp	0.667659198004
+E-D	CBL	centered	2min	mem_mean_ctrl	0.455886290799
+E-D	CBL	centered	2min	t	1.04575711832
+E-D	CBL	centered	2min	p_welch	0.351326482766
+E-D	CBL	centered	2min	n_tp	4
+E-D	CBL	centered	2min	n_ctrl	4
+E-D	CBL	centered	8min	mem_mean_tp	0.793093758919
+E-D	CBL	centered	8min	mem_mean_ctrl	0.455886290799
+E-D	CBL	centered	8min	t	1.72792318144
+E-D	CBL	centered	8min	p_welch	0.163096991151
+E-D	CBL	centered	8min	n_tp	4
+E-D	CBL	centered	8min	n_ctrl	4
+E-D	CBL	centered	20min	mem_mean_tp	0.837866578243
+E-D	CBL	centered	20min	mem_mean_ctrl	0.455886290799
+E-D	CBL	centered	20min	t	2.04712168124
+E-D	CBL	centered	20min	p_welch	0.126967857263
+E-D	CBL	centered	20min	n_tp	4
+E-D	CBL	centered	20min	n_ctrl	4
+E-D	CBL	centered	90min	mem_mean_tp	0.540698166146
+E-D	CBL	centered	90min	mem_mean_ctrl	0.455886290799
+E-D	CBL	centered	90min	t	0.184797212643
+E-D	CBL	centered	90min	p_welch	0.876556051448
+E-D	CBL	centered	90min	n_tp	2
+E-D	CBL	centered	90min	n_ctrl	4

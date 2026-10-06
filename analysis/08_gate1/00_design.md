@@ -36,12 +36,12 @@
 - 一个基因对应多个 `protein_group`：全部保留；`primary` = 出现 run 数最多的 group（并列取 `protein_group` 字符串排序第一，并记录并列）；其余为 `secondary`，写附表。
 - run 解析：`timepoint ∈ {CTRL,2min,8min,20min,90min}`，`fraction ∈ FR1..FR6`，`rep ∈ Rep1..Rep4`；期望 120 个 proteome run；解析失败的 run 计数并列出。
 - `quantity` 转 float；空串/非数视为缺失。
-- 两版归一化：`raw` = quantity；`centered` = quantity × 2^a（a 取 `01_run_factors.tsv` 中 layer=proteome、同 run 的 `a`；等价于 quantity / 2^(m_07 − anchor)，anchor 为常数）。run 名匹配用 (timepoint, fraction, rep) 三元组。
+- 两版归一化（2026-10-06 确认）：`raw` = quantity；`centered` = quantity × 2^a（a 取 `01_run_factors.tsv` 中 layer=proteome、同 run 的 `a`；等价于 quantity / 2^(m_07 − anchor)，anchor 为常数）。run 名匹配用 (timepoint, fraction, rep) 三元组。
 - 份额：对每个 (gene, protein_group, timepoint, rep)：`n_fractions_present` = 6 个 fraction 中有值的个数；`share_f = q_f / Σ_{present} q_f`；`Cyt = share_FR1 + share_FR2`、`Mem = share_FR3 + share_FR4`、`Nuc = share_FR5 + share_FR6`；某区室两个 fraction 都缺 → 该区室格留空；`n_fractions_present < 6` 的行在 md 单列"缺 fraction 清单"（gene, tp, rep, 缺哪些）；不填补。
 - 区室均值/标准差：按 timepoint 对 4 个重复的份额取 `mean`、`sd(ddof=1)`，n 不足 4 时如实写 n。
 - Δ份额 = `mean_tp − mean_CTRL`。
 - 方向计数（2min、8min 各一次）：按 rep 编号配对，`Mem_tp,r − Mem_CTRL,r > 0` 且 `Cyt_tp,r − Cyt_CTRL,r < 0` 的 rep 数，写成 `n/4`（分母 = 两边都有份额的 rep 数，若不足 4 写实际分母并注明）；另报"仅 Mem 上升"、"仅 Cyt 下降"的 n/4。
-- Movement Score（作者定义，§1）：对每个 timepoint：fraction 均值 `m_f,tp = mean over reps of q_f`（线性值；缺失的 rep 不计入均值，与作者在填补后无缺失的前提不同，需在 md 注明）；`s_f,tp = m_f,tp / Σ_f m_f,tp`；`MS_tp = mean_f |s_f,tp − s_f,CTRL|`；同时报 `MS_max1`、`MS_max2`（fraction 编号）。阈值 0.1（:181）。raw、centered 各算。另加一个对照列 `MS_perrep_mean`：按 rep 配对算 `mean_f |s_f,tp,r − s_f,CTRL,r|` 再对 rep 取均值（非作者定义，仅对照）。
+- Movement Score（作者定义，§1）：对每个 timepoint：fraction 均值 `m_f,tp = mean over reps of q_f`（线性值；缺失的 rep 不计入均值，与作者在填补后无缺失的前提不同，需在 md 注明）；`s_f,tp = m_f,tp / Σ_f m_f,tp`；`MS_tp = mean_f |s_f,tp − s_f,CTRL|`；同时报 `MS_max1`、`MS_max2`（fraction 编号）。阈值按作者 :181 的严格 `> 0.1`（2026-10-06 确认；原稿 ≥ 0.1 作废）。raw、centered 各算。另加一个对照列 `MS_perrep_mean`：按 rep 配对算 `mean_f |s_f,tp,r − s_f,CTRL,r|` 再对 rep 取均值（非作者定义，仅对照）。
 - t 检验：Mem 份额 tp 组（4 个 rep）vs CTRL 组（4 个 rep），`scipy.stats.ttest_ind(equal_var=False)`（Welch），双侧；表中注明 n = 4 / 4，只作参考。
 
 ---
@@ -57,7 +57,7 @@
 - 对 GRB2、SHC1、CBL（primary group）、两版归一化：
   - 表 E-A：`gene, normalization, timepoint, compartment, n, mean, sd, delta_vs_ctrl`（3×2×5×3 = 90 行）。
   - 表 E-B：`gene, normalization, timepoint(2min|8min), n_mem_up_cyt_down, n_mem_up, n_cyt_down, denominator`（3×2×2 = 12 行；格式 `n/4`）。
-  - 表 E-C：`gene, normalization, timepoint, MS_author, MS_max1, MS_max2, MS_perrep_mean, ge_0.1(yes/no)`（3×2×4 = 24 行，timepoint ∈ EGF 四个）。
+  - 表 E-C：`gene, normalization, timepoint, MS_author, MS_max1, MS_max2, MS_perrep_mean, gt_0.1(yes/no)`（3×2×4 = 24 行，timepoint ∈ EGF 四个）。
   - 表 E-D：`gene, normalization, timepoint, mem_mean_tp, mem_mean_ctrl, t, p_welch, n_tp, n_ctrl`（24 行）。
 - `02_events.tsv`：长格式 `table, gene, normalization, timepoint, key, value`，涵盖 E-A..E-D 全部数值。
 - `02_events.png`：2 行（raw / centered）× 9 列（GRB2-Cyt, GRB2-Mem, GRB2-Nuc, SHC1-…, CBL-…），横轴 CTRL,2min,8min,20min,90min 等距，纵轴份额（0–1），每子图 4 条重复线；画图前调用 `dataviz` skill；dpi ≥ 150。0 行输入时仍出图框，子图内写"no data"。

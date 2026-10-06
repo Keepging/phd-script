@@ -1,1 +1,5 @@
 gene	protein_group	genes_raw	n_runs_detected	is_primary
+GRB2	P62993	GRB2	90	yes
+SHC1	P29353	SHC1	115	yes
+CBL	P22681	CBL	59	yes
+EGFR	P00533	EGFR	80	yes
