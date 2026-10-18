@@ -1,0 +1,1308 @@
+A1X283->Enhance	PTMint:Interactions	Q86UR1_Y110-Phosphorylation
+A8K8P3->Inhibit	PTMint:Interactions	"Q12798_T138-Phosphorylation	Q12798_S170-Phosphorylation"
+A8MW92->Enhance	PTMint:Interactions	"P26358_K142-Methylation	P06400_K810-Methylation	P06400_K810-Methylation"
+O00151->Inhibit	PTMint:Interactions	P08138_S425-Phosphorylation
+O00213->Enhance	PTMint:Interactions	Q07954_Y4507-Phosphorylation
+O00254->Enhance	PTMint:Interactions	O95863_S249-Phosphorylation
+O00268->Enhance	PTMint:Interactions	"P62805_K6-Acetylation	P62805_K9-Acetylation	P62805_K13-Acetylation	P62805_K17-Acetylation"
+O00308->Enhance	PTMint:Interactions	O15105_S206-Phosphorylation
+O00308->Inhibit	PTMint:Interactions	P60484_Y155-Phosphorylation
+O00311->Enhance	PTMint:Interactions	P00558_S256-Phosphorylation
+O00401->Enhance	PTMint:Interactions	"Q14247_S405-Phosphorylation	Q14247_S418-Phosphorylation"
+O00410->Inhibit	PTMint:Interactions	P30307_T236-Phosphorylation
+O00429->Enhance	PTMint:Interactions	"Q13158_K120-Sumoylation	Q13158_K125-Sumoylation	Q13158_K149-Sumoylation"
+O00443->Enhance	PTMint:Interactions	"P40198_Y230-Phosphorylation	P10721_Y900-Phosphorylation"
+O00443->Inhibit	PTMint:Interactions	P35568_S24-Phosphorylation
+O00459->Enhance	PTMint:Interactions	"P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P21860_Y1054-Phosphorylation	P21860_Y1054-Phosphorylation	P21860_Y1197-Phosphorylation	P21860_Y1197-Phosphorylation	P21860_Y1222-Phosphorylation	P21860_Y1222-Phosphorylation	P21860_Y1260-Phosphorylation	P21860_Y1260-Phosphorylation	P21860_Y1276-Phosphorylation	P21860_Y1276-Phosphorylation	P21860_Y1289-Phosphorylation	P21860_Y1289-Phosphorylation	Q15303_Y1056-Phosphorylation	Q15303_Y1056-Phosphorylation	Q05397_Y397-Phosphorylation"
+O00505->Inhibit	PTMint:Interactions	"Q96RK0_S1389-Phosphorylation	Q96RK0_S1409-Phosphorylation"
+O00555->Enhance	PTMint:Interactions	Q86UR5_K488-Sumoylation
+O00560->Inhibit	PTMint:Interactions	P18827_Y309-Phosphorylation
+O00629->Inhibit	PTMint:Interactions	"O95831_T281-Phosphorylation	O60356_T68-Phosphorylation	P18754_S11-Phosphorylation	P18754_S20-Phosphorylation	P18754_S26-Phosphorylation	P18754_S29-Phosphorylation	P18754_T32-Phosphorylation	P04637_K319-Ubiquitination	P04637_K320-Ubiquitination	P04637_K321-Ubiquitination"
+O14492->Enhance	PTMint:Interactions	"O60674_Y813-Phosphorylation	O60674_Y813-Phosphorylation	O60674_Y813-Phosphorylation	P10721_Y568-Phosphorylation	P10721_Y936-Phosphorylation"
+O14508->Enhance	PTMint:Interactions	Q14289_Y402-Phosphorylation
+O14543->Enhance	PTMint:Interactions	"P40189_Y759-Phosphorylation	P40189_Y759-Phosphorylation	P40189_Y759-Phosphorylation	P40189_Y759-Phosphorylation"
+O14558->Enhance	PTMint:Interactions	P63104_S184-Phosphorylation
+O14558->Inhibit	PTMint:Interactions	"P63104_S58-Phosphorylation	P63104_T232-Phosphorylation"
+O14618->Inhibit	PTMint:Interactions	P00441_K71-Acetylation
+O14640->Inhibit	PTMint:Interactions	Q9P219_Y2025-Phosphorylation
+O14641->Inhibit	PTMint:Interactions	Q14134_S550-Phosphorylation
+O14646->Enhance	PTMint:Interactions	O60341_K114-Methylation
+O14654->Enhance	PTMint:Interactions	Q12929_Y252-Phosphorylation
+O14733->Inhibit	PTMint:Interactions	P45983_K68-Ubiquitination
+O14745->Enhance	PTMint:Interactions	"O43865_S68-Phosphorylation	Q9UBN4_Y959-Phosphorylation	Q9UBN4_Y972-Phosphorylation"
+O14745->Inhibit	PTMint:Interactions	"P07550_S411-Phosphorylation	P09619_S1104-Phosphorylation"
+O14757->Enhance	PTMint:Interactions	"Q9HAW4_T916-Phosphorylation	Q9HAW4_S945-Phosphorylation"
+O14777->Enhance	PTMint:Interactions	"Q8IX90_T358-Phosphorylation	Q8IX90_T360-Phosphorylation"
+O14802->Enhance	PTMint:Interactions	Q9H063_K35-Sumoylation
+O14893->Inhibit	PTMint:Interactions	Q16637_S187-Phosphorylation
+O14908->Enhance	PTMint:Interactions	P11166_S490-Phosphorylation
+O14920->Enhance	PTMint:Interactions	"P00367_S384-Phosphorylation	Q9Y5X2_Y95-Phosphorylation	Q9Y5X2_Y126-Phosphorylation	Q12933_S11-Phosphorylation"
+O14920->Inhibit	PTMint:Interactions	"Q9Y6K9_S68-Phosphorylation	Q8N3F0_S58-Phosphorylation"
+O14964->Enhance	PTMint:Interactions	Q16625_S490-Phosphorylation
+O14964->Inhibit	PTMint:Interactions	P35240_S518-Phosphorylation
+O14965->Enhance	PTMint:Interactions	"P19419_S383-Phosphorylation	P01106_T58-Phosphorylation	P01106_S62-Phosphorylation	P53350_Y425-Phosphorylation"
+O14980->Enhance	PTMint:Interactions	"P46527_S10-Phosphorylation	P33076_S288-Phosphorylation	P48552_R239-Methylation	P48552_R649-Methylation	P48552_R947-Methylation	P04637_T55-Phosphorylation"
+O14980->Inhibit	PTMint:Interactions	"O15392_K129-Acetylation	P42858_S13-Phosphorylation	P42858_S16-Phosphorylation	Q9BZL6_S244-Phosphorylation	Q9BZL6_S706-Phosphorylation	Q9BZL6_S710-Phosphorylation	Q9Y5T5_S552-Phosphorylation"
+O14983->Inhibit	PTMint:Interactions	"P26678_S16-Phosphorylation	P26678_T17-Phosphorylation"
+O15111->Inhibit	PTMint:Interactions	Q8N3F0_S58-Phosphorylation
+O15131->Enhance	PTMint:Interactions	O14746_S227-Phosphorylation
+O15144->Enhance	PTMint:Interactions	"P14317_Y222-Phosphorylation	P14317_Y378-Phosphorylation	P14317_Y397-Phosphorylation"
+O15144->Inhibit	PTMint:Interactions	"Q9BR76_S2-Phosphorylation	Q9BR76_S2-Phosphorylation	Q9BR76_S2-Phosphorylation	Q9BR76_S2-Phosphorylation"
+O15145->Inhibit	PTMint:Interactions	O60234_Y104-Phosphorylation
+O15169->Enhance	PTMint:Interactions	"O75581_S1490-Phosphorylation	P01106_S62-Phosphorylation	P46937_K494-Methylation"
+O15169->Inhibit	PTMint:Interactions	"P35222_Y86-Phosphorylation	P35222_Y86-Phosphorylation	P35222_Y86-Phosphorylation	P35222_Y86-Phosphorylation	P35222_Y86-Phosphorylation	P35222_T393-Phosphorylation	P35222_T393-Phosphorylation	P35222_T393-Phosphorylation	P35222_T393-Phosphorylation	P35222_T393-Phosphorylation	P35222_Y654-Phosphorylation	P35222_Y654-Phosphorylation	P35222_Y654-Phosphorylation	P35222_Y654-Phosphorylation	P35222_Y654-Phosphorylation	O75581_S1420-Phosphorylation	O75581_S1431-Phosphorylation"
+O15350->Enhance	PTMint:Interactions	Q9NZC7_Y33-Phosphorylation
+O15350->Inhibit	PTMint:Interactions	"P15559_S82-Phosphorylation	P46937_S127-Phosphorylation"
+O15357->Enhance	PTMint:Interactions	"P46108_Y251-Phosphorylation	P29317_Y921-Phosphorylation	P29317_Y930-Phosphorylation	P29317_Y960-Phosphorylation"
+O15379->Enhance	PTMint:Interactions	"P15976_S161-Phosphorylation	P15976_S187-Phosphorylation	Q9UQL6_S278-Phosphorylation	Q9UQL6_S279-Phosphorylation	Q15424_K231-Sumoylation	Q15424_K294-Sumoylation"
+O15379->Inhibit	PTMint:Interactions	"P78347_K221-Sumoylation	P78347_K240-Sumoylation	Q9UQL6_S259-Phosphorylation	Q9UQL6_S498-Phosphorylation	Q92786_K353-Sumoylation	Q92786_K556-Sumoylation"
+O15392->Enhance	PTMint:Interactions	"O15392_K129-Acetylation	O15392_K129-Acetylation	O15392_K129-Acetylation	O15392_K129-Acetylation	O15392_K129-Acetylation	O15392_K129-Acetylation	P68431_T4-Phosphorylation	P68431_T4-Phosphorylation"
+O15524->Enhance	PTMint:Interactions	"O60674_Y1007-Phosphorylation	O60674_Y1007-Phosphorylation	O60674_Y1007-Phosphorylation	O60674_Y1007-Phosphorylation	Q99683_Y718-Phosphorylation	O15524_Y80-Phosphorylation	O15524_Y80-Phosphorylation	O15524_Y80-Phosphorylation"
+O15530->Enhance	PTMint:Interactions	"Q96BR1_S486-Phosphorylation	Q96BR1_S486-Phosphorylation"
+O15530->Inhibit	PTMint:Interactions	"O15530_T513-Phosphorylation	O15530_T513-Phosphorylation"
+O43189->Enhance	PTMint:Interactions	P68431_K37-Methylation
+O43264->Enhance	PTMint:Interactions	"Q9Y6D9_S546-Phosphorylation	O95229_S250-Phosphorylation	O95229_T251-Phosphorylation	O95229_S262-Phosphorylation"
+O43310->Enhance	PTMint:Interactions	Q13263_S473-Phosphorylation
+O43318->Enhance	PTMint:Interactions	"Q13546_K377-Ubiquitination	O43353_K209-Ubiquitination"
+O43324->Inhibit	PTMint:Interactions	P56192_S662-Phosphorylation
+O43463->Enhance	PTMint:Interactions	Q13263_S473-Phosphorylation
+O43474->Inhibit	PTMint:Interactions	Q92769_S424-Phosphorylation
+O43482->Inhibit	PTMint:Interactions	"Q8NCD3_S412-Phosphorylation	Q8NCD3_S448-Phosphorylation	Q8NCD3_S473-Phosphorylation"
+O43516->Inhibit	PTMint:Interactions	P42768_Y102-Phosphorylation
+O43521->Enhance	PTMint:Interactions	"Q07820_S64-Phosphorylation	Q07820_S64-Phosphorylation"
+O43521->Inhibit	PTMint:Interactions	"P63167_S88-Phosphorylation	P63167_S88-Phosphorylation"
+O43524->Enhance	PTMint:Interactions	"Q9BXW9_K561-Ubiquitination	Q92769_S394-Phosphorylation	Q13043_Y433-Phosphorylation"
+O43542->Enhance	PTMint:Interactions	O15287_S7-Phosphorylation
+O43623->Enhance	PTMint:Interactions	Q04917_S25-Phosphorylation
+O43639->Enhance	PTMint:Interactions	"Q15303_Y1268-Phosphorylation	O15117_Y595-Phosphorylation	O15117_Y651-Phosphorylation"
+O43663->Enhance	PTMint:Interactions	"O43663_T470-Phosphorylation	O95425_S238-Phosphorylation"
+O43684->Enhance	PTMint:Interactions	O15350_Y99-Phosphorylation
+O43684->Inhibit	PTMint:Interactions	Q9NPF5_Y246-Phosphorylation
+O43747->Inhibit	PTMint:Interactions	P49810_S19-Phosphorylation
+O43791->Enhance	PTMint:Interactions	"Q9Y6Q9_S101-Phosphorylation	Q9Y6Q9_S102-Phosphorylation"
+O43791->Inhibit	PTMint:Interactions	Q9H9S0_S68-Phosphorylation
+O60341->Enhance	PTMint:Interactions	Q99684_K8-Methylation
+O60341->Inhibit	PTMint:Interactions	"P17542_S172-Phosphorylation	Q9UBW7_S303-Phosphorylation	Q9UBW7_S305-Phosphorylation	Q9UBW7_S309-Phosphorylation"
+O60346->Inhibit	PTMint:Interactions	"Q13451_K28-Acetylation	Q13451_K155-Acetylation"
+O60496->Enhance	PTMint:Interactions	Q8TD46_Y302-Phosphorylation
+O60500->Inhibit	PTMint:Interactions	Q96B97_K598-Sumoylation
+O60506->Enhance	PTMint:Interactions	"P07814_S886-Phosphorylation	P07814_S886-Phosphorylation"
+O60566->Inhibit	PTMint:Interactions	"P53350_K492-Ubiquitination	P33981_K71-Sumoylation	P33981_K287-Sumoylation	P33981_K367-Sumoylation	P33981_K472-Sumoylation"
+O60674->Enhance	PTMint:Interactions	"P46527_T157-Phosphorylation	P46527_T198-Phosphorylation"
+O60674->Inhibit	PTMint:Interactions	P67775_Y307-Phosphorylation
+O60716->Inhibit	PTMint:Interactions	"P33151_Y658-Phosphorylation	P33151_Y658-Phosphorylation	P33151_Y658-Phosphorylation	P33151_Y658-Phosphorylation	P33151_Y658-Phosphorylation	P33151_Y658-Phosphorylation"
+O60749->Inhibit	PTMint:Interactions	Q9Y5X3_S226-Phosphorylation
+O60880->Enhance	PTMint:Interactions	Q99704_Y449-Phosphorylation
+O60885->Enhance	PTMint:Interactions	"O60563_K380-Acetylation	O60563_K386-Acetylation	O60563_K390-Acetylation	O60563_K390-Acetylation	O60563_K404-Acetylation	P50750_S175-Phosphorylation	P68431_K28-Acetylation	P62805_K6-Acetylation	P62805_K17-Acetylation	Q04206_K310-Acetylation	Q04206_K310-Acetylation	Q04206_K310-Acetylation"
+O60885->Inhibit	PTMint:Interactions	"Q96QE3_S653-Phosphorylation	P50750_T186-Phosphorylation"
+O60907->Enhance	PTMint:Interactions	"Q9UQL6_S278-Phosphorylation	Q9UQL6_S279-Phosphorylation"
+O60907->Inhibit	PTMint:Interactions	"Q9UQL6_S259-Phosphorylation	Q9UQL6_S498-Phosphorylation"
+O60934->Enhance	PTMint:Interactions	"P63167_S88-Phosphorylation	Q09472_S106-Phosphorylation	P16104_S140-Phosphorylation	P33778_K121-Ubiquitination	P68431_K37-Methylation	Q06609_T13-Phosphorylation	Q13428_T210-Phosphorylation	O94874_S462-Phosphorylation"
+O75116->Enhance	PTMint:Interactions	"P10916_Y118-Phosphorylation	P06748_T234-Phosphorylation	P06748_T237-Phosphorylation"
+O75131->Enhance	PTMint:Interactions	P04626_Y1248-Phosphorylation
+O75143->Inhibit	PTMint:Interactions	"Q96F24_S113-Phosphorylation	Q96F24_S120-Phosphorylation	O75385_S469-Phosphorylation	O75385_S495-Phosphorylation	O75385_S533-Phosphorylation"
+O75151->Enhance	PTMint:Interactions	P68431_K5-Methylation
+O75164->Enhance	PTMint:Interactions	"P62805_K21-Methylation	P62805_K21-Methylation"
+O75376->Enhance	PTMint:Interactions	"Q9UQL6_S259-Phosphorylation	Q9UQL6_S498-Phosphorylation	O75469_S208-Phosphorylation	O75469_S221-Phosphorylation	O75469_S305-Phosphorylation	Q07869_K185-Sumoylation	P10276_S77-Phosphorylation	O60907_K560-Sumoylation	O95365_K61-Sumoylation"
+O75376->Inhibit	PTMint:Interactions	"P10275_K631-Acetylation	Q9UQL6_S278-Phosphorylation	Q9UQL6_S279-Phosphorylation	O75469_S350-Phosphorylation	O75469_T408-Phosphorylation"
+O75381->Enhance	PTMint:Interactions	O75381_S232-Phosphorylation
+O75385->Inhibit	PTMint:Interactions	"Q96F24_S113-Phosphorylation	Q96F24_S120-Phosphorylation"
+O75419->Inhibit	PTMint:Interactions	P68431_K5-Methylation
+O75460->Enhance	PTMint:Interactions	P07237_S357-Phosphorylation
+O75469->Enhance	PTMint:Interactions	"P08238_S226-Phosphorylation	P08238_S255-Phosphorylation"
+O75531->Inhibit	PTMint:Interactions	"O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	O75531_S4-Phosphorylation	P50402_S175-Phosphorylation	Q9Y2U8_S402-Phosphorylation"
+O75553->Inhibit	PTMint:Interactions	Q96B97_S587-Phosphorylation
+O75569->Enhance	PTMint:Interactions	"O75569_S246-Phosphorylation	O75569_S287-Phosphorylation	O75569_S287-Phosphorylation"
+O75581->Inhibit	PTMint:Interactions	P35240_S518-Phosphorylation
+O75791->Enhance	PTMint:Interactions	P30203_Y629-Phosphorylation
+O75822->Enhance	PTMint:Interactions	P23588_S422-Phosphorylation
+O75874->Enhance	PTMint:Interactions	"O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation	O75874_Y42-Phosphorylation"
+O75925->Enhance	PTMint:Interactions	P42224_Y701-Phosphorylation
+O75925->Inhibit	PTMint:Interactions	"Q01826_T188-Phosphorylation	P42224_R31-Methylation"
+O75928->Enhance	PTMint:Interactions	Q9UHL9_K495-Sumoylation
+O76064->Enhance	PTMint:Interactions	"O95714_T4827-Phosphorylation	O95714_T4827-Phosphorylation"
+O94806->Inhibit	PTMint:Interactions	"Q9UQL6_S259-Phosphorylation	Q9UQL6_S498-Phosphorylation"
+O94979->Inhibit	PTMint:Interactions	Q15436_S207-Phosphorylation
+O94992->Enhance	PTMint:Interactions	P50750_T186-Phosphorylation
+O95140->Enhance	PTMint:Interactions	O95140_K192-Ubiquitination
+O95155->Enhance	PTMint:Interactions	"P04637_S15-Phosphorylation	P04637_S392-Phosphorylation"
+O95166->Enhance	PTMint:Interactions	Q9BYF1_S783-Phosphorylation
+O95235->Inhibit	PTMint:Interactions	"Q9NQS7_T59-Phosphorylation	Q9NQS7_T59-Phosphorylation"
+O95271->Enhance	PTMint:Interactions	Q9NWV8_S29-Phosphorylation
+O95292->Enhance	PTMint:Interactions	Q14849_S209-Phosphorylation
+O95352->Inhibit	PTMint:Interactions	"Q9H492_K49-Acetylation	Q9H492_K51-Acetylation"
+O95402->Inhibit	PTMint:Interactions	P17676_R3-Methylation
+O95411->Enhance	PTMint:Interactions	O75865_S35-Phosphorylation
+O95425->Enhance	PTMint:Interactions	"P43626_Y302-Phosphorylation	P43626_Y332-Phosphorylation"
+O95433->Enhance	PTMint:Interactions	"P07900_R345-Methylation	P07900_R386-Methylation	P07900_T90-Phosphorylation	P07900_Y313-Phosphorylation"
+O95433->Inhibit	PTMint:Interactions	P07900_K294-Acetylation
+O95471->Inhibit	PTMint:Interactions	P09758_S322-Phosphorylation
+O95486->Enhance	PTMint:Interactions	Q15437_S186-Phosphorylation
+O95487->Enhance	PTMint:Interactions	Q15437_S186-Phosphorylation
+O95714->Enhance	PTMint:Interactions	Q15831_K64-Acetylation
+O95714->Inhibit	PTMint:Interactions	P23025_S196-Phosphorylation
+O95747->Inhibit	PTMint:Interactions	Q9H4A3_S1261-Phosphorylation
+O95758->Enhance	PTMint:Interactions	Q9Y6D9_S546-Phosphorylation
+O95786->Inhibit	PTMint:Interactions	"O95786_S854-Phosphorylation	O95786_S854-Phosphorylation	O95786_S854-Phosphorylation	O95786_S854-Phosphorylation	O95786_S854-Phosphorylation	O95786_S855-Phosphorylation	O95786_S855-Phosphorylation	O95786_S855-Phosphorylation	O95786_S855-Phosphorylation	O95786_S855-Phosphorylation	O95786_T770-Phosphorylation"
+O95832->Inhibit	PTMint:Interactions	Q16625_S408-Phosphorylation
+O95835->Enhance	PTMint:Interactions	"Q9H8S9_T12-Phosphorylation	Q9H8S9_T35-Phosphorylation"
+O95835->Inhibit	PTMint:Interactions	P46937_Y188-Phosphorylation
+O95980->Inhibit	PTMint:Interactions	"Q16555_T514-Phosphorylation	Q16555_S522-Phosphorylation"
+O95999->Enhance	PTMint:Interactions	Q9H257_T231-Phosphorylation
+O96017->Enhance	PTMint:Interactions	O96017_T68-Phosphorylation
+O96028->Enhance	PTMint:Interactions	P68431_K36-Methylation
+P00338->Enhance	PTMint:Interactions	P00338_Y10-Phosphorylation
+P00352->Inhibit	PTMint:Interactions	"P00352_T267-Phosphorylation	P00352_T442-Phosphorylation	P00352_T493-Phosphorylation"
+P00441->Inhibit	PTMint:Interactions	"P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation	P00441_K71-Acetylation"
+P00519->Enhance	PTMint:Interactions	"P46108_Y251-Phosphorylation	Q9H7P9_Y489-Phosphorylation"
+P00533->Enhance	PTMint:Interactions	"P22681_Y371-Phosphorylation	Q8IVM0_Y145-Phosphorylation	Q8IVM0_Y146-Phosphorylation	P35790_Y197-Phosphorylation	P35790_Y333-Phosphorylation	Q9UJM3_Y394-Phosphorylation	Q9UJM3_Y394-Phosphorylation	Q9UJM3_Y395-Phosphorylation	Q9UJM3_Y395-Phosphorylation	O00560_S131-Phosphorylation	O00560_T200-Phosphorylation"
+P00533->Inhibit	PTMint:Interactions	P04626_T701-Phosphorylation
+P01100->Enhance	PTMint:Interactions	Q13164_K184-Ubiquitination
+P01106->Enhance	PTMint:Interactions	"P07355_Y24-Phosphorylation	Q92995_Y708-Phosphorylation"
+P01106->Inhibit	PTMint:Interactions	Q9BWT1_T163-Phosphorylation
+P01111->Inhibit	PTMint:Interactions	P15056_S151-Phosphorylation
+P01112->Enhance	PTMint:Interactions	"Q96TA1_Y593-Phosphorylation	Q13671_S291-Phosphorylation	Q13671_S291-Phosphorylation	Q13671_S292-Phosphorylation	Q13671_S292-Phosphorylation"
+P01112->Inhibit	PTMint:Interactions	"P04049_S43-Phosphorylation	P04049_S233-Phosphorylation	P04049_S259-Phosphorylation"
+P02533->Inhibit	PTMint:Interactions	Q15149_S4642-Phosphorylation
+P03372->Enhance	PTMint:Interactions	"O15516_K67-Sumoylation	O15516_K842-Sumoylation	Q13352_S28-Phosphorylation	Q9Y6Q9_S857-Phosphorylation	Q9Y6Q9_Y1357-Phosphorylation	Q9Y6Q9_K723-Ubiquitination	Q9Y6Q9_K786-Ubiquitination	Q9UDV7_K293-Sumoylation	Q9UDV7_K331-Sumoylation	Q9UDV7_K369-Sumoylation"
+P03372->Inhibit	PTMint:Interactions	"P03372_Y219-Phosphorylation	Q14686_S884-Phosphorylation	P35232_T258-Phosphorylation"
+P04049->Enhance	PTMint:Interactions	"Q969H4_K414-Acetylation	P01112_Y137-Phosphorylation	P01112_Y137-Phosphorylation	P01112_Y137-Phosphorylation	P01112_Y137-Phosphorylation	P01112_Y137-Phosphorylation	P01112_Y137-Phosphorylation	P01111_S89-Phosphorylation	P35232_T258-Phosphorylation	P62834_S11-Phosphorylation	P62834_S11-Phosphorylation	P62834_S11-Phosphorylation	Q96TC7_Y176-Phosphorylation	Q13188_T117-Phosphorylation	Q13188_T384-Phosphorylation"
+P04049->Inhibit	PTMint:Interactions	"P15056_T753-Phosphorylation	Q16543_Y298-Phosphorylation	P30086_T42-Phosphorylation	P30086_S153-Phosphorylation	P30086_S153-Phosphorylation	Q13188_Y81-Phosphorylation	P63104_T232-Phosphorylation	P63104_T232-Phosphorylation"
+P04150->Enhance	PTMint:Interactions	Q13451_K422-Sumoylation
+P04183->Inhibit	PTMint:Interactions	P04183_S13-Phosphorylation
+P04280->Enhance	PTMint:Interactions	"Q01094_S332-Phosphorylation	Q01094_S337-Phosphorylation	Q01094_S375-Phosphorylation	Q01094_S403-Phosphorylation"
+P04406->Enhance	PTMint:Interactions	"P07814_S886-Phosphorylation	Q8IUQ4_T70-Phosphorylation	Q8IUQ4_T74-Phosphorylation	Q8IUQ4_T235-Phosphorylation	Q8IUQ4_T239-Phosphorylation"
+P04626->Enhance	PTMint:Interactions	"P07900_T115-Phosphorylation	P08727_S35-Phosphorylation"
+P04626->Inhibit	PTMint:Interactions	"Q9UQC2_S159-Phosphorylation	P07900_K294-Acetylation	P07900_T36-Phosphorylation"
+P04637->Enhance	PTMint:Interactions	"Q9BWC9_S147-Phosphorylation	O14757_S345-Phosphorylation	Q92769_K462-Sumoylation	P61978_K422-Sumoylation	Q00987_S17-Phosphorylation	Q00987_S17-Phosphorylation	O15151_S289-Phosphorylation	Q8WUF5_S84-Phosphorylation	Q8WUF5_S113-Phosphorylation	Q13362_S520-Phosphorylation	Q15797_S239-Phosphorylation	Q14134_K116-Acetylation	Q9NZC7_Y33-Phosphorylation"
+P04637->Inhibit	PTMint:Interactions	"Q9UHR4_S331-Phosphorylation	Q8NHY2_S387-Phosphorylation	P16403_T146-Phosphorylation	O15151_Y99-Phosphorylation	O15151_Y99-Phosphorylation	O15151_S367-Phosphorylation	Q96PM5_T154-Phosphorylation	Q96PM5_S155-Phosphorylation	O15524_Y80-Phosphorylation	P04637_S315-Phosphorylation	P04637_S315-Phosphorylation	O15164_S768-Phosphorylation	P63104_S58-Phosphorylation"
+P05067->Enhance	PTMint:Interactions	"Q99767_S238-Phosphorylation	O00213_T579-Phosphorylation	O00213_T579-Phosphorylation	O00213_T579-Phosphorylation"
+P05067->Inhibit	PTMint:Interactions	"O00213_S610-Phosphorylation	O00213_S610-Phosphorylation	O00213_S610-Phosphorylation"
+P05106->Enhance	PTMint:Interactions	"P98082_S24-Phosphorylation	Q05397_S910-Phosphorylation	Q9NYA1_S225-Phosphorylation	P15498_Y160-Phosphorylation"
+P05129->Inhibit	PTMint:Interactions	P07900_T90-Phosphorylation
+P05412->Enhance	PTMint:Interactions	"Q5TA31_R98-Methylation	Q5TA31_R109-Methylation	O95863_K234-Sumoylation"
+P05412->Inhibit	PTMint:Interactions	"O60829_T51-Phosphorylation	O60829_T51-Phosphorylation"
+P05556->Enhance	PTMint:Interactions	"Q15027_S554-Phosphorylation	P05783_S53-Phosphorylation"
+P05783->Inhibit	PTMint:Interactions	"Q15149_S4642-Phosphorylation	Q15149_S4642-Phosphorylation	Q15149_S4642-Phosphorylation	Q15149_S4642-Phosphorylation"
+P05787->Inhibit	PTMint:Interactions	"Q15149_S4642-Phosphorylation	Q15149_S4642-Phosphorylation	Q15149_S4642-Phosphorylation	Q15149_S4642-Phosphorylation	Q15149_S4642-Phosphorylation	Q15149_S4642-Phosphorylation	Q15149_S4642-Phosphorylation	Q15149_S4642-Phosphorylation"
+P06213->Inhibit	PTMint:Interactions	"Q13322_Y67-Phosphorylation	Q13322_Y67-Phosphorylation	Q13322_Y67-Phosphorylation	Q14449_S358-Phosphorylation	Q14449_S358-Phosphorylation	Q14449_S362-Phosphorylation	Q14449_S362-Phosphorylation	Q14449_S366-Phosphorylation	Q14449_S366-Phosphorylation	P35568_S24-Phosphorylation"
+P06239->Enhance	PTMint:Interactions	"Q9NZS2_Y7-Phosphorylation	Q9NP31_Y280-Phosphorylation	Q9NP31_Y290-Phosphorylation	Q9NP31_Y305-Phosphorylation	P78314_Y448-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y174-Phosphorylation"
+P06241->Enhance	PTMint:Interactions	"Q9BYF1_Y781-Phosphorylation	Q9NZA1_Y33-Phosphorylation	P43146_Y1363-Phosphorylation	P43146_Y1420-Phosphorylation	P54753_Y614-Phosphorylation	P36888_Y591-Phosphorylation	P36888_Y599-Phosphorylation	P36888_Y955-Phosphorylation	Q02153_Y192-Phosphorylation	P35968_Y1214-Phosphorylation	O95866_Y211-Phosphorylation	O95866_Y237-Phosphorylation	Q06124_Y580-Phosphorylation"
+P06400->Enhance	PTMint:Interactions	Q01094_S364-Phosphorylation
+P06400->Inhibit	PTMint:Interactions	"P29374_S864-Phosphorylation	P29374_S1007-Phosphorylation	Q01094_S332-Phosphorylation	Q01094_S337-Phosphorylation	Q00987_S260-Phosphorylation	Q00987_S269-Phosphorylation"
+P06493->Enhance	PTMint:Interactions	"Q07817_S62-Phosphorylation	P27707_S74-Phosphorylation	Q96CX2_S243-Phosphorylation	Q96KB5_T9-Phosphorylation"
+P06493->Inhibit	PTMint:Interactions	P04637_S392-Phosphorylation
+P06730->Inhibit	PTMint:Interactions	"Q13541_T37-Phosphorylation	Q13541_T46-Phosphorylation	Q13541_S65-Phosphorylation	Q13541_S65-Phosphorylation	Q13541_T70-Phosphorylation	Q13541_T70-Phosphorylation	Q9H0Z9_S195-Phosphorylation"
+P06748->Enhance	PTMint:Interactions	"Q9BZQ8_S602-Phosphorylation	Q9UQ80_S360-Phosphorylation	P46783_R158-Methylation	P46783_R160-Methylation	P40763_Y705-Phosphorylation"
+P06748->Inhibit	PTMint:Interactions	"P06748_Y67-Phosphorylation	Q08J23_S139-Phosphorylation"
+P06850->Enhance	PTMint:Interactions	P68431_K10-Acetylation
+P07196->Inhibit	PTMint:Interactions	Q15149_S4642-Phosphorylation
+P07332->Enhance	PTMint:Interactions	P15311_Y478-Phosphorylation
+P07357->Inhibit	PTMint:Interactions	"P38936_K141-Acetylation	P38936_K154-Acetylation	P38936_K161-Acetylation	P38936_K163-Acetylation"
+P07437->Enhance	PTMint:Interactions	"Q15691_T154-Phosphorylation	Q15691_T206-Phosphorylation"
+P07437->Inhibit	PTMint:Interactions	"Q5S007_T1343-Phosphorylation	Q5S007_T1491-Phosphorylation"
+P07550->Enhance	PTMint:Interactions	"Q02952_S696-Phosphorylation	Q02952_S698-Phosphorylation	Q02952_S772-Phosphorylation"
+P07550->Inhibit	PTMint:Interactions	Q9Y2K6_S333-Phosphorylation
+P07814->Inhibit	PTMint:Interactions	Q13155_S156-Phosphorylation
+P07900->Enhance	PTMint:Interactions	"O95433_Y223-Phosphorylation	O95433_Y223-Phosphorylation	O00170_S131-Phosphorylation	O00170_S132-Phosphorylation	Q16543_S97-Phosphorylation	Q13451_K422-Sumoylation	Q8TF40_S938-Phosphorylation	Q8TF40_S939-Phosphorylation	Q8TF40_S941-Phosphorylation	Q8TF40_S946-Phosphorylation	Q8TF40_S948-Phosphorylation	Q00613_S121-Phosphorylation	O15530_Y9-Phosphorylation	Q15185_S113-Phosphorylation	Q15185_S118-Phosphorylation"
+P07900->Inhibit	PTMint:Interactions	"P10275_K619-Acetylation	P50750_T186-Phosphorylation"
+P07948->Enhance	PTMint:Interactions	"Q9BYF1_Y781-Phosphorylation	Q9NWQ8_Y299-Phosphorylation	Q9NWQ8_Y317-Phosphorylation"
+P07996->Inhibit	PTMint:Interactions	P16671_T92-Phosphorylation
+P08047->Enhance	PTMint:Interactions	P06401_S345-Phosphorylation
+P08047->Inhibit	PTMint:Interactions	"Q99814_T324-Phosphorylation	P05412_T231-Phosphorylation	P05412_S243-Phosphorylation	P05412_S249-Phosphorylation"
+P08100->Enhance	PTMint:Interactions	P63172_S82-Phosphorylation
+P08134->Inhibit	PTMint:Interactions	"P52566_Y24-Phosphorylation	P52566_Y153-Phosphorylation"
+P08238->Inhibit	PTMint:Interactions	P37840_Y39-Phosphorylation
+P08253->Enhance	PTMint:Interactions	P16035_Y90-Phosphorylation
+P08574->Inhibit	PTMint:Interactions	O14727_S268-Phosphorylation
+P08575->Enhance	PTMint:Interactions	"Q99704_Y296-Phosphorylation	Q99704_Y449-Phosphorylation	Q86WV1_Y219-Phosphorylation	Q86WV1_Y232-Phosphorylation"
+P08648->Enhance	PTMint:Interactions	P50281_T567-Phosphorylation
+P08670->Enhance	PTMint:Interactions	"Q969R2_S762-Phosphorylation	Q969R2_S763-Phosphorylation	Q969R2_S766-Phosphorylation	Q969R2_S768-Phosphorylation"
+P08670->Inhibit	PTMint:Interactions	"Q15149_S4642-Phosphorylation	P08670_S56-Phosphorylation	P08670_S56-Phosphorylation	P08670_S56-Phosphorylation	P08670_S56-Phosphorylation"
+P08754->Inhibit	PTMint:Interactions	Q3V6T2_S1690-Phosphorylation
+P09493->Enhance	PTMint:Interactions	"P04792_S78-Phosphorylation	P04792_S82-Phosphorylation"
+P09496->Enhance	PTMint:Interactions	"P17302_S262-Phosphorylation	P17302_S279-Phosphorylation	P17302_S282-Phosphorylation	P17302_S368-Phosphorylation"
+P09601->Inhibit	PTMint:Interactions	Q16236_S40-Phosphorylation
+P09651->Enhance	PTMint:Interactions	P63000_T108-Phosphorylation
+P09661->Enhance	PTMint:Interactions	P63000_T108-Phosphorylation
+P09769->Enhance	PTMint:Interactions	"O75469_S350-Phosphorylation	O75469_T408-Phosphorylation"
+P09769->Inhibit	PTMint:Interactions	"O75469_S208-Phosphorylation	O75469_S305-Phosphorylation"
+P09874->Enhance	PTMint:Interactions	P16104_S140-Phosphorylation
+P09874->Inhibit	PTMint:Interactions	Q9UNS1_T1078-Phosphorylation
+P0C0S5->Enhance	PTMint:Interactions	P07954_T236-Phosphorylation
+P0C0S8->Inhibit	PTMint:Interactions	Q69YH5_S893-Phosphorylation
+P0DMV8->Enhance	PTMint:Interactions	"Q9H3Z4_S10-Phosphorylation	Q9H3Z4_S34-Phosphorylation	O15217_S189-Phosphorylation	O15217_T193-Phosphorylation	P13647_T151-Phosphorylation	P04637_S269-Phosphorylation	Q92574_T417-Phosphorylation"
+P0DMV8->Inhibit	PTMint:Interactions	"Q8N9L9_S392-Phosphorylation	P41181_S256-Phosphorylation	P41181_S261-Phosphorylation	P07900_K69-Acetylation	P07900_K100-Acetylation	P07900_K292-Acetylation	P07900_K294-Acetylation	P07900_K478-Acetylation	P07900_K546-Acetylation	P07900_K558-Acetylation	P07900_T90-Phosphorylation"
+P0DP23->Enhance	PTMint:Interactions	"P78352_T19-Phosphorylation	P35498_T1909-Phosphorylation	P35498_S1918-Phosphorylation	P35498_T1934-Phosphorylation"
+P0DP23->Inhibit	PTMint:Interactions	"Q96RR4_S495-Phosphorylation	P38936_S153-Phosphorylation	O00418_S78-Phosphorylation	Q14643_S1598-Phosphorylation	O15554_S334-Phosphorylation	O15554_S334-Phosphorylation	O15554_S334-Phosphorylation	P30301_S229-Phosphorylation	P30301_S235-Phosphorylation	P29474_T495-Phosphorylation	P29474_T495-Phosphorylation	P14151_S364-Phosphorylation	P19634_S648-Phosphorylation	P19634_S648-Phosphorylation"
+P10275->Enhance	PTMint:Interactions	"Q00987_S186-Phosphorylation	Q15648_T1457-Phosphorylation"
+P10275->Inhibit	PTMint:Interactions	"P07900_K294-Acetylation	P08238_T89-Phosphorylation	Q92597_S330-Phosphorylation	Q9NQU5_S308-Phosphorylation	Q9NQU5_T326-Phosphorylation	Q9NQU5_S346-Phosphorylation	Q9NQU5_T354-Phosphorylation	Q9NQU5_S360-Phosphorylation	Q13043_T120-Phosphorylation"
+P10415->Enhance	PTMint:Interactions	"Q14457_T108-Phosphorylation	Q13323_T33-Phosphorylation	Q13323_S35-Phosphorylation"
+P10415->Inhibit	PTMint:Interactions	"Q14457_S90-Phosphorylation	Q14457_S93-Phosphorylation	Q14457_T388-Phosphorylation"
+P10599->Enhance	PTMint:Interactions	Q99683_S966-Phosphorylation
+P10599->Inhibit	PTMint:Interactions	Q99683_T838-Phosphorylation
+P10636->Enhance	PTMint:Interactions	O00499_T348-Phosphorylation
+P10809->Enhance	PTMint:Interactions	P23771_R261-Methylation
+P10826->Inhibit	PTMint:Interactions	"P19793_T82-Phosphorylation	P19793_S260-Phosphorylation"
+P10828->Inhibit	PTMint:Interactions	Q09472_S89-Phosphorylation
+P10916->Enhance	PTMint:Interactions	P14618_T45-Phosphorylation
+P11021->Enhance	PTMint:Interactions	"P16949_S25-Phosphorylation	P16949_S38-Phosphorylation"
+P11137->Enhance	PTMint:Interactions	Q9UQM7_T286-Phosphorylation
+P11142->Enhance	PTMint:Interactions	"P00338_K5-Acetylation	P14618_K305-Acetylation	P13693_K19-Acetylation"
+P11142->Inhibit	PTMint:Interactions	"Q8IVP5_S13-Phosphorylation	Q9Y6X9_T582-Phosphorylation	P37840_Y39-Phosphorylation"
+P11473->Inhibit	PTMint:Interactions	"P19793_S260-Phosphorylation	P19793_S260-Phosphorylation	P19793_S260-Phosphorylation	P19793_S260-Phosphorylation"
+P11717->Inhibit	PTMint:Interactions	Q9UJY5_S355-Phosphorylation
+P11802->Enhance	PTMint:Interactions	"P38936_T55-Phosphorylation	P46527_Y88-Phosphorylation	P46527_Y89-Phosphorylation	P46527_T157-Phosphorylation	P42771_S140-Phosphorylation	P42771_S152-Phosphorylation"
+P11802->Inhibit	PTMint:Interactions	"Q16543_Y298-Phosphorylation	Q16543_S339-Phosphorylation	P38936_T145-Phosphorylation	P07900_T36-Phosphorylation"
+P11831->Inhibit	PTMint:Interactions	"P05114_S21-Phosphorylation	P05114_S25-Phosphorylation"
+P11940->Enhance	PTMint:Interactions	"Q96EB6_T530-Phosphorylation	Q14106_S254-Phosphorylation"
+P11940->Inhibit	PTMint:Interactions	Q92904_S65-Phosphorylation
+P12004->Enhance	PTMint:Interactions	"P39748_R192-Methylation	P39748_R192-Methylation	P39748_R192-Methylation	Q13829_S280-Phosphorylation	Q13263_S473-Phosphorylation"
+P12004->Inhibit	PTMint:Interactions	"P38936_T145-Phosphorylation	P38936_T145-Phosphorylation	P38936_T145-Phosphorylation	P38936_T145-Phosphorylation	P38936_T145-Phosphorylation	P38936_T145-Phosphorylation	P38936_T145-Phosphorylation	P38936_T145-Phosphorylation	P38936_T145-Phosphorylation	P13051_T6-Phosphorylation	P13051_Y8-Phosphorylation"
+P12036->Inhibit	PTMint:Interactions	Q15149_S4642-Phosphorylation
+P12814->Enhance	PTMint:Interactions	"P15144_Y6-Phosphorylation	P05107_T758-Phosphorylation"
+P12814->Inhibit	PTMint:Interactions	"P35611_T724-Phosphorylation	O94875_S259-Phosphorylation"
+P12830->Enhance	PTMint:Interactions	"Q12834_S170-Phosphorylation	P35222_S45-Phosphorylation	P35222_S45-Phosphorylation	P35222_S45-Phosphorylation	P35222_S45-Phosphorylation	P35222_S45-Phosphorylation"
+P12830->Inhibit	PTMint:Interactions	"P35222_Y654-Phosphorylation	P35222_Y654-Phosphorylation	P35222_Y654-Phosphorylation	P35222_Y654-Phosphorylation	P35222_Y654-Phosphorylation	Q5XUX0_S278-Phosphorylation	P14923_Y644-Phosphorylation	P53350_K492-Sumoylation	Q13309_S64-Phosphorylation"
+P12931->Enhance	PTMint:Interactions	"P12814_Y12-Phosphorylation	P55064_S156-Phosphorylation	Q9H5V8_Y734-Phosphorylation	O75508_Y191-Phosphorylation	O75508_Y192-Phosphorylation	P35222_Y654-Phosphorylation	Q15303_Y1128-Phosphorylation	P03372_R260-Methylation	P36888_Y589-Phosphorylation	P36888_Y599-Phosphorylation	Q02153_Y192-Phosphorylation	Q13651_Y496-Phosphorylation	P35968_Y1059-Phosphorylation	P35968_Y1059-Phosphorylation	P35968_Y1059-Phosphorylation	P10721_Y568-Phosphorylation	O95866_Y211-Phosphorylation	O95866_Y237-Phosphorylation	O15530_Y9-Phosphorylation	Q05655_Y334-Phosphorylation	Q05655_Y334-Phosphorylation	Q05655_Y334-Phosphorylation	Q05397_Y397-Phosphorylation	Q05397_Y397-Phosphorylation	Q05397_Y397-Phosphorylation	Q05397_Y397-Phosphorylation	Q12913_Y1311-Phosphorylation	Q12913_Y1320-Phosphorylation	O00560_S131-Phosphorylation	O00560_T200-Phosphorylation"
+P12931->Inhibit	PTMint:Interactions	"Q16543_S339-Phosphorylation	P07900_T36-Phosphorylation	P07900_T90-Phosphorylation"
+P12956->Enhance	PTMint:Interactions	Q00839_S59-Phosphorylation
+P12956->Inhibit	PTMint:Interactions	P10275_S579-Phosphorylation
+P13010->Enhance	PTMint:Interactions	"Q9Y6D9_S214-Phosphorylation	Q9UGP5_T204-Phosphorylation"
+P13010->Inhibit	PTMint:Interactions	P10275_S579-Phosphorylation
+P13498->Enhance	PTMint:Interactions	"P14598_S303-Phosphorylation	P14598_S303-Phosphorylation	P14598_S304-Phosphorylation	P14598_S304-Phosphorylation	P14598_S328-Phosphorylation	P14598_S328-Phosphorylation	P14598_S379-Phosphorylation	P14598_S379-Phosphorylation"
+P13569->Enhance	PTMint:Interactions	"P13569_S700-Phosphorylation	P13569_S712-Phosphorylation	P13569_S737-Phosphorylation	P13569_S768-Phosphorylation	P13569_S795-Phosphorylation	P13569_S813-Phosphorylation	P13569_S660-Phosphorylation	P13569_S660-Phosphorylation	O14745_S339-Phosphorylation	O14745_S340-Phosphorylation"
+P13569->Inhibit	PTMint:Interactions	O14745_S162-Phosphorylation
+P13631->Inhibit	PTMint:Interactions	Q09472_S89-Phosphorylation
+P13647->Inhibit	PTMint:Interactions	"Q15149_S4642-Phosphorylation	Q15149_S4642-Phosphorylation"
+P13866->Enhance	PTMint:Interactions	P00533_T678-Phosphorylation
+P14416->Enhance	PTMint:Interactions	P29274_S374-Phosphorylation
+P14598->Enhance	PTMint:Interactions	"P13498_T147-Phosphorylation	P13498_T147-Phosphorylation"
+P14618->Enhance	PTMint:Interactions	"Q13315_S1981-Phosphorylation	P30304_Y59-Phosphorylation	P35222_Y333-Phosphorylation	P36956_T59-Phosphorylation"
+P14618->Inhibit	PTMint:Interactions	"P14618_T129-Phosphorylation	P14618_T129-Phosphorylation	P14618_T129-Phosphorylation	P14618_T129-Phosphorylation"
+P14625->Inhibit	PTMint:Interactions	Q12904_S140-Phosphorylation
+P14635->Enhance	PTMint:Interactions	"Q14674_S1126-Phosphorylation	Q96KB5_T9-Phosphorylation"
+P14859->Inhibit	PTMint:Interactions	P20700_T575-Phosphorylation
+P15056->Enhance	PTMint:Interactions	P01111_S89-Phosphorylation
+P15056->Inhibit	PTMint:Interactions	"P01116_Y32-Phosphorylation	P01116_Y64-Phosphorylation	Q16584_S705-Phosphorylation	Q16584_S758-Phosphorylation"
+P15311->Enhance	PTMint:Interactions	P35240_S518-Phosphorylation
+P15311->Inhibit	PTMint:Interactions	"P15311_T567-Phosphorylation	Q15599_S303-Phosphorylation"
+P15336->Enhance	PTMint:Interactions	P07954_S75-Phosphorylation
+P15498->Enhance	PTMint:Interactions	"P52566_Y153-Phosphorylation	P22681_Y700-Phosphorylation	P40198_Y230-Phosphorylation	P14317_Y378-Phosphorylation	P14317_Y397-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation	P78314_Y183-Phosphorylation	P78314_Y183-Phosphorylation	P78314_Y183-Phosphorylation	P78314_Y183-Phosphorylation	P78314_Y183-Phosphorylation	P78314_Y183-Phosphorylation	P78314_Y183-Phosphorylation	P78314_Y183-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation"
+P15884->Enhance	PTMint:Interactions	"P35222_K345-Acetylation	P35222_Y86-Phosphorylation	P35222_Y654-Phosphorylation"
+P15884->Inhibit	PTMint:Interactions	P14923_Y133-Phosphorylation
+P15918->Inhibit	PTMint:Interactions	Q8N122_S863-Phosphorylation
+P15924->Enhance	PTMint:Interactions	"P14923_Y133-Phosphorylation	P14923_Y133-Phosphorylation	P14923_Y133-Phosphorylation	P14923_Y133-Phosphorylation	P14923_Y133-Phosphorylation	P14923_Y644-Phosphorylation	P14923_Y644-Phosphorylation	P14923_Y644-Phosphorylation	P14923_Y644-Phosphorylation	P14923_Y644-Phosphorylation"
+P15924->Inhibit	PTMint:Interactions	"P14923_Y550-Phosphorylation	P14923_Y550-Phosphorylation	P14923_Y550-Phosphorylation	P14923_Y550-Phosphorylation	P14923_Y550-Phosphorylation"
+P15927->Enhance	PTMint:Interactions	"P43351_K133-Acetylation	P43351_K177-Acetylation	P43351_K190-Acetylation	P43351_K192-Acetylation	P43351_K262-Acetylation	P43351_K274-Acetylation	P43351_K286-Acetylation	P43351_K323-Acetylation	P43351_K344-Acetylation	P43351_K406-Acetylation"
+P15941->Inhibit	PTMint:Interactions	P17931_S6-Phosphorylation
+P16070->Enhance	PTMint:Interactions	P40763_K685-Acetylation
+P16070->Inhibit	PTMint:Interactions	P35240_S518-Phosphorylation
+P16104->Enhance	PTMint:Interactions	Q9BUR4_S64-Phosphorylation
+P16144->Enhance	PTMint:Interactions	P20073_T286-Phosphorylation
+P16220->Enhance	PTMint:Interactions	Q53ET0_S238-Phosphorylation
+P16234->Enhance	PTMint:Interactions	O43765_S305-Phosphorylation
+P16284->Enhance	PTMint:Interactions	Q9NYA1_S225-Phosphorylation
+P16333->Enhance	PTMint:Interactions	"P81605_Y20-Phosphorylation	Q99704_Y362-Phosphorylation	Q92556_Y18-Phosphorylation	Q92556_Y216-Phosphorylation	Q92556_Y395-Phosphorylation	Q92556_Y511-Phosphorylation	P29317_Y930-Phosphorylation	P54762_Y594-Phosphorylation	O15117_Y595-Phosphorylation	O15117_Y595-Phosphorylation	O15117_Y595-Phosphorylation	O15117_Y595-Phosphorylation	O15117_Y651-Phosphorylation	O15117_Y651-Phosphorylation	O15117_Y651-Phosphorylation	O15117_Y651-Phosphorylation	P35968_Y1214-Phosphorylation	P35968_Y1214-Phosphorylation	P35968_Y1214-Phosphorylation	P35968_Y1214-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation	O14543_Y221-Phosphorylation"
+P16435->Enhance	PTMint:Interactions	P09601_S188-Phosphorylation
+P16615->Enhance	PTMint:Interactions	"Q14432_S292-Phosphorylation	Q14432_S293-Phosphorylation"
+P16615->Inhibit	PTMint:Interactions	P23327_S96-Phosphorylation
+P16885->Enhance	PTMint:Interactions	"Q15303_Y875-Phosphorylation	O95866_Y211-Phosphorylation	O95866_Y237-Phosphorylation	O14796_Y127-Phosphorylation"
+P17252->Enhance	PTMint:Interactions	P07949_Y1062-Phosphorylation
+P17535->Enhance	PTMint:Interactions	"P09601_K243-Acetylation	P09601_K256-Acetylation"
+P17612->Inhibit	PTMint:Interactions	Q9BSF0_S66-Phosphorylation
+P17655->Inhibit	PTMint:Interactions	P63279_K65-Acetylation
+P17661->Inhibit	PTMint:Interactions	Q15149_S4642-Phosphorylation
+P17706->Enhance	PTMint:Interactions	"P08581_Y1234-Phosphorylation	P08581_Y1235-Phosphorylation	P42224_R31-Methylation"
+P17735->Enhance	PTMint:Interactions	P50750_S175-Phosphorylation
+P17844->Enhance	PTMint:Interactions	P04637_K120-Acetylation
+P17987->Enhance	PTMint:Interactions	"Q13371_S18-Phosphorylation	Q13371_S19-Phosphorylation	Q13371_S20-Phosphorylation"
+P18031->Enhance	PTMint:Interactions	"Q14247_Y446-Phosphorylation	P08581_Y1234-Phosphorylation	P08581_Y1235-Phosphorylation"
+P18084->Enhance	PTMint:Interactions	Q05397_Y861-Phosphorylation
+P18206->Enhance	PTMint:Interactions	P50552_S157-Phosphorylation
+P18206->Inhibit	PTMint:Interactions	Q14247_S298-Phosphorylation
+P18754->Enhance	PTMint:Interactions	P62826_K134-Acetylation
+P18754->Inhibit	PTMint:Interactions	P62826_S135-Phosphorylation
+P18848->Enhance	PTMint:Interactions	"Q9Y6Q9_S1062-Phosphorylation	Q9Y6Q9_T1067-Phosphorylation"
+P18848->Inhibit	PTMint:Interactions	"Q9NRI5_S58-Phosphorylation	Q9Y6Q9_S1330-Phosphorylation"
+P18887->Enhance	PTMint:Interactions	Q9NUW8_S81-Phosphorylation
+P18887->Inhibit	PTMint:Interactions	"P27695_K6-Acetylation	P27695_K7-Acetylation	P18887_S371-Phosphorylation"
+P19022->Inhibit	PTMint:Interactions	"P35222_Y489-Phosphorylation	P35222_Y489-Phosphorylation	P35222_Y489-Phosphorylation	P35222_Y489-Phosphorylation	P35222_Y489-Phosphorylation	P49768_S353-Phosphorylation	P49768_S357-Phosphorylation"
+P19105->Inhibit	PTMint:Interactions	Q9NY61_T366-Phosphorylation
+P19174->Enhance	PTMint:Interactions	"P30556_Y319-Phosphorylation	P30530_Y821-Phosphorylation	P11362_Y766-Phosphorylation	O14654_Y921-Phosphorylation	P35968_Y1175-Phosphorylation	P35968_Y1175-Phosphorylation	P35968_Y1175-Phosphorylation	P35968_Y1175-Phosphorylation	P35968_Y1175-Phosphorylation	P35968_Y1175-Phosphorylation	O94916_Y143-Phosphorylation	P04629_Y791-Phosphorylation	P04629_Y791-Phosphorylation	P04629_Y791-Phosphorylation	P16234_Y988-Phosphorylation	P16234_Y1018-Phosphorylation	P09619_Y1021-Phosphorylation	P09619_Y1021-Phosphorylation	P09619_Y1021-Phosphorylation	O43157_Y1708-Phosphorylation	O43157_Y1732-Phosphorylation	Q02156_Y573-Phosphorylation	O14796_Y127-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P15498_Y174-Phosphorylation	P43403_Y319-Phosphorylation"
+P19174->Inhibit	PTMint:Interactions	P63000_T108-Phosphorylation
+P19235->Inhibit	PTMint:Interactions	O60674_Y119-Phosphorylation
+P19338->Enhance	PTMint:Interactions	"P54132_S646-Phosphorylation	Q08J23_S139-Phosphorylation	P31949_T10-Phosphorylation	P31949_S94-Phosphorylation"
+P19419->Inhibit	PTMint:Interactions	P63279_K65-Acetylation
+P19438->Enhance	PTMint:Interactions	"Q15628_S215-Phosphorylation	Q15628_S296-Phosphorylation"
+P19438->Inhibit	PTMint:Interactions	P28799_S81-Phosphorylation
+P19474->Inhibit	PTMint:Interactions	Q13501_S28-Phosphorylation
+P19525->Enhance	PTMint:Interactions	"P19525_S6-Phosphorylation	P19525_S97-Phosphorylation"
+P19793->Inhibit	PTMint:Interactions	"Q09472_S89-Phosphorylation	O75469_K109-Acetylation	O75469_S8-Phosphorylation	O75469_T135-Phosphorylation	O75469_S208-Phosphorylation	O75469_S208-Phosphorylation	O75469_S221-Phosphorylation	O75469_S221-Phosphorylation	O75469_S305-Phosphorylation	O75469_S305-Phosphorylation	O75469_S350-Phosphorylation	O75469_S350-Phosphorylation	O75469_S350-Phosphorylation	O75469_S350-Phosphorylation	O75469_T408-Phosphorylation	O75469_T408-Phosphorylation	Q14994_T38-Phosphorylation	P19793_T82-Phosphorylation	P19793_S260-Phosphorylation"
+P19838->Enhance	PTMint:Interactions	"P09874_K498-Acetylation	P09874_K505-Acetylation	P09874_K508-Acetylation	P09874_K521-Acetylation	P09874_K524-Acetylation"
+P19838->Inhibit	PTMint:Interactions	"P41279_T290-Phosphorylation	P41279_T290-Phosphorylation	P41279_T290-Phosphorylation"
+P19878->Inhibit	PTMint:Interactions	"P14598_S379-Phosphorylation	P14598_S379-Phosphorylation"
+P20042->Enhance	PTMint:Interactions	P78344_T508-Phosphorylation
+P20226->Enhance	PTMint:Interactions	P68431_K5-Methylation
+P20226->Inhibit	PTMint:Interactions	P36508_K411-Sumoylation
+P20333->Inhibit	PTMint:Interactions	P28799_S81-Phosphorylation
+P20338->Enhance	PTMint:Interactions	Q15276_S407-Phosphorylation
+P20701->Enhance	PTMint:Interactions	Q15762_S329-Phosphorylation
+P20749->Enhance	PTMint:Interactions	"O95999_S218-Phosphorylation	O95999_S231-Phosphorylation"
+P20936->Enhance	PTMint:Interactions	"Q9NRY4_Y1087-Phosphorylation	Q9NRY4_Y1105-Phosphorylation	P51636_Y19-Phosphorylation	Q99704_Y362-Phosphorylation	Q99704_Y398-Phosphorylation	P54753_Y614-Phosphorylation	P01112_Y137-Phosphorylation	P01111_Y32-Phosphorylation	P09619_Y771-Phosphorylation	P09619_Y771-Phosphorylation	P09619_Y771-Phosphorylation	Q05397_Y397-Phosphorylation	Q96BD6_Y31-Phosphorylation"
+P20963->Enhance	PTMint:Interactions	P49407_S163-Phosphorylation
+P21333->Enhance	PTMint:Interactions	P35462_S257-Phosphorylation
+P21333->Inhibit	PTMint:Interactions	"P05556_T788-Phosphorylation	P05556_T789-Phosphorylation	P05107_T758-Phosphorylation	P26010_T783-Phosphorylation	P26010_T784-Phosphorylation	P26010_T785-Phosphorylation"
+P21359->Inhibit	PTMint:Interactions	"Q7Z699_S105-Phosphorylation	Q7Z699_S105-Phosphorylation"
+P21579->Inhibit	PTMint:Interactions	"P60880_T138-Phosphorylation	P60880_S187-Phosphorylation"
+P21675->Enhance	PTMint:Interactions	"P10412_K34-Acetylation	P04637_K373-Acetylation	P04637_K382-Acetylation"
+P22626->Enhance	PTMint:Interactions	P14866_Y359-Phosphorylation
+P22674->Enhance	PTMint:Interactions	P18887_T284-Phosphorylation
+P22681->Enhance	PTMint:Interactions	"Q9NPY3_Y628-Phosphorylation	Q9NPY3_Y644-Phosphorylation	P07333_Y723-Phosphorylation	P00533_Y1069-Phosphorylation	Q15303_Y1056-Phosphorylation	P35968_Y1054-Phosphorylation	P35968_Y1059-Phosphorylation	P10721_Y568-Phosphorylation	P10721_Y936-Phosphorylation	P08581_Y1003-Phosphorylation	O43597_Y55-Phosphorylation	O43597_Y55-Phosphorylation"
+P23025->Enhance	PTMint:Interactions	"Q13535_S435-Phosphorylation	P27694_K163-Acetylation	P27694_K163-Acetylation"
+P23258->Enhance	PTMint:Interactions	Q96SN8_S140-Phosphorylation
+P23497->Enhance	PTMint:Interactions	P63279_K14-Sumoylation
+P24385->Enhance	PTMint:Interactions	P46527_T157-Phosphorylation
+P24385->Inhibit	PTMint:Interactions	"Q00534_Y24-Phosphorylation	P21333_S1459-Phosphorylation	P21333_S2152-Phosphorylation"
+P24522->Enhance	PTMint:Interactions	P68431_K5-Methylation
+P24534->Enhance	PTMint:Interactions	Q04206_S276-Phosphorylation
+P24539->Inhibit	PTMint:Interactions	Q9UII2_S39-Phosphorylation
+P24588->Inhibit	PTMint:Interactions	P17612_Y70-Phosphorylation
+P24752->Enhance	PTMint:Interactions	Q9P0J1_Y381-Phosphorylation
+P24864->Inhibit	PTMint:Interactions	Q969H0_S18-Phosphorylation
+P24928->Enhance	PTMint:Interactions	"P10412_S187-Phosphorylation	Q86U44_S43-Phosphorylation	Q53GL7_T101-Phosphorylation	P11387_K391-Sumoylation	P11387_K436-Sumoylation"
+P24928->Inhibit	PTMint:Interactions	P0CAP2_S270-Phosphorylation
+P24941->Enhance	PTMint:Interactions	P38936_T55-Phosphorylation
+P24941->Inhibit	PTMint:Interactions	"P38936_S130-Phosphorylation	P38936_T145-Phosphorylation	P46527_Y88-Phosphorylation	P46527_Y88-Phosphorylation"
+P25054->Inhibit	PTMint:Interactions	"P35221_Y177-Phosphorylation	P35221_Y177-Phosphorylation	Q9UM11_S40-Phosphorylation	Q9UM11_S40-Phosphorylation	Q15691_Y247-Phosphorylation	Q15691_Y247-Phosphorylation"
+P25098->Enhance	PTMint:Interactions	"P30086_S153-Phosphorylation	P30086_S153-Phosphorylation"
+P25098->Inhibit	PTMint:Interactions	P21462_S342-Phosphorylation
+P25205->Enhance	PTMint:Interactions	"P33993_Y600-Phosphorylation	Q13263_S473-Phosphorylation"
+P25391->Inhibit	PTMint:Interactions	"P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation	P17931_S6-Phosphorylation"
+P25440->Enhance	PTMint:Interactions	"P62805_K6-Acetylation	P62805_K13-Acetylation	P62805_K13-Acetylation	Q13761_K94-Acetylation	Q13761_K171-Acetylation"
+P25440->Inhibit	PTMint:Interactions	P62805_K9-Acetylation
+P25490->Enhance	PTMint:Interactions	Q9NVM4_R531-Methylation
+P25685->Inhibit	PTMint:Interactions	"P07900_K327-Acetylation	P07900_K478-Acetylation	P07900_K546-Acetylation	P07900_K558-Acetylation"
+P25963->Inhibit	PTMint:Interactions	"Q04206_K221-Acetylation	Q01201_S472-Phosphorylation"
+P26358->Enhance	PTMint:Interactions	"Q04206_S276-Phosphorylation	P40763_K685-Acetylation	Q6N021_K110-Acetylation	Q6N021_K111-Acetylation"
+P26368->Inhibit	PTMint:Interactions	P54253_S775-Phosphorylation
+P27348->Enhance	PTMint:Interactions	"Q9P0K1_S834-Phosphorylation	Q9P0K1_S857-Phosphorylation	Q9UQB8_S366-Phosphorylation	P46527_T157-Phosphorylation	P46527_T198-Phosphorylation	P46527_T198-Phosphorylation	P46527_T198-Phosphorylation	Q96RK0_S173-Phosphorylation	Q96RK0_S301-Phosphorylation	Q15717_S202-Phosphorylation	Q86V87_S325-Phosphorylation	P09651_S4-Phosphorylation	P09651_S6-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S1444-Phosphorylation	Q5S007_T2524-Phosphorylation	O15151_S342-Phosphorylation	O15151_S367-Phosphorylation	O15553_S208-Phosphorylation	O15553_S209-Phosphorylation	O15553_S242-Phosphorylation	O15530_S241-Phosphorylation	Q2PPJ7_T715-Phosphorylation	O60343_T642-Phosphorylation	Q6N021_S99-Phosphorylation	P19484_S211-Phosphorylation	P30291_S642-Phosphorylation"
+P27361->Enhance	PTMint:Interactions	"Q02750_S298-Phosphorylation	Q14994_T38-Phosphorylation"
+P27361->Inhibit	PTMint:Interactions	Q02750_T292-Phosphorylation
+P27694->Enhance	PTMint:Interactions	"Q96KQ7_S211-Phosphorylation	P43351_K133-Acetylation	P43351_K177-Acetylation	P43351_K190-Acetylation	P43351_K192-Acetylation	P43351_K262-Acetylation	P43351_K274-Acetylation	P43351_K286-Acetylation	P43351_K323-Acetylation	P43351_K344-Acetylation	P43351_K406-Acetylation	P13051_S23-Phosphorylation"
+P27694->Inhibit	PTMint:Interactions	"P13051_T60-Phosphorylation	P13051_S64-Phosphorylation"
+P27986->Enhance	PTMint:Interactions	"Q8IZP0_Y213-Phosphorylation	Q8N4X5_Y54-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	Q14790_Y380-Phosphorylation	P22681_Y731-Phosphorylation	Q3V6T2_Y1765-Phosphorylation	Q3V6T2_Y1799-Phosphorylation	Q15303_Y1056-Phosphorylation	P03372_R260-Methylation	P15311_Y354-Phosphorylation	P16871_Y449-Phosphorylation	P35568_S629-Phosphorylation	O14654_Y921-Phosphorylation	P35968_Y801-Phosphorylation	Q16625_Y474-Phosphorylation	P09619_Y740-Phosphorylation	P09619_Y740-Phosphorylation	P09619_Y751-Phosphorylation	P09619_Y751-Phosphorylation	Q01813_Y64-Phosphorylation	Q9H7P9_Y489-Phosphorylation	Q05397_Y397-Phosphorylation	Q05397_Y397-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P30874_Y71-Phosphorylation	P15498_Y142-Phosphorylation	P15498_Y160-Phosphorylation	P15498_Y174-Phosphorylation"
+P27986->Inhibit	PTMint:Interactions	P35568_S794-Phosphorylation
+P28223->Inhibit	PTMint:Interactions	P29992_S154-Phosphorylation
+P28347->Enhance	PTMint:Interactions	P46937_S128-Phosphorylation
+P28347->Inhibit	PTMint:Interactions	P46937_S94-Phosphorylation
+P28482->Enhance	PTMint:Interactions	"O96017_T68-Phosphorylation	Q14994_T38-Phosphorylation	P14618_T405-Glycosylation	P14618_S406-Glycosylation	Q8IV63_S108-Phosphorylation"
+P29317->Enhance	PTMint:Interactions	P78527_S2056-Phosphorylation
+P29350->Enhance	PTMint:Interactions	"Q8TDQ1_Y205-Phosphorylation	P20138_Y340-Phosphorylation	P20138_Y340-Phosphorylation	P16410_Y201-Phosphorylation	P16410_Y218-Phosphorylation	P00533_Y1172-Phosphorylation	Q8N423_Y562-Phosphorylation	O95866_Y211-Phosphorylation	O95866_Y211-Phosphorylation	O95866_Y237-Phosphorylation	P40238_Y591-Phosphorylation	P35232_Y114-Phosphorylation"
+P29353->Enhance	PTMint:Interactions	"Q9UM73_Y1507-Phosphorylation	P00533_Y727-Phosphorylation	P00533_Y998-Phosphorylation	P00533_Y1110-Phosphorylation	P00533_Y1138-Phosphorylation	P00533_Y1172-Phosphorylation	P00533_Y1197-Phosphorylation	P04626_Y735-Phosphorylation	P04626_Y1005-Phosphorylation	P04626_Y1196-Phosphorylation	P04626_Y1222-Phosphorylation	P04626_Y1248-Phosphorylation	P21860_Y1328-Phosphorylation	Q15303_Y733-Phosphorylation	Q15303_Y1188-Phosphorylation	Q15303_Y1188-Phosphorylation	Q15303_Y1242-Phosphorylation	Q15303_Y1242-Phosphorylation	Q15303_Y1284-Phosphorylation	P35916_Y1063-Phosphorylation	P35916_Y1337-Phosphorylation	P09619_Y579-Phosphorylation	P09619_Y740-Phosphorylation	P09619_Y751-Phosphorylation	P09619_Y771-Phosphorylation	O15162_Y69-Phosphorylation	O15162_Y74-Phosphorylation	P07949_Y1062-Phosphorylation	P43403_Y474-Phosphorylation	P43403_Y474-Phosphorylation	P43403_Y474-Phosphorylation"
+P29353->Inhibit	PTMint:Interactions	"Q9UQC2_S210-Phosphorylation	Q9UQC2_T391-Phosphorylation"
+P29372->Enhance	PTMint:Interactions	P18887_T284-Phosphorylation
+P29474->Enhance	PTMint:Interactions	P08238_Y301-Phosphorylation
+P29475->Inhibit	PTMint:Interactions	Q13363_K428-Sumoylation
+P29590->Enhance	PTMint:Interactions	"P54132_S646-Phosphorylation	Q9UER7_S737-Phosphorylation	Q9UER7_S739-Phosphorylation	Q9UER7_K630-Sumoylation	Q9UER7_K631-Sumoylation"
+P29590->Inhibit	PTMint:Interactions	"P54132_T99-Phosphorylation	Q92794_T369-Phosphorylation"
+P30047->Inhibit	PTMint:Interactions	"P30793_S81-Phosphorylation	P30793_S81-Phosphorylation"
+P30086->Inhibit	PTMint:Interactions	O75469_S221-Phosphorylation
+P30260->Enhance	PTMint:Interactions	"Q12834_S170-Phosphorylation	Q9UM11_S39-Glycosylation	Q9UM11_S40-Glycosylation	Q9UM11_S42-Glycosylation"
+P30281->Inhibit	PTMint:Interactions	"Q00534_Y24-Phosphorylation	Q00534_Y24-Phosphorylation"
+P30304->Enhance	PTMint:Interactions	"Q08050_T600-Phosphorylation	Q08050_T611-Phosphorylation"
+P30622->Enhance	PTMint:Interactions	"Q15691_S40-Phosphorylation	Q15691_T154-Phosphorylation	Q15691_T206-Phosphorylation"
+P31150->Inhibit	PTMint:Interactions	"P62820_T75-Phosphorylation	P51149_S72-Phosphorylation"
+P31274->Enhance	PTMint:Interactions	O75496_S184-Phosphorylation
+P31350->Enhance	PTMint:Interactions	P23921_S631-Phosphorylation
+P31431->Inhibit	PTMint:Interactions	"P31431_S179-Phosphorylation	P31431_S179-Phosphorylation"
+P31749->Enhance	PTMint:Interactions	"Q14847_S146-Phosphorylation	Q02750_S298-Phosphorylation	P36507_S306-Phosphorylation	Q99683_R89-Methylation	P35240_K76-Sumoylation	Q9UQ80_S360-Phosphorylation	Q8IXJ6_T101-Phosphorylation	Q07912_Y635-Phosphorylation"
+P31749->Inhibit	PTMint:Interactions	"Q13451_K28-Acetylation	Q13451_K155-Acetylation	P07900_T90-Phosphorylation	P04792_S82-Phosphorylation	Q14847_Y171-Phosphorylation"
+P31751->Inhibit	PTMint:Interactions	P38936_T145-Phosphorylation
+P31946->Enhance	PTMint:Interactions	"P00519_T735-Phosphorylation	P00519_T735-Phosphorylation	Q9P0K1_S834-Phosphorylation	Q9P0K1_S857-Phosphorylation	Q12802_S1565-Phosphorylation	Q96B36_S202-Phosphorylation	Q96B36_S203-Phosphorylation	Q96B36_S221-Phosphorylation	Q96B36_T246-Phosphorylation	Q7Z5H3_S16-Phosphorylation	Q7Z5H3_S395-Phosphorylation	Q92974_S886-Phosphorylation	P54253_S775-Phosphorylation	P15056_S729-Phosphorylation	Q96RR4_S100-Phosphorylation	Q96RR4_S511-Phosphorylation	P41180_S899-Phosphorylation	P30304_S178-Phosphorylation	P30304_T507-Phosphorylation	P30307_S216-Phosphorylation	P30307_S216-Phosphorylation	P30307_S216-Phosphorylation	Q9BWT1_T163-Phosphorylation	Q00536_S119-Phosphorylation	P46527_T157-Phosphorylation	P13569_S768-Phosphorylation	Q14247_S298-Phosphorylation	Q9NYF0_S237-Phosphorylation	Q9NYF0_S827-Phosphorylation	Q9UJU6_S269-Phosphorylation	Q9UJU6_T291-Phosphorylation	P26358_S143-Phosphorylation	Q13627_S529-Phosphorylation	Q96F86_S161-Phosphorylation	P03372_T594-Phosphorylation	Q12778_S256-Phosphorylation	Q12778_S256-Phosphorylation	O43524_T32-Phosphorylation	O43524_S253-Phosphorylation	Q9UQC2_S210-Phosphorylation	Q9UQC2_T391-Phosphorylation	P55040_S23-Phosphorylation	P55040_S289-Phosphorylation	P49685_S359-Phosphorylation	Q9UQL6_S259-Phosphorylation	Q9UQL6_S259-Phosphorylation	Q9UQL6_S279-Phosphorylation	Q9UQL6_S498-Phosphorylation	Q9UQL6_S498-Phosphorylation	Q9UQL6_S661-Phosphorylation	Q9H1K1_S14-Phosphorylation	P05107_T758-Phosphorylation	P05107_T758-Phosphorylation	Q9NQT8_S1381-Phosphorylation	Q02241_S814-Phosphorylation	Q9H0B6_S545-Phosphorylation	Q9H0B6_S582-Phosphorylation	P02545_S404-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S1444-Phosphorylation	Q5S007_T2524-Phosphorylation	Q86X29_S493-Phosphorylation	Q99759_T294-Phosphorylation	Q99683_S966-Phosphorylation	Q99683_S966-Phosphorylation	Q7KZI7_S400-Phosphorylation	Q7KZI7_T596-Phosphorylation	Q7KZI7_T596-Phosphorylation	O15151_S367-Phosphorylation	O15151_S367-Phosphorylation	Q9GZY8_S157-Phosphorylation	Q04912_S1394-Phosphorylation	Q04912_S1394-Phosphorylation	Q9H9Q4_T181-Phosphorylation	Q96E09_S37-Phosphorylation	Q53EL6_S76-Phosphorylation	Q14432_S428-Phosphorylation	Q13370_S318-Phosphorylation	O15530_T354-Phosphorylation	O60825_S483-Phosphorylation	Q9UKF7_S274-Phosphorylation	Q9UKF7_S299-Phosphorylation	Q99959_S82-Phosphorylation	O14974_S472-Phosphorylation	Q02156_S346-Phosphorylation	Q02156_S346-Phosphorylation	Q02156_S368-Phosphorylation	Q02156_S368-Phosphorylation	Q15139_S205-Phosphorylation	Q15139_S208-Phosphorylation	Q15139_S219-Phosphorylation	Q15139_S223-Phosphorylation	Q9Y580_S136-Phosphorylation	Q9Y580_S204-Phosphorylation	O75628_S18-Phosphorylation	P49802_S434-Phosphorylation	Q6R327_T1135-Phosphorylation	Q13671_S351-Phosphorylation	Q96TC7_Y176-Phosphorylation	P61587_S210-Phosphorylation	P61587_S218-Phosphorylation	P61587_S240-Phosphorylation	Q9NSI8_S23-Phosphorylation	O94885_S90-Phosphorylation	Q9P0V3_S246-Phosphorylation	Q9Y2K2_T469-Phosphorylation	Q9Y2K2_S551-Phosphorylation	Q96PX8_S695-Phosphorylation	P78362_T492-Phosphorylation	Q8WYL5_S834-Phosphorylation	Q8WYL5_S937-Phosphorylation	Q8WYL5_S937-Phosphorylation	Q8WYL5_S978-Phosphorylation	Q8WYL5_S978-Phosphorylation	Q8WYL5_S978-Phosphorylation	O60343_S341-Phosphorylation	O60343_T642-Phosphorylation	Q6N021_S99-Phosphorylation	P19484_S211-Phosphorylation	Q13009_S60-Phosphorylation	Q13009_S172-Phosphorylation	Q13009_S231-Phosphorylation	Q13009_S695-Phosphorylation	P40818_S718-Phosphorylation	Q9GZV5_S89-Phosphorylation	Q07352_S54-Phosphorylation	Q07352_S92-Phosphorylation	Q07352_S92-Phosphorylation	Q07352_S203-Phosphorylation	Q8NHG8_S19-Phosphorylation"
+P31946->Inhibit	PTMint:Interactions	"P30305_S169-Phosphorylation	P30305_S321-Phosphorylation	Q12778_S249-Phosphorylation	Q99683_T838-Phosphorylation	Q684P5_S7-Phosphorylation	Q9GZV5_S93-Phosphorylation	P46937_S128-Phosphorylation	P46937_S128-Phosphorylation"
+P31947->Enhance	PTMint:Interactions	"P15144_S43-Phosphorylation	P15144_T63-Phosphorylation	Q8WV28_T152-Phosphorylation	Q8WV28_S285-Phosphorylation	P46527_T198-Phosphorylation	O14757_S345-Phosphorylation	Q8NHY2_S387-Phosphorylation	P03372_T594-Phosphorylation	Q9UQ84_S746-Phosphorylation	Q12778_T24-Phosphorylation	Q12778_S256-Phosphorylation	P09651_S4-Phosphorylation	P09651_S6-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S1444-Phosphorylation	Q5S007_T2524-Phosphorylation	Q5S007_S910-Phosphorylation	Q14432_S428-Phosphorylation	Q9Y446_S285-Phosphorylation	O95863_S11-Phosphorylation	P49675_S57-Phosphorylation	P49675_S195-Phosphorylation	Q86TI0_S237-Phosphorylation	Q86TI0_T596-Phosphorylation	Q13107_S445-Phosphorylation	P46937_S127-Phosphorylation"
+P31947->Inhibit	PTMint:Interactions	P30305_S169-Phosphorylation
+P31949->Inhibit	PTMint:Interactions	P04083_S5-Phosphorylation
+P32121->Enhance	PTMint:Interactions	"P30556_T332-Phosphorylation	P30556_S335-Phosphorylation	P30556_T336-Phosphorylation	P30556_S338-Phosphorylation	Q16581_S459-Phosphorylation	Q16581_T463-Phosphorylation	Q16581_S465-Phosphorylation	Q16581_T466-Phosphorylation	Q16581_S470-Phosphorylation	O60500_T1120-Phosphorylation	O60500_T1125-Phosphorylation"
+P32121->Inhibit	PTMint:Interactions	"Q9P2K8_T899-Phosphorylation	O60500_Y1193-Phosphorylation"
+P32780->Enhance	PTMint:Interactions	"P10276_S369-Phosphorylation	P04637_K373-Acetylation	P04637_K382-Acetylation	P04637_S46-Phosphorylation	P04637_S46-Phosphorylation	P04637_T55-Phosphorylation	P04637_T55-Phosphorylation"
+P33151->Inhibit	PTMint:Interactions	"O60716_S879-Phosphorylation	O60716_S879-Phosphorylation	O60716_S879-Phosphorylation"
+P33176->Enhance	PTMint:Interactions	Q71U36_K40-Acetylation
+P33992->Enhance	PTMint:Interactions	P33993_Y600-Phosphorylation
+P35221->Enhance	PTMint:Interactions	"P22681_Y731-Phosphorylation	P14923_Y550-Phosphorylation"
+P35221->Inhibit	PTMint:Interactions	"P35222_K133-Methylation	P14923_Y133-Phosphorylation	P14923_Y644-Phosphorylation"
+P35222->Enhance	PTMint:Interactions	"P25054_S1505-Phosphorylation	P25054_S1507-Phosphorylation	Q92793_S93-Phosphorylation	P17844_Y593-Phosphorylation	Q09472_S12-Phosphorylation	Q9UJU2_S42-Phosphorylation	Q9UJU2_S61-Phosphorylation	Q96BN8_Y56-Phosphorylation	P61586_Y42-Phosphorylation	P35398_S35-Phosphorylation	P46937_S127-Phosphorylation"
+P35222->Inhibit	PTMint:Interactions	"Q6P1J9_Y290-Phosphorylation	Q6P1J9_Y293-Phosphorylation	Q6P1J9_Y315-Phosphorylation	P12830_T790-Phosphorylation	P19022_Y860-Phosphorylation	P33151_Y731-Phosphorylation	P33151_Y731-Phosphorylation	P33151_Y731-Phosphorylation	P33151_Y731-Phosphorylation	P33151_Y731-Phosphorylation	P35221_S641-Phosphorylation	Q14247_S298-Phosphorylation	P01112_T144-Phosphorylation	P01112_T148-Phosphorylation	Q8WVC0_S88-Phosphorylation	Q8WVC0_S91-Phosphorylation	Q8WVC0_S110-Phosphorylation	P14618_S37-Phosphorylation	P49768_S353-Phosphorylation	P49768_S353-Phosphorylation	P49768_S357-Phosphorylation	P49768_S357-Phosphorylation	O60907_K560-Sumoylation"
+P35226->Enhance	PTMint:Interactions	"Q03111_S394-Phosphorylation	Q03111_S398-Phosphorylation"
+P35240->Inhibit	PTMint:Interactions	"P35240_S518-Phosphorylation	P35240_S518-Phosphorylation"
+P35244->Enhance	PTMint:Interactions	"P43351_K133-Acetylation	P43351_K177-Acetylation	P43351_K190-Acetylation	P43351_K192-Acetylation	P43351_K262-Acetylation	P43351_K274-Acetylation	P43351_K286-Acetylation	P43351_K323-Acetylation	P43351_K344-Acetylation	P43351_K406-Acetylation"
+P35251->Inhibit	PTMint:Interactions	P18858_S51-Phosphorylation
+P35269->Enhance	PTMint:Interactions	"Q9Y5B0_T584-Phosphorylation	Q9Y5B0_T584-Phosphorylation	Q9Y5B0_S942-Phosphorylation	Q9Y5B0_S942-Phosphorylation	Q9Y5B0_S944-Phosphorylation	Q9Y5B0_S944-Phosphorylation"
+P35398->Enhance	PTMint:Interactions	O75469_S350-Phosphorylation
+P35568->Enhance	PTMint:Interactions	"P16671_K469-Ubiquitination	P16671_K472-Ubiquitination	P07949_Y1062-Phosphorylation"
+P35579->Enhance	PTMint:Interactions	P12821_S1299-Phosphorylation
+P35580->Inhibit	PTMint:Interactions	P60709_K84-Methylation
+P35637->Inhibit	PTMint:Interactions	P35637_S61-Phosphorylation
+P35658->Inhibit	PTMint:Interactions	"Q9UMR2_S93-Phosphorylation	Q9UMR2_S93-Phosphorylation"
+P35813->Inhibit	PTMint:Interactions	Q15797_S239-Phosphorylation
+P36406->Inhibit	PTMint:Interactions	O00541_K517-Sumoylation
+P36507->Enhance	PTMint:Interactions	P28482_S29-Phosphorylation
+P36542->Enhance	PTMint:Interactions	Q9Y4P1_S34-Phosphorylation
+P36575->Enhance	PTMint:Interactions	"P07550_S355-Phosphorylation	P07550_S356-Phosphorylation	P07550_S364-Phosphorylation	P21728_T244-Phosphorylation	P21728_T245-Phosphorylation	P21728_S254-Phosphorylation	P21728_T428-Phosphorylation	P21728_S431-Phosphorylation	P21728_T439-Phosphorylation"
+P36873->Inhibit	PTMint:Interactions	"Q69YH5_T412-Phosphorylation	Q14643_K350-Methylation	O94763_S372-Phosphorylation	O94763_S372-Phosphorylation	O94763_S372-Phosphorylation"
+P36897->Inhibit	PTMint:Interactions	Q15796_S417-Phosphorylation
+P37231->Enhance	PTMint:Interactions	Q9Y4C1_S265-Phosphorylation
+P37840->Inhibit	PTMint:Interactions	"O43768_S109-Phosphorylation	P37840_S129-Phosphorylation"
+P38398->Enhance	PTMint:Interactions	"Q6UWZ7_S404-Phosphorylation	Q6UWZ7_S406-Phosphorylation	Q13085_S1263-Phosphorylation	Q13085_S1263-Phosphorylation	Q13085_S1263-Phosphorylation	Q8WXE1_S239-Phosphorylation	Q9BX63_S990-Phosphorylation	Q09472_R754-Methylation	Q03468_S1276-Phosphorylation	P33778_K121-Ubiquitination	Q99708_S327-Phosphorylation	Q99708_S327-Phosphorylation"
+P38398->Inhibit	PTMint:Interactions	"Q99708_S664-Phosphorylation	Q99708_S745-Phosphorylation"
+P38936->Enhance	PTMint:Interactions	O14757_S345-Phosphorylation
+P39748->Enhance	PTMint:Interactions	P12004_K248-Methylation
+P40337->Enhance	PTMint:Interactions	"Q16665_K532-Acetylation	P07737_Y129-Phosphorylation	P40337_K171-Sumoylation"
+P40337->Inhibit	PTMint:Interactions	"Q16665_S451-Phosphorylation	P10244_Y15-Phosphorylation"
+P40429->Enhance	PTMint:Interactions	P07814_S886-Phosphorylation
+P40763->Enhance	PTMint:Interactions	"P07355_Y24-Phosphorylation	O15392_K129-Acetylation	P11362_Y677-Phosphorylation	Q13651_Y496-Phosphorylation	O15162_Y69-Phosphorylation	O15162_Y74-Phosphorylation	Q96EB6_Y280-Phosphorylation	Q96EB6_Y301-Phosphorylation	Q9UGK3_Y322-Phosphorylation"
+P40926->Enhance	PTMint:Interactions	"P00505_K159-Acetylation	P00505_K185-Acetylation	P00505_K404-Acetylation"
+P41002->Enhance	PTMint:Interactions	P31350_T33-Phosphorylation
+P41143->Inhibit	PTMint:Interactions	"Q9H492_K49-Acetylation	Q9H492_K51-Acetylation"
+P41161->Inhibit	PTMint:Interactions	Q96T49_S331-Phosphorylation
+P41180->Inhibit	PTMint:Interactions	P63244_Y52-Phosphorylation
+P41220->Enhance	PTMint:Interactions	"P32239_S434-Phosphorylation	P32239_T439-Phosphorylation"
+P41235->Enhance	PTMint:Interactions	O75469_S350-Phosphorylation
+P41240->Enhance	PTMint:Interactions	"Q03135_Y14-Phosphorylation	Q03135_Y14-Phosphorylation	P10747_Y191-Phosphorylation	P10747_Y209-Phosphorylation	P33151_Y685-Phosphorylation	P46108_Y239-Phosphorylation	P00533_Y998-Phosphorylation	Q9Y624_Y280-Phosphorylation	Q6GTX8_Y251-Phosphorylation	Q8N423_Y562-Phosphorylation	O95866_Y211-Phosphorylation	O95866_Y237-Phosphorylation	Q9NWQ8_Y317-Phosphorylation	Q9Y2R2_S751-Phosphorylation	O43294_Y60-Phosphorylation"
+P42224->Enhance	PTMint:Interactions	"Q15303_Y1035-Phosphorylation	P17181_Y466-Phosphorylation	P40763_Y705-Phosphorylation	P40763_Y705-Phosphorylation	P40763_Y705-Phosphorylation	P40763_Y705-Phosphorylation	P40763_Y705-Phosphorylation	P40763_Y705-Phosphorylation	P40763_Y705-Phosphorylation	P40763_Y705-Phosphorylation"
+P42224->Inhibit	PTMint:Interactions	"P52630_T404-Phosphorylation	P52630_T404-Phosphorylation	P52630_T404-Phosphorylation	P52630_T404-Phosphorylation	P52630_T404-Phosphorylation	P52630_T404-Phosphorylation	P52630_T404-Phosphorylation	P52630_T404-Phosphorylation"
+P42226->Enhance	PTMint:Interactions	P42226_Y641-Phosphorylation
+P42229->Enhance	PTMint:Interactions	"P00533_Y978-Phosphorylation	P00533_Y998-Phosphorylation	Q15303_Y984-Phosphorylation	P52333_Y939-Phosphorylation	P52333_Y939-Phosphorylation	P14618_S202-Phosphorylation"
+P42262->Enhance	PTMint:Interactions	"Q9NRD5_S339-Phosphorylation	Q9NRD5_S342-Phosphorylation	Q9NRD5_S411-Phosphorylation	Q9NRD5_S415-Phosphorylation"
+P42336->Enhance	PTMint:Interactions	"O95866_Y211-Phosphorylation	O95866_Y237-Phosphorylation	P01111_S89-Phosphorylation	P01111_S89-Phosphorylation"
+P42345->Enhance	PTMint:Interactions	Q8N122_S859-Phosphorylation
+P42345->Inhibit	PTMint:Interactions	"Q8TB45_T241-Phosphorylation	Q8TB45_S244-Phosphorylation	Q8TB45_S258-Phosphorylation	Q8TB45_T259-Phosphorylation	Q8TB45_S263-Phosphorylation	Q8TB45_S265-Phosphorylation	Q8TB45_S282-Phosphorylation	Q8TB45_S283-Phosphorylation	Q8TB45_S287-Phosphorylation	Q8TB45_S293-Phosphorylation	Q8TB45_S297-Phosphorylation	Q8TB45_S298-Phosphorylation	Q8TB45_S299-Phosphorylation"
+P42566->Enhance	PTMint:Interactions	Q16625_S490-Phosphorylation
+P42574->Inhibit	PTMint:Interactions	"P98170_S40-Phosphorylation	P98170_S40-Phosphorylation"
+P42679->Enhance	PTMint:Interactions	"P10721_Y568-Phosphorylation	P10721_Y568-Phosphorylation	P10721_Y568-Phosphorylation	P10721_Y570-Phosphorylation	P10721_Y570-Phosphorylation	P10721_Y570-Phosphorylation"
+P42684->Enhance	PTMint:Interactions	"P46108_Y251-Phosphorylation	Q15303_Y1056-Phosphorylation	Q15303_Y1056-Phosphorylation	Q15303_Y1056-Phosphorylation	Q15303_Y1081-Phosphorylation	Q15303_Y1081-Phosphorylation	Q15303_Y1081-Phosphorylation	Q15303_Y1150-Phosphorylation	Q15303_Y1150-Phosphorylation	Q15303_Y1150-Phosphorylation	Q15303_Y1162-Phosphorylation	Q15303_Y1162-Phosphorylation	Q15303_Y1162-Phosphorylation	Q15303_Y1188-Phosphorylation	Q15303_Y1188-Phosphorylation	Q15303_Y1188-Phosphorylation	Q15303_Y1242-Phosphorylation	Q15303_Y1242-Phosphorylation	Q15303_Y1242-Phosphorylation	Q9H7P9_Y489-Phosphorylation"
+P42702->Inhibit	PTMint:Interactions	Q14765_S713-Phosphorylation
+P42768->Inhibit	PTMint:Interactions	"O43516_S488-Phosphorylation	O43516_S488-Phosphorylation"
+P42858->Enhance	PTMint:Interactions	P42858_T3-Phosphorylation
+P42858->Inhibit	PTMint:Interactions	"P42858_S13-Phosphorylation	P42858_S16-Phosphorylation	P07737_S138-Phosphorylation"
+P43034->Inhibit	PTMint:Interactions	Q9NXR1_T131-Phosphorylation
+P43119->Enhance	PTMint:Interactions	Q5T2W1_S505-Phosphorylation
+P43121->Enhance	PTMint:Interactions	P26038_T558-Phosphorylation
+P43268->Enhance	PTMint:Interactions	Q9Y6Q9_S857-Phosphorylation
+P43403->Enhance	PTMint:Interactions	"O15117_Y571-Phosphorylation	Q9NZS2_Y7-Phosphorylation"
+P43405->Enhance	PTMint:Interactions	"Q00610_Y1477-Phosphorylation	Q15303_Y1150-Phosphorylation	Q15303_Y1150-Phosphorylation	Q15303_Y1150-Phosphorylation	Q15303_Y1202-Phosphorylation	Q15303_Y1202-Phosphorylation	Q15303_Y1202-Phosphorylation	Q9NZS2_Y7-Phosphorylation	O95866_Y211-Phosphorylation	O95866_Y237-Phosphorylation	P40238_Y591-Phosphorylation"
+P43487->Enhance	PTMint:Interactions	P46060_S358-Phosphorylation
+P45973->Enhance	PTMint:Interactions	"P10412_K26-Methylation	P51608_S229-Phosphorylation"
+P45973->Inhibit	PTMint:Interactions	"P10412_S27-Phosphorylation	P68431_S11-Phosphorylation	P68431_S11-Phosphorylation	P68431_Y42-Phosphorylation"
+P45974->Enhance	PTMint:Interactions	"Q86U44_S43-Phosphorylation	Q86U44_S50-Phosphorylation	Q86U44_S525-Phosphorylation"
+P45983->Enhance	PTMint:Interactions	"O43524_K242-Acetylation	O43524_K259-Acetylation	O43524_K290-Acetylation	O43524_K569-Acetylation	P09211_Y199-Phosphorylation"
+P45983->Inhibit	PTMint:Interactions	Q13233_S67-Phosphorylation
+P46013->Enhance	PTMint:Interactions	"Q9BYG3_T234-Phosphorylation	Q9BYG3_T234-Phosphorylation	Q9BYG3_T238-Phosphorylation"
+P46060->Inhibit	PTMint:Interactions	P62826_S135-Phosphorylation
+P46108->Enhance	PTMint:Interactions	"O75553_Y220-Phosphorylation	O75553_Y232-Phosphorylation	P00533_Y998-Phosphorylation	P00533_Y998-Phosphorylation	P54753_Y614-Phosphorylation	Q15303_Y1022-Phosphorylation	Q15303_Y1150-Phosphorylation	P11362_Y463-Phosphorylation	P35916_Y1063-Phosphorylation	P35916_Y1063-Phosphorylation	P35916_Y1337-Phosphorylation	P10721_Y900-Phosphorylation	P10721_Y900-Phosphorylation	O14543_Y221-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation	P43403_Y315-Phosphorylation"
+P46109->Enhance	PTMint:Interactions	"Q9UQC2_Y266-Phosphorylation	Q9UQC2_Y293-Phosphorylation	Q14847_Y171-Phosphorylation	P16234_Y762-Phosphorylation"
+P46109->Inhibit	PTMint:Interactions	P50552_S157-Phosphorylation
+P46934->Enhance	PTMint:Interactions	O95600_S48-Phosphorylation
+P46937->Enhance	PTMint:Interactions	Q4VCS5_S175-Phosphorylation
+P46937->Inhibit	PTMint:Interactions	"Q4VCS5_T750-Phosphorylation	Q9Y2J4_S759-Phosphorylation"
+P46940->Enhance	PTMint:Interactions	"P15144_Y6-Phosphorylation	Q12778_S319-Phosphorylation	Q8IVH8_Y735-Phosphorylation	Q9H0H5_T249-Phosphorylation"
+P46940->Inhibit	PTMint:Interactions	"O75122_S533-Phosphorylation	O75122_S537-Phosphorylation	Q9H0W8_Y41-Phosphorylation"
+P46977->Enhance	PTMint:Interactions	Q9NZQ7_Y112-Phosphorylation
+P48163->Enhance	PTMint:Interactions	P48163_K337-Acetylation
+P48163->Inhibit	PTMint:Interactions	P48163_S336-Phosphorylation
+P48729->Inhibit	PTMint:Interactions	O15151_S367-Phosphorylation
+P48735->Inhibit	PTMint:Interactions	"P48735_K413-Acetylation	P48735_K413-Acetylation	P48735_K413-Acetylation	P48735_K413-Acetylation	P48735_K413-Acetylation	P48735_K413-Acetylation"
+P49023->Enhance	PTMint:Interactions	Q9Y2X7_Y246-Phosphorylation
+P49336->Enhance	PTMint:Interactions	P84022_T388-Phosphorylation
+P49407->Enhance	PTMint:Interactions	"P25106_T352-Phosphorylation	P25106_S355-Phosphorylation	P07550_Y219-Phosphorylation	P30556_T332-Phosphorylation	P30556_T332-Phosphorylation	P30556_S335-Phosphorylation	P30556_S335-Phosphorylation	P30556_T336-Phosphorylation	P30556_T336-Phosphorylation	P30556_S338-Phosphorylation	P30556_S338-Phosphorylation	P08100_T336-Phosphorylation	P08100_S338-Phosphorylation"
+P49407->Inhibit	PTMint:Interactions	"P63010_Y737-Phosphorylation	Q9P2K8_T899-Phosphorylation"
+P49711->Inhibit	PTMint:Interactions	P28698_S27-Phosphorylation
+P49736->Enhance	PTMint:Interactions	P33993_Y600-Phosphorylation
+P49790->Inhibit	PTMint:Interactions	Q69YH5_T412-Phosphorylation
+P49841->Enhance	PTMint:Interactions	P30304_T80-Phosphorylation
+P49841->Inhibit	PTMint:Interactions	O95863_S107-Phosphorylation
+P49959->Enhance	PTMint:Interactions	"P63167_S88-Phosphorylation	O94761_S89-Phosphorylation	O94761_S251-Phosphorylation	Q14191_S1133-Phosphorylation"
+P50148->Enhance	PTMint:Interactions	"P25098_Y13-Phosphorylation	P25098_Y86-Phosphorylation	P25098_Y92-Phosphorylation"
+P50238->Inhibit	PTMint:Interactions	P21554_T467-Phosphorylation
+P50502->Enhance	PTMint:Interactions	P0DMV8_K77-Acetylation
+P50539->Enhance	PTMint:Interactions	Q9Y6D9_S214-Phosphorylation
+P50539->Inhibit	PTMint:Interactions	Q15013_S102-Phosphorylation
+P50552->Inhibit	PTMint:Interactions	P07737_S138-Phosphorylation
+P50750->Enhance	PTMint:Interactions	"P51825_S212-Phosphorylation	P51825_T220-Phosphorylation	O60885_T204-Phosphorylation"
+P51159->Inhibit	PTMint:Interactions	P46940_S1443-Phosphorylation
+P51168->Inhibit	PTMint:Interactions	"Q96PU5_S342-Phosphorylation	Q96PU5_S448-Phosphorylation"
+P51530->Enhance	PTMint:Interactions	P63167_S88-Phosphorylation
+P51532->Enhance	PTMint:Interactions	P68431_Y42-Phosphorylation
+P51587->Enhance	PTMint:Interactions	"Q9BXW9_S331-Phosphorylation	Q9BXW9_S331-Phosphorylation	O15287_S7-Phosphorylation	O15287_S7-Phosphorylation"
+P51668->Enhance	PTMint:Interactions	"Q13191_Y363-Phosphorylation	Q9NS56_S98-Phosphorylation"
+P51946->Enhance	PTMint:Interactions	P10276_S369-Phosphorylation
+P52292->Inhibit	PTMint:Interactions	O43148_T77-Phosphorylation
+P52294->Enhance	PTMint:Interactions	"O14746_S227-Phosphorylation	Q8IWR1_S308-Phosphorylation"
+P52294->Inhibit	PTMint:Interactions	"P35611_S716-Phosphorylation	P46527_T157-Phosphorylation	P49585_K57-Ubiquitination"
+P52306->Inhibit	PTMint:Interactions	P61224_S179-Phosphorylation
+P52565->Enhance	PTMint:Interactions	"P26038_T558-Phosphorylation	P61586_S188-Phosphorylation"
+P52594->Enhance	PTMint:Interactions	"Q15628_S215-Phosphorylation	Q15628_S296-Phosphorylation"
+P52630->Enhance	PTMint:Interactions	"P17181_Y466-Phosphorylation	P17181_Y466-Phosphorylation"
+P52701->Enhance	PTMint:Interactions	P68431_K37-Methylation
+P52735->Enhance	PTMint:Interactions	"Q8WWN8_Y1403-Phosphorylation	Q8WWN8_Y1408-Phosphorylation	P29317_Y588-Phosphorylation	P29317_Y594-Phosphorylation	Q15303_Y1162-Phosphorylation"
+P53004->Enhance	PTMint:Interactions	P09601_S188-Phosphorylation
+P53041->Enhance	PTMint:Interactions	P07900_T90-Phosphorylation
+P53350->Enhance	PTMint:Interactions	"Q02952_T767-Phosphorylation	Q9UBB4_S12-Phosphorylation	P51587_T77-Phosphorylation	P51587_T207-Phosphorylation	O43683_T609-Phosphorylation	O60566_T620-Phosphorylation	Q14790_S387-Phosphorylation	Q71F23_T78-Phosphorylation	Q8TEP8_T44-Phosphorylation	Q8TEP8_S995-Phosphorylation	Q53EZ4_S425-Phosphorylation	Q53EZ4_S428-Phosphorylation	O00399_T186-Phosphorylation	O14641_S143-Phosphorylation	O14641_T224-Phosphorylation	Q8TAP9_T120-Phosphorylation	P42898_T34-Phosphorylation	P42695_T1415-Phosphorylation	Q8NHV4_S460-Phosphorylation	Q8NHV4_T550-Phosphorylation	Q8NHV4_T550-Phosphorylation	Q8TD19_S869-Phosphorylation	Q9Y2I6_S185-Phosphorylation	Q3KR16_T544-Phosphorylation	Q99708_S327-Phosphorylation	Q8IX90_T360-Phosphorylation	Q92574_T310-Phosphorylation	P63279_S71-Phosphorylation	Q9Y5T5_S552-Phosphorylation	P30291_S123-Phosphorylation	P30291_S139-Phosphorylation"
+P53355->Enhance	PTMint:Interactions	Q13224_S1303-Phosphorylation
+P53667->Enhance	PTMint:Interactions	Q02241_S716-Phosphorylation
+P53671->Inhibit	PTMint:Interactions	"Q8TEW0_Y1127-Phosphorylation	Q8TEW0_Y1127-Phosphorylation	Q8TEW0_Y1127-Phosphorylation"
+P53999->Enhance	PTMint:Interactions	"P04637_K381-Acetylation	P04637_K382-Acetylation"
+P54132->Enhance	PTMint:Interactions	P63167_S88-Phosphorylation
+P54132->Inhibit	PTMint:Interactions	"P04637_S376-Phosphorylation	P04637_S378-Phosphorylation"
+P54198->Enhance	PTMint:Interactions	P62805_S48-Phosphorylation
+P54920->Inhibit	PTMint:Interactions	P46459_Y83-Phosphorylation
+P55072->Enhance	PTMint:Interactions	"Q03135_K5-Ubiquitination	Q03135_K26-Ubiquitination	Q03135_K30-Ubiquitination	Q03135_K39-Ubiquitination	Q03135_K47-Ubiquitination	Q03135_K57-Ubiquitination"
+P55072->Inhibit	PTMint:Interactions	"Q9UNN5_S582-Phosphorylation	Q9UNN5_S582-Phosphorylation	Q9UNN5_S582-Phosphorylation	Q92890_S229-Phosphorylation	Q96JH7_T761-Phosphorylation	Q96JH7_S768-Phosphorylation"
+P55210->Inhibit	PTMint:Interactions	P98170_S40-Phosphorylation
+P55211->Enhance	PTMint:Interactions	O15392_T34-Phosphorylation
+P55211->Inhibit	PTMint:Interactions	P55210_S30-Phosphorylation
+P55317->Enhance	PTMint:Interactions	P04637_K373-Acetylation
+P55957->Enhance	PTMint:Interactions	"Q13535_S428-Phosphorylation	Q16611_Y110-Phosphorylation"
+P56524->Enhance	PTMint:Interactions	"P15976_S161-Phosphorylation	P15976_S187-Phosphorylation"
+P56545->Enhance	PTMint:Interactions	Q13363_T144-Phosphorylation
+P56945->Enhance	PTMint:Interactions	"P46108_Y221-Phosphorylation	P46108_Y221-Phosphorylation	P46108_Y221-Phosphorylation	Q52LA3_S28-Phosphorylation	P50281_Y573-Phosphorylation	Q05397_Y861-Phosphorylation"
+P56945->Inhibit	PTMint:Interactions	Q05397_S910-Phosphorylation
+P57075->Enhance	PTMint:Interactions	P43403_K544-Ubiquitination
+P57739->Inhibit	PTMint:Interactions	Q16625_S408-Phosphorylation
+P58215->Enhance	PTMint:Interactions	O95863_S11-Phosphorylation
+P58753->Enhance	PTMint:Interactions	"Q15109_S391-Phosphorylation	P41181_S256-Phosphorylation"
+P60484->Enhance	PTMint:Interactions	O00308_K473-Sumoylation
+P60484->Inhibit	PTMint:Interactions	P08473_S6-Phosphorylation
+P60709->Enhance	PTMint:Interactions	"P04083_T24-Phosphorylation	O43602_S28-Phosphorylation	O14745_S280-Phosphorylation	O14745_S302-Phosphorylation"
+P60709->Inhibit	PTMint:Interactions	"O43707_Y11-Phosphorylation	O43707_Y13-Phosphorylation	O43707_Y31-Phosphorylation	O43707_Y265-Phosphorylation	P24588_T87-Phosphorylation	P24588_S92-Phosphorylation	Q4VCS5_S175-Phosphorylation	P31146_T412-Phosphorylation	Q01995_S181-Phosphorylation	P37802_S83-Phosphorylation	P37802_S163-Phosphorylation	P19429_S150-Phosphorylation"
+P60763->Enhance	PTMint:Interactions	"Q92793_R742-Methylation	Q92793_R768-Methylation	Q92793_R2151-Methylation"
+P60842->Enhance	PTMint:Interactions	"Q04637_S1231-Phosphorylation	Q04637_S1231-Phosphorylation	Q04637_S1231-Phosphorylation	Q04637_S1231-Phosphorylation	Q04637_S1231-Phosphorylation	Q04637_S1231-Phosphorylation	Q04637_S1231-Phosphorylation"
+P60880->Enhance	PTMint:Interactions	O95295_S50-Phosphorylation
+P60880->Inhibit	PTMint:Interactions	O95295_T117-Phosphorylation
+P60903->Inhibit	PTMint:Interactions	"P07355_S12-Phosphorylation	P07355_S12-Phosphorylation	P07355_S26-Phosphorylation"
+P60953->Enhance	PTMint:Interactions	"Q03135_Y14-Phosphorylation	P46940_S1443-Phosphorylation	P10911_Y510-Phosphorylation	Q15642_T225-Phosphorylation"
+P60953->Inhibit	PTMint:Interactions	"P52565_S174-Phosphorylation	P52566_Y24-Phosphorylation	P52566_S31-Phosphorylation	P52566_Y153-Phosphorylation	Q9H3Q1_S18-Phosphorylation	Q9H3Q1_S80-Phosphorylation"
+P61006->Inhibit	PTMint:Interactions	Q96CV9_S177-Phosphorylation
+P61073->Enhance	PTMint:Interactions	"P02794_S179-Phosphorylation	Q14847_S146-Phosphorylation"
+P61073->Inhibit	PTMint:Interactions	Q14847_Y171-Phosphorylation
+P61081->Enhance	PTMint:Interactions	"Q00987_Y281-Phosphorylation	Q00987_Y302-Phosphorylation"
+P61158->Enhance	PTMint:Interactions	Q92558_Y125-Phosphorylation
+P61160->Inhibit	PTMint:Interactions	O60234_Y104-Phosphorylation
+P61244->Inhibit	PTMint:Interactions	"P01106_S373-Phosphorylation	P01106_S373-Phosphorylation	P01106_T400-Phosphorylation	P01106_T400-Phosphorylation"
+P61289->Enhance	PTMint:Interactions	"P61289_K195-Acetylation	P61289_K195-Acetylation	P61289_K195-Acetylation	P61289_K195-Acetylation	P61289_K195-Acetylation	P61289_K195-Acetylation"
+P61586->Enhance	PTMint:Interactions	P10911_Y510-Phosphorylation
+P61586->Inhibit	PTMint:Interactions	"P52565_K178-Acetylation	P52565_S34-Phosphorylation	P52565_S96-Phosphorylation	P52565_S96-Phosphorylation	P52565_Y156-Phosphorylation	P52566_Y24-Phosphorylation	P52566_Y153-Phosphorylation	O75116_Y722-Phosphorylation	Q93073_T573-Phosphorylation"
+P61764->Inhibit	PTMint:Interactions	Q16623_S14-Phosphorylation
+P61981->Enhance	PTMint:Interactions	"Q9P0K1_S834-Phosphorylation	Q9P0K1_S857-Phosphorylation	Q12802_S1565-Phosphorylation	Q4VCS5_S175-Phosphorylation	O76090_S358-Phosphorylation	Q8WV28_T152-Phosphorylation	Q8WV28_S285-Phosphorylation	Q00536_S119-Phosphorylation	P46527_T157-Phosphorylation	Q9HC77_S1109-Phosphorylation	O14757_S296-Phosphorylation	Q9H3Z4_S10-Phosphorylation	P26358_S143-Phosphorylation	Q9NZJ0_T464-Phosphorylation	Q14249_T128-Phosphorylation	Q14249_S288-Phosphorylation	P03372_T594-Phosphorylation	Q12778_T24-Phosphorylation	P56524_S350-Phosphorylation	Q13094_S376-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S1444-Phosphorylation	Q5S007_S1444-Phosphorylation	Q5S007_T2524-Phosphorylation	Q99683_S966-Phosphorylation	O95382_S964-Phosphorylation	O15151_S367-Phosphorylation	O96013_S99-Phosphorylation	Q13835_S155-Phosphorylation	Q9NS28_S49-Phosphorylation	Q9NS28_S218-Phosphorylation	Q9NSI8_S23-Phosphorylation	O43791_S6-Phosphorylation	P49675_S57-Phosphorylation	P49675_S195-Phosphorylation	P43405_S297-Phosphorylation	P19484_S211-Phosphorylation	P07101_S19-Phosphorylation	P04637_S366-Phosphorylation	P04637_S366-Phosphorylation	P04637_S378-Phosphorylation	P04637_S378-Phosphorylation	P04637_T387-Phosphorylation	P04637_T387-Phosphorylation	Q8IWU9_S104-Phosphorylation	P49815_S939-Phosphorylation	Q15942_S142-Phosphorylation"
+P61981->Inhibit	PTMint:Interactions	Q9NS28_S216-Phosphorylation
+P62136->Inhibit	PTMint:Interactions	"Q92667_S151-Phosphorylation	Q92667_S159-Phosphorylation"
+P62191->Enhance	PTMint:Interactions	"Q13200_S361-Phosphorylation	Q13200_S361-Phosphorylation	Q13200_S361-Phosphorylation	Q13200_S361-Phosphorylation	Q13200_S361-Phosphorylation	Q13200_S361-Phosphorylation	Q13200_S361-Phosphorylation"
+P62195->Enhance	PTMint:Interactions	P08047_K16-Sumoylation
+P62258->Enhance	PTMint:Interactions	"Q9P0K1_S834-Phosphorylation	Q9P0K1_S857-Phosphorylation	O14727_S268-Phosphorylation	P54253_S775-Phosphorylation	Q9HCU9_S30-Phosphorylation	P46527_T157-Phosphorylation	P46527_T198-Phosphorylation	P46527_T198-Phosphorylation	Q9UPN4_S47-Phosphorylation	Q9UPN4_S78-Phosphorylation	Q96RK0_S173-Phosphorylation	Q9H3Z4_S10-Phosphorylation	Q9NZJ0_T464-Phosphorylation	P03372_T594-Phosphorylation	Q9UKT5_S12-Phosphorylation	Q9UQL6_S259-Phosphorylation	Q9UQL6_S498-Phosphorylation	Q00613_S303-Phosphorylation	Q00613_S307-Phosphorylation	Q13094_S376-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S1444-Phosphorylation	Q5S007_T2524-Phosphorylation	O15151_S367-Phosphorylation	O15553_S208-Phosphorylation	O15553_S242-Phosphorylation	Q14764_T52-Phosphorylation	Q14764_S864-Phosphorylation	P18615_S115-Phosphorylation	Q9UKF7_S274-Phosphorylation	Q9UKF7_S299-Phosphorylation	Q6R327_T1135-Phosphorylation	Q9P0V3_S246-Phosphorylation	Q07889_S1134-Phosphorylation	Q07889_S1161-Phosphorylation	P78362_T492-Phosphorylation	P49675_S57-Phosphorylation	P49675_S195-Phosphorylation	O60343_T568-Phosphorylation	O60343_T642-Phosphorylation	O60343_S751-Phosphorylation	Q6N021_S99-Phosphorylation	P19484_S211-Phosphorylation	P21980_S215-Phosphorylation	P21980_S216-Phosphorylation	P04637_S366-Phosphorylation	P04637_S378-Phosphorylation	P04637_T387-Phosphorylation	P49815_S939-Phosphorylation	P49815_S981-Phosphorylation"
+P62258->Inhibit	PTMint:Interactions	"P30305_S169-Phosphorylation	P30305_S321-Phosphorylation	Q9UQL6_S278-Phosphorylation	P63104_S58-Phosphorylation"
+P62330->Enhance	PTMint:Interactions	P15144_Y6-Phosphorylation
+P62805->Enhance	PTMint:Interactions	Q12888_S1317-Phosphorylation
+P62826->Enhance	PTMint:Interactions	P46060_S358-Phosphorylation
+P62837->Inhibit	PTMint:Interactions	Q9ULV8_Y341-Phosphorylation
+P62873->Inhibit	PTMint:Interactions	Q12798_T138-Phosphorylation
+P62879->Inhibit	PTMint:Interactions	Q16531_S645-Phosphorylation
+P62913->Inhibit	PTMint:Interactions	"Q9NZM5_S233-Phosphorylation	Q9NZM5_T289-Phosphorylation"
+P62942->Inhibit	PTMint:Interactions	P36897_T200-Phosphorylation
+P62993->Enhance	PTMint:Interactions	"Q8TDY4_Y733-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P30530_Y821-Phosphorylation	P11274_Y177-Phosphorylation	P11274_Y177-Phosphorylation	P11274_Y177-Phosphorylation	P11274_Y177-Phosphorylation	P11274_Y177-Phosphorylation	A9UF07_Y177-Phosphorylation	P30203_Y629-Phosphorylation	P00533_Y1092-Phosphorylation	P00533_Y1092-Phosphorylation	P00533_Y1092-Phosphorylation	P00533_Y1110-Phosphorylation	P00533_Y1110-Phosphorylation	P00533_Y1110-Phosphorylation	P00533_Y1172-Phosphorylation	P00533_Y1172-Phosphorylation	P00533_Y1172-Phosphorylation	P00533_Y1197-Phosphorylation	P00533_Y1197-Phosphorylation	P00533_Y1197-Phosphorylation	P04626_Y1139-Phosphorylation	P04626_Y1139-Phosphorylation	P04626_Y1139-Phosphorylation	P21860_Y1199-Phosphorylation	P21860_Y1199-Phosphorylation	P21860_Y1199-Phosphorylation	P21860_Y1262-Phosphorylation	P21860_Y1262-Phosphorylation	P21860_Y1262-Phosphorylation	Q15303_Y1162-Phosphorylation	Q15303_Y1188-Phosphorylation	Q15303_Y1202-Phosphorylation	Q15303_Y1208-Phosphorylation	Q15303_Y1221-Phosphorylation	Q15303_Y1242-Phosphorylation	Q15303_Y1268-Phosphorylation	P36888_Y768-Phosphorylation	P36888_Y955-Phosphorylation	P36888_Y969-Phosphorylation	P35916_Y1230-Phosphorylation	P35916_Y1230-Phosphorylation	P35916_Y1230-Phosphorylation	P35916_Y1231-Phosphorylation	P35916_Y1231-Phosphorylation	P35916_Y1231-Phosphorylation	Q9H706_Y105-Phosphorylation	Q9H706_Y453-Phosphorylation	Q75VX8_Y102-Phosphorylation	Q75VX8_Y429-Phosphorylation	Q75VX8_Y551-Phosphorylation	P24394_Y575-Phosphorylation	O14654_Y921-Phosphorylation	P10721_Y936-Phosphorylation	P10721_Y936-Phosphorylation	P10721_Y936-Phosphorylation	Q5SQ64_Y281-Phosphorylation	Q5SQ64_Y281-Phosphorylation	P11137_Y67-Phosphorylation	P10911_Y510-Phosphorylation	Q9H204_Y64-Phosphorylation	Q9NPH5_Y491-Phosphorylation	P09619_Y716-Phosphorylation	Q9H792_Y635-Phosphorylation	P19174_Y783-Phosphorylation	O43157_Y1708-Phosphorylation	O43157_Y1732-Phosphorylation	Q05397_Y925-Phosphorylation	Q05397_Y925-Phosphorylation	Q05397_Y925-Phosphorylation	P29350_Y276-Phosphorylation	P29350_Y276-Phosphorylation	P29350_Y276-Phosphorylation	P29350_Y276-Phosphorylation	P29350_Y276-Phosphorylation	P29350_Y276-Phosphorylation	P29350_Y276-Phosphorylation	P29350_Y301-Phosphorylation	P29350_Y301-Phosphorylation	P29350_Y301-Phosphorylation	P29350_Y301-Phosphorylation	P29350_Y301-Phosphorylation	P29350_Y301-Phosphorylation	P29350_Y301-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y536-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P29350_Y564-Phosphorylation	P07949_Y1096-Phosphorylation	Q86WV1_Y271-Phosphorylation	P37173_Y284-Phosphorylation	Q495A1_Y225-Phosphorylation	O75674_Y460-Phosphorylation"
+P62993->Inhibit	PTMint:Interactions	"Q9UQC2_S210-Phosphorylation	Q9UQC2_S210-Phosphorylation	Q9UQC2_T391-Phosphorylation	Q9UQC2_T391-Phosphorylation"
+P63000->Enhance	PTMint:Interactions	"Q14185_S1250-Phosphorylation	Q13576_T716-Phosphorylation	P52564_Y219-Phosphorylation"
+P63000->Inhibit	PTMint:Interactions	"P52565_S96-Phosphorylation	P52565_Y156-Phosphorylation	P52566_Y24-Phosphorylation	P52566_Y24-Phosphorylation	P52566_S31-Phosphorylation	P52566_S31-Phosphorylation	P52566_Y153-Phosphorylation	P52566_Y153-Phosphorylation	P46940_S1441-Phosphorylation	P46940_S1443-Phosphorylation	P46940_S1443-Phosphorylation	Q86UR1_S172-Phosphorylation	Q86UR1_S282-Phosphorylation	Q7Z6J0_S304-Phosphorylation"
+P63027->Enhance	PTMint:Interactions	O95295_S50-Phosphorylation
+P63092->Enhance	PTMint:Interactions	Q3V6T2_S1675-Phosphorylation
+P63096->Enhance	PTMint:Interactions	Q3V6T2_S1675-Phosphorylation
+P63104->Enhance	PTMint:Interactions	"Q16613_T31-Phosphorylation	Q9P0K1_S834-Phosphorylation	Q9P0K1_S857-Phosphorylation	Q92974_S886-Phosphorylation	Q7Z3C6_S761-Phosphorylation	P54253_S775-Phosphorylation	P54253_S775-Phosphorylation	P54253_S775-Phosphorylation	Q92934_S99-Phosphorylation	Q9UQB8_T340-Phosphorylation	Q9UQB8_T360-Phosphorylation	Q8WV28_T152-Phosphorylation	Q8WV28_S285-Phosphorylation	Q06187_S51-Phosphorylation	Q06187_T495-Phosphorylation	P42575_S139-Phosphorylation	P42575_S164-Phosphorylation	Q9Y3M2_S20-Phosphorylation	Q9Y3M2_S20-Phosphorylation	Q8ND76_S326-Phosphorylation	Q00536_S119-Phosphorylation	Q9UPN4_S47-Phosphorylation	Q9UPN4_S78-Phosphorylation	P23528_S3-Phosphorylation	P23528_S23-Phosphorylation	P23528_S24-Phosphorylation	P35222_S552-Phosphorylation	Q9H3Z4_S10-Phosphorylation	P03372_T594-Phosphorylation	P21802_S782-Phosphorylation	P07954_S46-Phosphorylation	Q12778_T24-Phosphorylation	Q01113_S518-Phosphorylation	Q01113_T520-Phosphorylation	P05107_T758-Phosphorylation	Q92945_S193-Phosphorylation	Q13094_S376-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S1444-Phosphorylation	Q5S007_T2524-Phosphorylation	Q99683_S966-Phosphorylation	Q99683_S966-Phosphorylation	O15151_S367-Phosphorylation	Q86UR1_S172-Phosphorylation	Q86UR1_S461-Phosphorylation	P04150_S134-Phosphorylation	O96013_S99-Phosphorylation	Q8TEW0_S144-Phosphorylation	Q8TEW8_S746-Phosphorylation	P53350_S330-Phosphorylation	P53350_S597-Phosphorylation	Q9BZL4_S452-Phosphorylation	P61587_S240-Phosphorylation	O94875_S259-Phosphorylation	Q8WYL5_S978-Phosphorylation	Q6N021_S99-Phosphorylation	P19484_S211-Phosphorylation	P49815_S939-Phosphorylation	P49815_S981-Phosphorylation"
+P63104->Inhibit	PTMint:Interactions	"Q684P5_S7-Phosphorylation	P63104_S58-Phosphorylation	P63104_S58-Phosphorylation	P63104_S58-Phosphorylation	P63104_S58-Phosphorylation	P63104_S58-Phosphorylation	P63104_S58-Phosphorylation	P63104_S58-Phosphorylation	P63104_S58-Phosphorylation"
+P63151->Inhibit	PTMint:Interactions	Q9Y2U5_K260-Methylation
+P63165->Enhance	PTMint:Interactions	"Q9UER7_S737-Phosphorylation	Q9UER7_S739-Phosphorylation	Q99683_K535-Sumoylation	Q99683_K1083-Sumoylation"
+P63167->Enhance	PTMint:Interactions	O43521_S59-Phosphorylation
+P63167->Inhibit	PTMint:Interactions	"O43521_T116-Phosphorylation	P63167_S88-Phosphorylation	P63167_S88-Phosphorylation	P63167_S88-Phosphorylation	Q8TD19_S944-Phosphorylation	Q8TD19_S944-Phosphorylation"
+P63208->Inhibit	PTMint:Interactions	P37840_Y39-Phosphorylation
+P63244->Enhance	PTMint:Interactions	"Q14994_T38-Phosphorylation	P34741_Y179-Phosphorylation"
+P63279->Inhibit	PTMint:Interactions	P58012_S33-Phosphorylation
+P63316->Inhibit	PTMint:Interactions	"P19429_S39-Phosphorylation	P19429_S39-Phosphorylation	P19429_T143-Phosphorylation	P19429_S166-Phosphorylation"
+P67775->Enhance	PTMint:Interactions	"P56211_S62-Phosphorylation	O60566_S670-Phosphorylation	O60566_S676-Phosphorylation	P63244_Y302-Phosphorylation"
+P67775->Inhibit	PTMint:Interactions	"O96017_S33-Phosphorylation	O96017_S35-Phosphorylation	Q96E09_S37-Phosphorylation	Q9H0H5_S157-Phosphorylation	Q9H0H5_S170-Phosphorylation"
+P67809->Enhance	PTMint:Interactions	P51608_S80-Phosphorylation
+P68036->Inhibit	PTMint:Interactions	Q96J02_S687-Phosphorylation
+P68133->Enhance	PTMint:Interactions	"O43707_Y265-Phosphorylation	O43602_S47-Phosphorylation	O43602_S297-Phosphorylation	P15311_T567-Phosphorylation	Q16658_S39-Phosphorylation	P13796_S5-Phosphorylation"
+P68133->Inhibit	PTMint:Interactions	"O43707_Y4-Phosphorylation	O43707_Y31-Phosphorylation	Q4VCS5_S175-Phosphorylation	Q05682_S759-Phosphorylation	Q8IVT2_S376-Phosphorylation	Q8IVT2_S471-Phosphorylation	Q8IVT2_S541-Phosphorylation	Q8IVT2_S575-Phosphorylation	P07737_S138-Phosphorylation	P19429_S199-Phosphorylation"
+P68363->Inhibit	PTMint:Interactions	"P30622_S312-Phosphorylation	O43602_S47-Phosphorylation	O43602_S297-Phosphorylation"
+P68366->Enhance	PTMint:Interactions	Q96KB5_T9-Phosphorylation
+P68366->Inhibit	PTMint:Interactions	"Q14807_T463-Phosphorylation	P35240_S518-Phosphorylation"
+P68400->Enhance	PTMint:Interactions	Q14978_S563-Phosphorylation
+P68431->Enhance	PTMint:Interactions	"Q9Y294_S192-Phosphorylation	Q96KQ7_S211-Phosphorylation	P06748_K212-Acetylation	P06748_K215-Acetylation	P06748_K229-Acetylation	P06748_K230-Acetylation	P06748_K257-Acetylation	P06748_K267-Acetylation	P06748_K292-Acetylation"
+P68431->Inhibit	PTMint:Interactions	"P83916_T51-Phosphorylation	Q69YH5_S893-Phosphorylation	Q15910_S21-Phosphorylation"
+P78314->Enhance	PTMint:Interactions	P29350_Y564-Phosphorylation
+P78317->Enhance	PTMint:Interactions	"P35222_S45-Phosphorylation	P01106_S62-Phosphorylation"
+P78317->Inhibit	PTMint:Interactions	P08047_T739-Phosphorylation
+P78324->Enhance	PTMint:Interactions	Q9NPH5_Y491-Phosphorylation
+P78352->Enhance	PTMint:Interactions	Q9HCJ2_S631-Phosphorylation
+P78352->Inhibit	PTMint:Interactions	Q12879_S1459-Phosphorylation
+P78364->Inhibit	PTMint:Interactions	P35227_T334-Phosphorylation
+P78396->Enhance	PTMint:Interactions	"P24941_T160-Phosphorylation	P24941_T160-Phosphorylation"
+P78406->Enhance	PTMint:Interactions	"Q14683_S957-Phosphorylation	Q14683_S966-Phosphorylation"
+P78527->Enhance	PTMint:Interactions	O43156_S828-Phosphorylation
+P78536->Enhance	PTMint:Interactions	"P49023_Y118-Phosphorylation	P49023_S272-Phosphorylation	P49023_S274-Phosphorylation"
+P78536->Inhibit	PTMint:Interactions	P49023_S258-Phosphorylation
+P78560->Enhance	PTMint:Interactions	Q9HB75_T788-Phosphorylation
+P83916->Enhance	PTMint:Interactions	"P68431_K10-Methylation	P68431_K10-Methylation"
+P83916->Inhibit	PTMint:Interactions	P10412_S27-Phosphorylation
+P84022->Enhance	PTMint:Interactions	"P31947_S69-Phosphorylation	P31947_S74-Phosphorylation	Q13485_K507-Ubiquitination	Q13485_K507-Ubiquitination	Q13573_Y292-Phosphorylation"
+P84022->Inhibit	PTMint:Interactions	"Q9UPN9_Y524-Phosphorylation	Q9UPN9_Y610-Phosphorylation	Q9UPN9_Y1048-Phosphorylation"
+P84077->Enhance	PTMint:Interactions	"P06748_S70-Phosphorylation	P06748_S88-Phosphorylation	P11387_S506-Phosphorylation"
+P84077->Inhibit	PTMint:Interactions	P53367_S132-Phosphorylation
+P85037->Enhance	PTMint:Interactions	Q92560_T493-Phosphorylation
+P86791->Inhibit	PTMint:Interactions	"P51149_S72-Phosphorylation	P51149_Y183-Phosphorylation"
+P98077->Enhance	PTMint:Interactions	"P46108_Y251-Phosphorylation	P35968_Y1175-Phosphorylation	P35968_Y1175-Phosphorylation"
+P98170->Enhance	PTMint:Interactions	Q9NR28_S67-Phosphorylation
+P98170->Inhibit	PTMint:Interactions	O15392_S20-Phosphorylation
+P98172->Enhance	PTMint:Interactions	Q969H4_Y665-Phosphorylation
+Q00534->Inhibit	PTMint:Interactions	"P55273_S66-Phosphorylation	P55273_S76-Phosphorylation"
+Q00536->Enhance	PTMint:Interactions	"Q8ND76_S326-Phosphorylation	Q8ND76_S326-Phosphorylation"
+Q00610->Inhibit	PTMint:Interactions	"P49418_T350-Phosphorylation	P49418_T387-Phosphorylation	O75061_S570-Phosphorylation"
+Q00653->Enhance	PTMint:Interactions	"P41250_T544-Phosphorylation	P41250_S704-Phosphorylation"
+Q00987->Enhance	PTMint:Interactions	"P10275_S215-Phosphorylation	P10275_S579-Phosphorylation	Q92793_T1871-Phosphorylation	P58012_S33-Phosphorylation	O43524_S294-Phosphorylation	O43524_S344-Phosphorylation	O43524_S425-Phosphorylation	O15151_S289-Phosphorylation	O15151_S314-Phosphorylation	P06400_K873-Acetylation	P06400_K874-Acetylation	P06400_S567-Phosphorylation	P04637_T55-Phosphorylation	P98170_S87-Phosphorylation"
+Q00987->Inhibit	PTMint:Interactions	"P38936_T55-Phosphorylation	Q9UER7_S564-Phosphorylation	P61978_K422-Sumoylation	Q00987_S386-Phosphorylation	Q00987_S386-Phosphorylation	P29590_K160-Sumoylation	Q13362_S520-Phosphorylation	P04637_S15-Phosphorylation	P04637_S15-Phosphorylation	P04637_S20-Phosphorylation	P04637_S20-Phosphorylation	P04637_S37-Phosphorylation	P04637_S37-Phosphorylation	P04637_T81-Phosphorylation	P04637_S106-Phosphorylation	P04637_S392-Phosphorylation"
+Q01081->Enhance	PTMint:Interactions	"P35659_S19-Phosphorylation	P35659_S32-Phosphorylation"
+Q01094->Enhance	PTMint:Interactions	"P06400_S249-Phosphorylation	P06400_T252-Phosphorylation	P06400_S612-Phosphorylation	P06400_S612-Phosphorylation	P06400_S780-Phosphorylation"
+Q01094->Inhibit	PTMint:Interactions	"Q99856_K398-Sumoylation	P06400_K873-Acetylation	P06400_K874-Acetylation	P06400_T356-Phosphorylation	P06400_T373-Phosphorylation	P06400_S608-Phosphorylation	P06400_S608-Phosphorylation	P06400_S612-Phosphorylation	P06400_S612-Phosphorylation	P06400_S780-Phosphorylation	P06400_S780-Phosphorylation	P06400_S788-Phosphorylation	P06400_S788-Phosphorylation	P06400_S795-Phosphorylation	P06400_S795-Phosphorylation	P06400_S795-Phosphorylation	P06400_S807-Phosphorylation	P06400_S807-Phosphorylation	P06400_S811-Phosphorylation	P28749_T997-Phosphorylation	P28749_S1009-Phosphorylation"
+Q01130->Enhance	PTMint:Interactions	P63000_T108-Phosphorylation
+Q01130->Inhibit	PTMint:Interactions	P49756_K77-Methylation
+Q01167->Enhance	PTMint:Interactions	Q92560_T493-Phosphorylation
+Q01518->Inhibit	PTMint:Interactions	P23528_S3-Phosphorylation
+Q01831->Inhibit	PTMint:Interactions	"P41208_T138-Phosphorylation	P41208_S158-Phosphorylation	P41208_S170-Phosphorylation"
+Q01959->Enhance	PTMint:Interactions	Q16623_S14-Phosphorylation
+Q01968->Inhibit	PTMint:Interactions	Q9UKG1_S410-Phosphorylation
+Q02241->Enhance	PTMint:Interactions	Q93073_T573-Phosphorylation
+Q02750->Enhance	PTMint:Interactions	P28482_S29-Phosphorylation
+Q02750->Inhibit	PTMint:Interactions	"P15056_S614-Phosphorylation	P15056_S614-Phosphorylation	P15056_S614-Phosphorylation	P15056_S614-Phosphorylation	P15056_S614-Phosphorylation	P15056_S614-Phosphorylation	P15056_S614-Phosphorylation	P15056_S614-Phosphorylation	P15056_S614-Phosphorylation	P15056_S614-Phosphorylation"
+Q02790->Inhibit	PTMint:Interactions	P07900_K294-Acetylation
+Q03135->Inhibit	PTMint:Interactions	P51636_Y19-Phosphorylation
+Q03164->Enhance	PTMint:Interactions	P68431_K5-Methylation
+Q03188->Inhibit	PTMint:Interactions	P49450_K124-Acetylation
+Q04206->Enhance	PTMint:Interactions	"Q15744_T74-Phosphorylation	P00367_S384-Phosphorylation	Q5JXC2_S303-Phosphorylation	P42224_K410-Acetylation	P42224_K413-Acetylation"
+Q04206->Inhibit	PTMint:Interactions	"P09467_S144-Phosphorylation	P04150_K494-Acetylation	P04150_K495-Acetylation	P04150_S404-Phosphorylation"
+Q04637->Enhance	PTMint:Interactions	Q9H0Z9_S195-Phosphorylation
+Q04726->Enhance	PTMint:Interactions	P98170_T180-Phosphorylation
+Q04759->Enhance	PTMint:Interactions	P43403_Y126-Phosphorylation
+Q04917->Enhance	PTMint:Interactions	"Q9P0K1_S834-Phosphorylation	Q9P0K1_S857-Phosphorylation	Q8N5S9_S74-Phosphorylation	Q8N5S9_S475-Phosphorylation	P22681_S619-Phosphorylation	P22681_S623-Phosphorylation	P22681_S639-Phosphorylation	P22681_S642-Phosphorylation	P46527_T198-Phosphorylation	P46527_T198-Phosphorylation	P48729_S218-Phosphorylation	P48729_S242-Phosphorylation	Q9H3Z4_S10-Phosphorylation	P26358_S143-Phosphorylation	P03372_T594-Phosphorylation	Q12809_S283-Phosphorylation	Q12809_S1137-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S910-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S935-Phosphorylation	Q5S007_S1444-Phosphorylation	Q5S007_T2524-Phosphorylation	Q6ZN04_S462-Phosphorylation	O15530_S241-Phosphorylation	Q6N021_S99-Phosphorylation	Q13049_S651-Phosphorylation	Q13107_S445-Phosphorylation	P46937_S127-Phosphorylation"
+Q04917->Inhibit	PTMint:Interactions	Q9BZL6_S244-Phosphorylation
+Q05193->Inhibit	PTMint:Interactions	Q99961_Y315-Phosphorylation
+Q05195->Inhibit	PTMint:Interactions	"Q13257_S170-Phosphorylation	Q13257_S178-Phosphorylation	Q13257_S195-Phosphorylation"
+Q05209->Inhibit	PTMint:Interactions	P56945_Y12-Phosphorylation
+Q05397->Enhance	PTMint:Interactions	"Q9Y2X7_Y321-Phosphorylation	P08581_Y1349-Phosphorylation	P08581_Y1356-Phosphorylation	P50281_Y573-Phosphorylation	Q8WUM4_Y319-Phosphorylation	Q05209_S571-Phosphorylation	P63244_Y52-Phosphorylation	O00560_S131-Phosphorylation	O00560_T200-Phosphorylation"
+Q05397->Inhibit	PTMint:Interactions	P56945_Y12-Phosphorylation
+Q05469->Enhance	PTMint:Interactions	"Q6NZI2_K289-Acetylation	Q6NZI2_K291-Acetylation	Q6NZI2_K296-Acetylation"
+Q05655->Enhance	PTMint:Interactions	"Q9H5V8_Y734-Phosphorylation	Q9H5V8_Y762-Phosphorylation	Q15078_Y234-Phosphorylation	Q15139_Y95-Phosphorylation"
+Q06124->Enhance	PTMint:Interactions	"O14559_Y1169-Phosphorylation	Q03135_Y14-Phosphorylation	P32239_Y438-Phosphorylation	P32248_Y155-Phosphorylation	P20138_Y340-Phosphorylation	P20138_Y340-Phosphorylation	P20138_Y358-Phosphorylation	Q9H5V8_Y734-Phosphorylation	Q9H5V8_Y743-Phosphorylation	Q08345_Y703-Phosphorylation	Q08345_Y740-Phosphorylation	Q08345_Y796-Phosphorylation	P00533_Y978-Phosphorylation	P00533_Y978-Phosphorylation	P00533_Y978-Phosphorylation	P00533_Y998-Phosphorylation	P00533_Y998-Phosphorylation	P00533_Y998-Phosphorylation	P00533_Y1016-Phosphorylation	P00533_Y1016-Phosphorylation	P00533_Y1016-Phosphorylation	P04626_Y1023-Phosphorylation	P04626_Y1023-Phosphorylation	P04626_Y1023-Phosphorylation	Q15303_Y984-Phosphorylation	Q6DN72_Y371-Phosphorylation	P36888_Y599-Phosphorylation	Q13480_Y627-Phosphorylation	Q13480_Y659-Phosphorylation	Q9UQC2_Y614-Phosphorylation	Q9UQC2_Y614-Phosphorylation	Q9UQC2_Y643-Phosphorylation	Q9UQC2_Y643-Phosphorylation	Q9H706_Y453-Phosphorylation	Q75VX8_Y429-Phosphorylation	Q8N6P7_Y251-Phosphorylation	Q8N6P7_Y301-Phosphorylation	P40189_Y759-Phosphorylation	P40189_Y759-Phosphorylation	P40189_Y759-Phosphorylation	P40189_Y759-Phosphorylation	P10721_Y568-Phosphorylation	P10721_Y568-Phosphorylation	P10721_Y568-Phosphorylation	Q07954_Y4473-Phosphorylation	O95866_Y211-Phosphorylation	O95866_Y211-Phosphorylation	O95866_Y237-Phosphorylation	P16234_Y720-Phosphorylation	P16234_Y720-Phosphorylation	P27986_Y528-Phosphorylation	P27986_Y556-Phosphorylation	P07949_Y687-Phosphorylation	Q9Y3P8_Y148-Phosphorylation	P02730_Y359-Phosphorylation"
+Q06124->Inhibit	PTMint:Interactions	"Q9UQC2_S623-Phosphorylation	P35568_S1223-Phosphorylation"
+Q06190->Enhance	PTMint:Interactions	P67775_T304-Phosphorylation
+Q06330->Enhance	PTMint:Interactions	P07954_T90-Phosphorylation
+Q06330->Inhibit	PTMint:Interactions	P07954_S46-Phosphorylation
+Q06495->Enhance	PTMint:Interactions	O14745_S290-Phosphorylation
+Q06495->Inhibit	PTMint:Interactions	O14745_S77-Phosphorylation
+Q06587->Enhance	PTMint:Interactions	O00257_T497-Phosphorylation
+Q06609->Enhance	PTMint:Interactions	"P43351_K133-Acetylation	P43351_K177-Acetylation	P43351_K190-Acetylation	P43351_K192-Acetylation	P43351_K262-Acetylation	P43351_K274-Acetylation	P43351_K286-Acetylation	P43351_K323-Acetylation	P43351_K344-Acetylation	P43351_K406-Acetylation"
+Q06609->Inhibit	PTMint:Interactions	"P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation	P51587_S3291-Phosphorylation"
+Q07157->Inhibit	PTMint:Interactions	"Q9Y5I7_T303-Phosphorylation	P57739_Y224-Phosphorylation	O14493_Y208-Phosphorylation	P17302_S373-Phosphorylation	Q16625_Y398-Phosphorylation	Q16625_Y402-Phosphorylation	Q16625_S408-Phosphorylation	Q16625_S490-Phosphorylation"
+Q07666->Enhance	PTMint:Interactions	Q13045_S436-Phosphorylation
+Q07812->Enhance	PTMint:Interactions	P10415_S70-Phosphorylation
+Q07812->Inhibit	PTMint:Interactions	"Q07817_S62-Phosphorylation	Q07817_S62-Phosphorylation	P31947_S186-Phosphorylation	P63104_S184-Phosphorylation"
+Q07817->Enhance	PTMint:Interactions	"Q14457_T108-Phosphorylation	Q13323_T33-Phosphorylation	Q13323_S35-Phosphorylation	Q99638_Y28-Phosphorylation"
+Q07817->Inhibit	PTMint:Interactions	Q14457_T119-Phosphorylation
+Q07820->Inhibit	PTMint:Interactions	"O43521_S69-Phosphorylation	Q13794_S13-Phosphorylation	P04637_K24-Ubiquitination"
+Q07866->Enhance	PTMint:Interactions	Q14184_Y301-Phosphorylation
+Q07866->Inhibit	PTMint:Interactions	Q16555_T555-Phosphorylation
+Q07869->Enhance	PTMint:Interactions	Q68CJ9_K294-Acetylation
+Q07889->Inhibit	PTMint:Interactions	"P62993_Y209-Phosphorylation	P62993_Y209-Phosphorylation	P62993_Y209-Phosphorylation	P62993_Y209-Phosphorylation"
+Q08050->Enhance	PTMint:Interactions	"P35222_K133-Methylation	P04637_K373-Acetylation"
+Q08209->Enhance	PTMint:Interactions	"Q96GX8_T44-Phosphorylation	Q13469_S79-Phosphorylation"
+Q08379->Enhance	PTMint:Interactions	P52292_S62-Phosphorylation
+Q08881->Enhance	PTMint:Interactions	"Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y113-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation	Q13094_Y128-Phosphorylation"
+Q09028->Inhibit	PTMint:Interactions	Q15910_T311-Phosphorylation
+Q09472->Enhance	PTMint:Interactions	"P10275_K631-Acetylation	Q92731_Y36-Phosphorylation	P14921_T265-Phosphorylation	P14921_S269-Phosphorylation	Q16665_K674-Acetylation	Q00613_S320-Phosphorylation	Q14653_S386-Phosphorylation	P17275_S79-Phosphorylation	Q00987_S166-Phosphorylation	Q00987_S186-Phosphorylation	Q06413_T80-Phosphorylation	P15172_K99-Acetylation	P15172_K102-Acetylation	Q9H9S0_T200-Phosphorylation	Q9H9S0_T280-Phosphorylation	Q9Y6Q9_Y1357-Phosphorylation	P04150_S404-Phosphorylation	Q04206_S276-Phosphorylation	P40763_K49-Acetylation	P40763_K49-Acetylation	P40763_K87-Acetylation	P40763_K87-Acetylation	P40763_S727-Phosphorylation	P10828_S142-Phosphorylation	P04637_K373-Acetylation	P04637_K373-Acetylation	P04637_T18-Phosphorylation	P04637_S20-Phosphorylation	P40337_S111-Phosphorylation"
+Q09472->Inhibit	PTMint:Interactions	"P49716_K120-Sumoylation	P09874_K486-Sumoylation"
+Q12756->Inhibit	PTMint:Interactions	O60941_T11-Phosphorylation
+Q12770->Inhibit	PTMint:Interactions	"O15503_S207-Phosphorylation	Q9Y5U4_S151-Phosphorylation"
+Q12789->Enhance	PTMint:Interactions	Q92994_S450-Phosphorylation
+Q12824->Inhibit	PTMint:Interactions	P17676_R3-Methylation
+Q12830->Enhance	PTMint:Interactions	"P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation"
+Q12834->Enhance	PTMint:Interactions	"Q9H467_S110-Phosphorylation	Q00613_S216-Phosphorylation	O60260_S378-Phosphorylation"
+Q12834->Inhibit	PTMint:Interactions	"Q5XUX0_S278-Phosphorylation	Q13257_S195-Phosphorylation	O15350_S235-Phosphorylation"
+Q12846->Inhibit	PTMint:Interactions	"O00161_S23-Phosphorylation	O00161_S23-Phosphorylation	O00161_S23-Phosphorylation	O00161_T24-Phosphorylation	O00161_T24-Phosphorylation	O00161_T24-Phosphorylation"
+Q12852->Inhibit	PTMint:Interactions	Q9UQF2_T103-Phosphorylation
+Q12888->Enhance	PTMint:Interactions	"P16104_S140-Phosphorylation	P68431_K80-Methylation	P62805_K21-Methylation	Q9H7Z6_T392-Phosphorylation	O15151_Y55-Phosphorylation	P06400_K810-Methylation	P06400_K810-Methylation	P04637_K370-Methylation	P04637_K382-Methylation"
+Q12888->Inhibit	PTMint:Interactions	"P63167_S88-Phosphorylation	O15151_Y99-Phosphorylation"
+Q12891->Enhance	PTMint:Interactions	Q9NZC7_Y33-Phosphorylation
+Q12931->Inhibit	PTMint:Interactions	P12532_Y153-Phosphorylation
+Q12933->Enhance	PTMint:Interactions	Q03135_Y14-Phosphorylation
+Q12955->Enhance	PTMint:Interactions	"P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_S1152-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_Y1176-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1181-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation	P32004_S1248-Phosphorylation"
+Q12955->Inhibit	PTMint:Interactions	"P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation	P32004_Y1229-Phosphorylation"
+Q12959->Enhance	PTMint:Interactions	P60484_K402-Acetylation
+Q12965->Inhibit	PTMint:Interactions	Q92882_S202-Phosphorylation
+Q12967->Enhance	PTMint:Interactions	Q13114_K168-Ubiquitination
+Q12972->Enhance	PTMint:Interactions	"Q15910_T416-Phosphorylation	Q14680_T478-Phosphorylation"
+Q13009->Enhance	PTMint:Interactions	P31431_S179-Phosphorylation
+Q13043->Inhibit	PTMint:Interactions	"Q9H8S9_T12-Phosphorylation	Q9H8S9_T35-Phosphorylation"
+Q13049->Enhance	PTMint:Interactions	P04198_T58-Phosphorylation
+Q13061->Enhance	PTMint:Interactions	P23327_S96-Phosphorylation
+Q13094->Enhance	PTMint:Interactions	"P30203_Y662-Phosphorylation	O15117_Y595-Phosphorylation	O15117_Y651-Phosphorylation	O15117_Y771-Phosphorylation	Q5VWT5_Y491-Phosphorylation	Q5VWT5_Y587-Phosphorylation"
+Q13111->Enhance	PTMint:Interactions	"Q9Y294_S192-Phosphorylation	P62324_S159-Phosphorylation	Q09472_S1834-Phosphorylation"
+Q13111->Inhibit	PTMint:Interactions	P62805_S48-Phosphorylation
+Q13131->Enhance	PTMint:Interactions	O75385_S758-Phosphorylation
+Q13148->Enhance	PTMint:Interactions	"P61978_S216-Phosphorylation	P61978_S284-Phosphorylation"
+Q13148->Inhibit	PTMint:Interactions	"Q13148_S409-Phosphorylation	Q13148_S410-Phosphorylation"
+Q13153->Enhance	PTMint:Interactions	"Q9NVD7_S4-Phosphorylation	Q9NVD7_S8-Phosphorylation"
+Q13158->Enhance	PTMint:Interactions	"Q15628_S215-Phosphorylation	Q15628_S296-Phosphorylation"
+Q13185->Enhance	PTMint:Interactions	"P10412_K26-Methylation	P68431_K10-Methylation"
+Q13185->Inhibit	PTMint:Interactions	P10412_S27-Phosphorylation
+Q13188->Enhance	PTMint:Interactions	"P04049_S259-Phosphorylation	Q13188_Y81-Phosphorylation"
+Q13191->Enhance	PTMint:Interactions	Q9NQC7_Y15-Phosphorylation
+Q13224->Enhance	PTMint:Interactions	Q9UQM7_T286-Phosphorylation
+Q13224->Inhibit	PTMint:Interactions	"Q9UQM7_T305-Phosphorylation	Q9UQM7_T306-Phosphorylation	P53355_S308-Phosphorylation"
+Q13227->Enhance	PTMint:Interactions	"Q9UQL6_S278-Phosphorylation	Q9UQL6_S279-Phosphorylation"
+Q13227->Inhibit	PTMint:Interactions	"Q9UQL6_S259-Phosphorylation	Q9UQL6_S498-Phosphorylation"
+Q13277->Enhance	PTMint:Interactions	P15311_S66-Phosphorylation
+Q13277->Inhibit	PTMint:Interactions	Q15833_T572-Phosphorylation
+Q13283->Enhance	PTMint:Interactions	Q7KZF4_T103-Phosphorylation
+Q13283->Inhibit	PTMint:Interactions	Q13283_S149-Phosphorylation
+Q13309->Enhance	PTMint:Interactions	"P46527_T187-Phosphorylation	P49918_T310-Phosphorylation	Q9H211_T29-Phosphorylation	P28562_S296-Phosphorylation	P28562_S323-Phosphorylation	P03372_S341-Phosphorylation	Q12778_S256-Phosphorylation	P51659_S318-Phosphorylation	Q14814_S98-Phosphorylation	Q14814_S110-Phosphorylation	P55895_T490-Phosphorylation	Q08999_S672-Phosphorylation	O14745_T156-Phosphorylation"
+Q13309->Inhibit	PTMint:Interactions	"O43524_K242-Acetylation	O43524_K259-Acetylation	O43524_K290-Acetylation	O43524_K569-Acetylation	Q03164_S516-Phosphorylation"
+Q13315->Enhance	PTMint:Interactions	"P16104_K119-Ubiquitination	Q99801_Y222-Phosphorylation	O43156_S828-Phosphorylation	Q9NZC7_K274-Ubiquitination"
+Q13322->Enhance	PTMint:Interactions	"P36888_Y572-Phosphorylation	P36888_Y793-Phosphorylation"
+Q13330->Inhibit	PTMint:Interactions	Q9C0K0_S2-Phosphorylation
+Q13351->Enhance	PTMint:Interactions	"Q6N021_Y1939-Phosphorylation	Q6N021_Y1964-Phosphorylation"
+Q13362->Enhance	PTMint:Interactions	P04637_S15-Phosphorylation
+Q13363->Inhibit	PTMint:Interactions	"C9JLW8_S21-Phosphorylation	C9JLW8_T30-Phosphorylation	Q03112_S444-Phosphorylation	O60315_K391-Sumoylation	O60315_K866-Sumoylation"
+Q13393->Enhance	PTMint:Interactions	O60641_S313-Phosphorylation
+Q13464->Enhance	PTMint:Interactions	"P61586_Y42-Phosphorylation	P61586_S88-Phosphorylation	P61586_T100-Phosphorylation"
+Q13472->Inhibit	PTMint:Interactions	P54132_T99-Phosphorylation
+Q13480->Enhance	PTMint:Interactions	P08581_Y1349-Phosphorylation
+Q13480->Inhibit	PTMint:Interactions	"Q8TEW0_S144-Phosphorylation	Q8TEW0_S873-Phosphorylation"
+Q13485->Enhance	PTMint:Interactions	"Q15796_S465-Phosphorylation	Q15796_S465-Phosphorylation	Q15796_S465-Phosphorylation	Q15796_S467-Phosphorylation	Q15796_S467-Phosphorylation	Q15796_S467-Phosphorylation	P84022_T388-Phosphorylation"
+Q13490->Enhance	PTMint:Interactions	Q9Y385_S184-Phosphorylation
+Q13490->Inhibit	PTMint:Interactions	Q12933_S11-Phosphorylation
+Q13501->Enhance	PTMint:Interactions	"Q8N884_K414-Ubiquitination	P06239_S59-Phosphorylation	P50542_K209-Ubiquitination	Q13501_S28-Phosphorylation	Q13501_S28-Phosphorylation	Q13501_Y433-Phosphorylation	Q96F44_K458-Ubiquitination"
+Q13501->Inhibit	PTMint:Interactions	"Q9GZQ8_T50-Phosphorylation	P48431_Y277-Phosphorylation	Q13501_K7-Ubiquitination	Q13501_K7-Ubiquitination"
+Q13526->Enhance	PTMint:Interactions	"P31749_T92-Phosphorylation	P31749_T450-Phosphorylation	P18846_T184-Phosphorylation	P10415_S87-Phosphorylation	Q6PGQ7_S274-Phosphorylation	Q6PGQ7_S278-Phosphorylation	P38398_S114-Phosphorylation	P38398_S1191-Phosphorylation	O60885_T204-Phosphorylation	Q15131_T133-Phosphorylation	P46527_T187-Phosphorylation	P35222_S246-Phosphorylation	P17812_S575-Phosphorylation	Q9UER7_S178-Phosphorylation	P78352_T19-Phosphorylation	P78352_S25-Phosphorylation	Q14674_S1126-Phosphorylation	Q14674_S1153-Phosphorylation	P03372_S294-Phosphorylation	Q969H0_T205-Phosphorylation	Q08050_S331-Phosphorylation	Q08050_S704-Phosphorylation	Q14451_S194-Phosphorylation	P25098_S670-Phosphorylation	Q9UBN7_S412-Phosphorylation	Q16665_S451-Phosphorylation	Q16665_S641-Phosphorylation	Q16665_S643-Phosphorylation	Q9H2X6_T880-Phosphorylation	Q9H2X6_S882-Phosphorylation	Q00613_S326-Phosphorylation	P51617_S131-Phosphorylation	P51617_S131-Phosphorylation	P51617_S144-Phosphorylation	P51617_S144-Phosphorylation	P51617_S163-Phosphorylation	P51617_S173-Phosphorylation	P51617_S173-Phosphorylation	Q14653_S339-Phosphorylation	P05412_S63-Phosphorylation	P05412_S73-Phosphorylation	Q13118_T93-Phosphorylation	Q07820_T92-Phosphorylation	Q07820_T163-Phosphorylation	P01106_T58-Phosphorylation	P01106_S62-Phosphorylation	P22736_S95-Phosphorylation	P22736_S140-Phosphorylation	P22736_S431-Phosphorylation	P47900_S252-Phosphorylation	Q99640_T412-Phosphorylation	Q99640_S416-Phosphorylation	Q99640_S441-Phosphorylation	Q99640_T455-Phosphorylation	Q99640_T461-Phosphorylation	P29590_S518-Phosphorylation	Q01860_S12-Phosphorylation	Q05209_S571-Phosphorylation	P10276_S77-Phosphorylation	Q99708_S276-Phosphorylation	Q99708_T315-Phosphorylation	Q04206_T254-Phosphorylation	Q13127_S861-Phosphorylation	Q13127_S864-Phosphorylation	Q13761_T209-Phosphorylation	Q13761_T212-Phosphorylation	Q13761_S214-Phosphorylation	Q13761_T231-Phosphorylation	P84022_T179-Phosphorylation	Q9Y6H5_S211-Phosphorylation	Q9Y6H5_S215-Phosphorylation	P08047_T739-Phosphorylation	Q9BR01_T11-Phosphorylation	P04637_S33-Phosphorylation	P04637_T81-Phosphorylation	P04637_S315-Phosphorylation	Q8IWR1_S308-Phosphorylation"
+Q13535->Inhibit	PTMint:Interactions	Q92547_S1159-Phosphorylation
+Q13541->Inhibit	PTMint:Interactions	P06730_S209-Phosphorylation
+Q13546->Enhance	PTMint:Interactions	Q12933_S11-Phosphorylation
+Q13546->Inhibit	PTMint:Interactions	Q9HB75_T788-Phosphorylation
+Q13547->Enhance	PTMint:Interactions	"P17844_K53-Sumoylation	P17844_K53-Sumoylation	Q9Y230_K456-Sumoylation	Q01826_S185-Phosphorylation	O95863_S11-Phosphorylation	O43680_K24-Sumoylation"
+Q13547->Inhibit	PTMint:Interactions	"P10275_K631-Acetylation	P35222_S675-Phosphorylation	P08047_S702-Phosphorylation	Q9UBW7_S303-Phosphorylation	Q9UBW7_S305-Phosphorylation	Q9UBW7_S309-Phosphorylation"
+Q13586->Inhibit	PTMint:Interactions	Q9HBA0_S824-Phosphorylation
+Q13596->Inhibit	PTMint:Interactions	Q9Y5X3_S226-Phosphorylation
+Q13616->Enhance	PTMint:Interactions	"Q13309_S256-Phosphorylation	Q13309_S256-Phosphorylation"
+Q13616->Inhibit	PTMint:Interactions	Q6R327_T1135-Phosphorylation
+Q13617->Enhance	PTMint:Interactions	Q04206_S468-Phosphorylation
+Q13618->Enhance	PTMint:Interactions	Q9Y6Q9_S860-Phosphorylation
+Q13618->Inhibit	PTMint:Interactions	P54132_S502-Phosphorylation
+Q13619->Inhibit	PTMint:Interactions	P12004_Y211-Phosphorylation
+Q13620->Inhibit	PTMint:Interactions	O96028_S172-Phosphorylation
+Q13625->Enhance	PTMint:Interactions	P46937_S127-Phosphorylation
+Q13813->Inhibit	PTMint:Interactions	P50552_S157-Phosphorylation
+Q13976->Enhance	PTMint:Interactions	O15379_S424-Phosphorylation
+Q14118->Enhance	PTMint:Interactions	"P46939_S1258-Phosphorylation	P46939_S1258-Phosphorylation	P46939_S1258-Phosphorylation"
+Q14141->Inhibit	PTMint:Interactions	Q16181_Y319-Phosphorylation
+Q14145->Enhance	PTMint:Interactions	"Q13501_S28-Phosphorylation	Q13501_S349-Phosphorylation	Q13501_S349-Phosphorylation	Q13501_S403-Phosphorylation	Q13501_S403-Phosphorylation"
+Q14145->Inhibit	PTMint:Interactions	Q16236_S40-Phosphorylation
+Q14152->Enhance	PTMint:Interactions	Q9NRY4_S296-Phosphorylation
+Q14155->Enhance	PTMint:Interactions	"Q13153_Y153-Phosphorylation	Q13153_Y285-Phosphorylation	Q13153_Y201-Phosphorylation	Q9NVD7_S4-Phosphorylation	Q9NVD7_S8-Phosphorylation"
+Q14160->Enhance	PTMint:Interactions	P23508_S828-Phosphorylation
+Q14164->Enhance	PTMint:Interactions	Q7Z434_K500-Ubiquitination
+Q14181->Enhance	PTMint:Interactions	"P04637_K373-Acetylation	P04637_K382-Acetylation"
+Q14191->Inhibit	PTMint:Interactions	"P04637_S376-Phosphorylation	P04637_S378-Phosphorylation"
+Q14203->Enhance	PTMint:Interactions	"Q15691_S40-Phosphorylation	Q15691_T154-Phosphorylation	Q15691_T206-Phosphorylation	Q15691_T206-Phosphorylation"
+Q14242->Enhance	PTMint:Interactions	"P52566_Y130-Phosphorylation	P52566_Y153-Phosphorylation"
+Q14247->Inhibit	PTMint:Interactions	"P16389_Y415-Phosphorylation	P16389_Y417-Phosphorylation"
+Q14258->Inhibit	PTMint:Interactions	"O95786_S8-Phosphorylation	O95786_S8-Phosphorylation	O95786_S8-Phosphorylation	O95786_T170-Phosphorylation	O95786_T170-Phosphorylation	O95786_T170-Phosphorylation"
+Q14289->Enhance	PTMint:Interactions	P78352_Y523-Phosphorylation
+Q14344->Inhibit	PTMint:Interactions	O15539_S166-Phosphorylation
+Q14451->Enhance	PTMint:Interactions	"Q03135_Y14-Phosphorylation	P54762_Y928-Phosphorylation	P10721_Y936-Phosphorylation	Q5SQ64_Y281-Phosphorylation"
+Q14457->Enhance	PTMint:Interactions	"O43521_S59-Phosphorylation	Q14457_T108-Phosphorylation	P63244_T50-Phosphorylation"
+Q14457->Inhibit	PTMint:Interactions	"P10415_T69-Phosphorylation	P10415_T69-Phosphorylation	P10415_S70-Phosphorylation	P10415_S70-Phosphorylation	P10415_S87-Phosphorylation	P10415_S87-Phosphorylation	O43521_T116-Phosphorylation	Q96F24_S113-Phosphorylation	Q96F24_S120-Phosphorylation	Q8NEB9_K29-Acetylation	Q8NEB9_T159-Phosphorylation"
+Q14511->Enhance	PTMint:Interactions	P35579_S1943-Phosphorylation
+Q14511->Inhibit	PTMint:Interactions	P08670_S56-Phosphorylation
+Q14566->Enhance	PTMint:Interactions	Q13263_S473-Phosphorylation
+Q14596->Inhibit	PTMint:Interactions	Q9GZQ8_T50-Phosphorylation
+Q14643->Enhance	PTMint:Interactions	"Q9H4E7_T595-Phosphorylation	Q9H4E7_S597-Phosphorylation"
+Q14653->Enhance	PTMint:Interactions	"O00571_S102-Phosphorylation	Q14653_S339-Phosphorylation	Q14653_S339-Phosphorylation	Q14653_S385-Phosphorylation	Q14653_S385-Phosphorylation	Q14653_S385-Phosphorylation	Q14653_S385-Phosphorylation	Q14653_S386-Phosphorylation	Q14653_S386-Phosphorylation	Q14653_S386-Phosphorylation	Q14653_S386-Phosphorylation	Q14653_S386-Phosphorylation	Q14653_S386-Phosphorylation	Q7Z434_S442-Phosphorylation	Q86WV6_S366-Phosphorylation	Q8IUC6_S210-Phosphorylation	P19474_Y393-Phosphorylation"
+Q14676->Enhance	PTMint:Interactions	"Q9Y294_S166-Phosphorylation	Q13315_S1981-Phosphorylation	Q6PGQ7_S325-Phosphorylation	O96017_T68-Phosphorylation	O96017_T68-Phosphorylation	P16104_S140-Phosphorylation	P16104_S140-Phosphorylation	Q02535_S65-Phosphorylation	Q969R5_S335-Phosphorylation	Q14676_T4-Phosphorylation	Q14676_T4-Phosphorylation	Q14676_T98-Phosphorylation	Q14676_T98-Phosphorylation	Q14676_T98-Phosphorylation	O96028_S102-Phosphorylation	P11388_S1525-Phosphorylation	P04637_K382-Acetylation	P04637_S392-Phosphorylation"
+Q14766->Enhance	PTMint:Interactions	Q03393_T58-Phosphorylation
+Q14807->Enhance	PTMint:Interactions	"P78310_T290-Phosphorylation	P78310_S293-Phosphorylation"
+Q14839->Enhance	PTMint:Interactions	"P68431_K10-Acetylation	P68431_K10-Methylation"
+Q14974->Enhance	PTMint:Interactions	"Q9ULV5_T471-Phosphorylation	P48436_S64-Phosphorylation	P48436_S181-Phosphorylation	Q05066_K136-Acetylation	O14746_S227-Phosphorylation"
+Q14974->Inhibit	PTMint:Interactions	"Q69YH5_T412-Phosphorylation	P52292_T9-Phosphorylation	P52292_S62-Phosphorylation	Q12888_S1678-Phosphorylation"
+Q14980->Inhibit	PTMint:Interactions	"P52292_T9-Phosphorylation	P52292_S62-Phosphorylation"
+Q15020->Inhibit	PTMint:Interactions	"Q9Y4E8_T149-Phosphorylation	Q9Y4E8_T219-Phosphorylation"
+Q15022->Inhibit	PTMint:Interactions	Q15910_T311-Phosphorylation
+Q15036->Inhibit	PTMint:Interactions	Q07954_Y4473-Phosphorylation
+Q15078->Inhibit	PTMint:Interactions	"Q00535_S47-Phosphorylation	Q00535_S47-Phosphorylation	Q00535_S47-Phosphorylation	Q00535_S47-Phosphorylation	Q00535_S47-Phosphorylation"
+Q15080->Inhibit	PTMint:Interactions	P14598_S379-Phosphorylation
+Q15118->Inhibit	PTMint:Interactions	P08559_S314-Phosphorylation
+Q15125->Enhance	PTMint:Interactions	P18850_T166-Phosphorylation
+Q15139->Inhibit	PTMint:Interactions	"Q9UQL6_S259-Phosphorylation	Q9UQL6_S498-Phosphorylation"
+Q15149->Inhibit	PTMint:Interactions	"P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1356-Phosphorylation	P16144_S1360-Phosphorylation	P16144_S1360-Phosphorylation	P16144_S1360-Phosphorylation	P16144_S1360-Phosphorylation	P16144_S1360-Phosphorylation	P16144_S1360-Phosphorylation	P16144_S1360-Phosphorylation	P16144_S1360-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation	P16144_S1364-Phosphorylation"
+Q15185->Inhibit	PTMint:Interactions	"P07900_K100-Acetylation	P07900_K292-Acetylation	P07900_K327-Acetylation	P07900_K478-Acetylation	P07900_K546-Acetylation	P07900_K558-Acetylation"
+Q15208->Enhance	PTMint:Interactions	"Q9H8S9_T12-Phosphorylation	Q9H8S9_T35-Phosphorylation"
+Q15366->Enhance	PTMint:Interactions	P07814_S990-Phosphorylation
+Q15369->Inhibit	PTMint:Interactions	"O14543_Y204-Phosphorylation	O14543_Y221-Phosphorylation"
+Q15382->Inhibit	PTMint:Interactions	Q8N122_S606-Phosphorylation
+Q15459->Enhance	PTMint:Interactions	P03372_S118-Phosphorylation
+Q15464->Enhance	PTMint:Interactions	P35968_Y1175-Phosphorylation
+Q15468->Enhance	PTMint:Interactions	"Q9UPN4_S21-Phosphorylation	Q9UPN4_T205-Phosphorylation"
+Q15554->Inhibit	PTMint:Interactions	O60934_S432-Phosphorylation
+Q15561->Enhance	PTMint:Interactions	Q99990_S84-Phosphorylation
+Q15561->Inhibit	PTMint:Interactions	"P46937_S128-Phosphorylation	P46937_S138-Phosphorylation	P46937_S217-Phosphorylation	P46937_S289-Phosphorylation	P46937_S367-Phosphorylation"
+Q15572->Inhibit	PTMint:Interactions	Q9NYV6_S635-Phosphorylation
+Q15628->Enhance	PTMint:Interactions	P19438_S381-Phosphorylation
+Q15631->Enhance	PTMint:Interactions	"Q01094_R111-Methylation	Q01094_R113-Methylation"
+Q15633->Inhibit	PTMint:Interactions	"Q9UKV8_Y393-Phosphorylation	Q9UKV8_Y393-Phosphorylation	O75569_S287-Phosphorylation	O75569_S287-Phosphorylation	O75569_S287-Phosphorylation	O75569_S287-Phosphorylation"
+Q15642->Inhibit	PTMint:Interactions	Q68EM7_S702-Phosphorylation
+Q15648->Enhance	PTMint:Interactions	P11473_S208-Phosphorylation
+Q15648->Inhibit	PTMint:Interactions	P19793_S260-Phosphorylation
+Q15678->Inhibit	PTMint:Interactions	P46937_Y188-Phosphorylation
+Q15691->Inhibit	PTMint:Interactions	"P25054_S2789-Phosphorylation	P25054_S2789-Phosphorylation	O75122_S533-Phosphorylation	O75122_S537-Phosphorylation	Q99661_S95-Phosphorylation	Q99661_S109-Phosphorylation	Q99661_S111-Phosphorylation"
+Q15750->Enhance	PTMint:Interactions	O43353_K209-Ubiquitination
+Q15788->Inhibit	PTMint:Interactions	O75469_S221-Phosphorylation
+Q15796->Enhance	PTMint:Interactions	P35222_Y654-Phosphorylation
+Q15842->Enhance	PTMint:Interactions	P17302_S262-Phosphorylation
+Q15910->Inhibit	PTMint:Interactions	"Q15022_S539-Phosphorylation	Q15022_S541-Phosphorylation	Q15022_S546-Phosphorylation"
+Q15942->Inhibit	PTMint:Interactions	Q14847_S146-Phosphorylation
+Q16181->Inhibit	PTMint:Interactions	"Q8IYM1_S198-Phosphorylation	Q16181_T198-Phosphorylation	Q16181_T198-Phosphorylation	Q16181_T198-Phosphorylation"
+Q16186->Enhance	PTMint:Interactions	Q99460_Y950-Phosphorylation
+Q16236->Enhance	PTMint:Interactions	"Q14145_S599-Phosphorylation	Q14145_S602-Phosphorylation"
+Q16236->Inhibit	PTMint:Interactions	Q14145_S53-Phosphorylation
+Q16531->Enhance	PTMint:Interactions	"O94761_S89-Phosphorylation	O94761_S251-Phosphorylation"
+Q16531->Inhibit	PTMint:Interactions	P35240_S518-Phosphorylation
+Q16543->Inhibit	PTMint:Interactions	"P07900_K294-Acetylation	P07900_T90-Phosphorylation	P07900_T115-Phosphorylation	P07900_Y197-Phosphorylation"
+Q16576->Enhance	PTMint:Interactions	Q8WXI9_K33-Sumoylation
+Q16594->Enhance	PTMint:Interactions	Q04206_S536-Phosphorylation
+Q16611->Inhibit	PTMint:Interactions	"Q16611_Y110-Phosphorylation	Q16611_Y110-Phosphorylation	Q16611_Y110-Phosphorylation	Q16611_S117-Phosphorylation	Q16611_S117-Phosphorylation	Q16611_S117-Phosphorylation	Q07817_S62-Phosphorylation	P04637_K24-Ubiquitination"
+Q16623->Enhance	PTMint:Interactions	P60880_S187-Phosphorylation
+Q16623->Inhibit	PTMint:Interactions	P60880_T138-Phosphorylation
+Q16625->Inhibit	PTMint:Interactions	"Q07157_T770-Phosphorylation	Q07157_T772-Phosphorylation"
+Q16637->Enhance	PTMint:Interactions	"P24928_R1810-Methylation	Q13435_R508-Methylation"
+Q16643->Inhibit	PTMint:Interactions	"P17302_Y265-Phosphorylation	P17302_Y313-Phosphorylation"
+Q16658->Enhance	PTMint:Interactions	"P14136_S8-Phosphorylation	P14136_S13-Phosphorylation"
+Q16665->Enhance	PTMint:Interactions	P35222_Y654-Phosphorylation
+Q16665->Inhibit	PTMint:Interactions	Q96KS0_S130-Phosphorylation
+Q16763->Inhibit	PTMint:Interactions	Q12834_S92-Phosphorylation
+Q29RF7->Inhibit	PTMint:Interactions	"Q96FF9_S33-Phosphorylation	Q96FF9_S79-Phosphorylation	Q96FF9_S83-Phosphorylation	Q96FF9_T111-Phosphorylation	Q96FF9_T115-Phosphorylation	Q96FF9_S126-Phosphorylation	Q96FF9_S139-Phosphorylation	Q96FF9_T151-Phosphorylation	Q96FF9_T159-Phosphorylation	Q96FF9_S164-Phosphorylation"
+Q49A26->Enhance	PTMint:Interactions	P68431_K37-Methylation
+Q4FZB7->Enhance	PTMint:Interactions	P62805_Y73-Phosphorylation
+Q4KMG0->Enhance	PTMint:Interactions	Q13586_S575-Phosphorylation
+Q53HL2->Inhibit	PTMint:Interactions	O15392_T48-Phosphorylation
+Q53T94->Inhibit	PTMint:Interactions	Q9NYV6_T200-Phosphorylation
+Q562F6->Enhance	PTMint:Interactions	Q00613_S326-Phosphorylation
+Q5FBB7->Enhance	PTMint:Interactions	P0C0S8_T121-Phosphorylation
+Q5IJ48->Enhance	PTMint:Interactions	P62805_K21-Methylation
+Q5JR59->Inhibit	PTMint:Interactions	Q15691_K220-Acetylation
+Q5TAQ9->Enhance	PTMint:Interactions	P68431_K10-Methylation
+Q5UE93->Inhibit	PTMint:Interactions	P48736_S582-Phosphorylation
+Q5VTR2->Enhance	PTMint:Interactions	Q9HAU4_S384-Phosphorylation
+Q5VU43->Enhance	PTMint:Interactions	P17612_Y70-Phosphorylation
+Q5VWG9->Inhibit	PTMint:Interactions	P68431_T4-Phosphorylation
+Q5XUX0->Enhance	PTMint:Interactions	P24385_T286-Phosphorylation
+Q63HR2->Enhance	PTMint:Interactions	P40238_Y631-Phosphorylation
+Q6ECI4->Enhance	PTMint:Interactions	P68431_K10-Methylation
+Q6J9G0->Enhance	PTMint:Interactions	Q6J9G0_Y191-Phosphorylation
+Q6P1J9->Enhance	PTMint:Interactions	"P01106_T58-Phosphorylation	P01106_S62-Phosphorylation"
+Q6P3S6->Enhance	PTMint:Interactions	"P04637_T150-Phosphorylation	P04637_T155-Phosphorylation"
+Q6PCB7->Enhance	PTMint:Interactions	P07814_S999-Phosphorylation
+Q6PD62->Enhance	PTMint:Interactions	"P01106_T58-Phosphorylation	P01106_S62-Phosphorylation"
+Q6PGQ7->Inhibit	PTMint:Interactions	Q13526_S16-Phosphorylation
+Q6PKX4->Enhance	PTMint:Interactions	P07949_Y1062-Phosphorylation
+Q6R327->Enhance	PTMint:Interactions	"P43121_Y641-Phosphorylation	Q07820_S159-Phosphorylation	Q96MT3_T370-Phosphorylation"
+Q6UVJ0->Enhance	PTMint:Interactions	"Q8NHV4_S325-Phosphorylation	Q15468_S1108-Phosphorylation	Q15468_S1116-Phosphorylation"
+Q6UW15->Enhance	PTMint:Interactions	Q9NRC8_T153-Phosphorylation
+Q6UW15->Inhibit	PTMint:Interactions	Q96EB6_T530-Phosphorylation
+Q6VVB1->Enhance	PTMint:Interactions	O95278_S25-Phosphorylation
+Q6VY07->Enhance	PTMint:Interactions	"P56817_S498-Phosphorylation	O15259_Y46-Phosphorylation	O15259_S121-Phosphorylation	O15259_S123-Phosphorylation	O15259_S126-Phosphorylation	O15259_Y349-Phosphorylation	O15259_Y721-Phosphorylation"
+Q6W2J9->Enhance	PTMint:Interactions	O95365_K61-Sumoylation
+Q6ZN17->Inhibit	PTMint:Interactions	P35240_S518-Phosphorylation
+Q6ZNA4->Enhance	PTMint:Interactions	O15105_K70-Methylation
+Q6ZNE5->Enhance	PTMint:Interactions	Q14457_T388-Phosphorylation
+Q6ZNE5->Inhibit	PTMint:Interactions	"Q14457_Y233-Phosphorylation	Q96F24_S113-Phosphorylation	Q96F24_S120-Phosphorylation"
+Q6ZRQ5->Enhance	PTMint:Interactions	Q9Y294_S192-Phosphorylation
+Q70IA6->Enhance	PTMint:Interactions	"Q15208_T7-Phosphorylation	Q15208_T183-Phosphorylation	Q15208_T407-Phosphorylation"
+Q71U36->Enhance	PTMint:Interactions	"Q9BPU6_T516-Phosphorylation	Q9Y496_S687-Phosphorylation"
+Q71U36->Inhibit	PTMint:Interactions	"O43602_S28-Phosphorylation	Q16555_T555-Phosphorylation	Q9HC35_S144-Phosphorylation"
+Q7L576->Inhibit	PTMint:Interactions	Q9P2A4_S342-Phosphorylation
+Q7RTN6->Enhance	PTMint:Interactions	"Q15831_S428-Phosphorylation	Q15831_S307-Phosphorylation"
+Q7RTN6->Inhibit	PTMint:Interactions	Q15831_K64-Acetylation
+Q7Z2E3->Enhance	PTMint:Interactions	"P18887_S518-Phosphorylation	P18887_T519-Phosphorylation	P18887_T523-Phosphorylation"
+Q7Z2K8->Inhibit	PTMint:Interactions	P50406_S350-Phosphorylation
+Q7Z3K3->Enhance	PTMint:Interactions	P68431_K10-Methylation
+Q7Z406->Enhance	PTMint:Interactions	P51587_S193-Phosphorylation
+Q7Z434->Enhance	PTMint:Interactions	"O95786_K172-Ubiquitination	Q7Z434_K311-Ubiquitination	Q7Z434_K461-Ubiquitination	Q7Z434_K10-Ubiquitination"
+Q7Z434->Inhibit	PTMint:Interactions	"O95786_S8-Phosphorylation	O95786_S8-Phosphorylation	O95786_T170-Phosphorylation	O95786_T170-Phosphorylation	Q9BYX4_S88-Phosphorylation"
+Q7Z6Z7->Enhance	PTMint:Interactions	"O95140_S27-Phosphorylation	O95140_S27-Phosphorylation	O95140_S27-Phosphorylation	O95140_S27-Phosphorylation"
+Q7Z7C8->Enhance	PTMint:Interactions	"P35222_Y86-Phosphorylation	P35222_Y654-Phosphorylation	P62805_K6-Acetylation	P62805_K9-Acetylation	P62805_K13-Acetylation	P62805_K17-Acetylation"
+Q86SG6->Inhibit	PTMint:Interactions	Q9GZV5_S89-Phosphorylation
+Q86TM6->Inhibit	PTMint:Interactions	Q01813_S386-Phosphorylation
+Q86U44->Enhance	PTMint:Interactions	"Q9HCE5_S399-Phosphorylation	Q9HCE5_S399-Phosphorylation	Q9HCE5_S399-Phosphorylation	Q9HCE5_S399-Phosphorylation	Q9HCE5_S399-Phosphorylation	Q9HCE5_S399-Phosphorylation"
+Q86U86->Enhance	PTMint:Interactions	P68431_K15-Acetylation
+Q86UL8->Enhance	PTMint:Interactions	P60484_K402-Acetylation
+Q86UL8->Inhibit	PTMint:Interactions	"P60484_T382-Phosphorylation	P60484_T383-Phosphorylation"
+Q86UR1->Enhance	PTMint:Interactions	Q07820_S64-Phosphorylation
+Q86US8->Enhance	PTMint:Interactions	Q92900_T28-Phosphorylation
+Q86UU0->Enhance	PTMint:Interactions	P35222_Y142-Phosphorylation
+Q86V81->Enhance	PTMint:Interactions	"P62805_K6-Acetylation	P62805_K9-Acetylation	P62805_K13-Acetylation	P62805_K17-Acetylation"
+Q86VW2->Enhance	PTMint:Interactions	"Q16584_T277-Phosphorylation	Q16584_S281-Phosphorylation"
+Q86WV6->Enhance	PTMint:Interactions	"Q9UJV9_Y414-Phosphorylation	Q9UK80_S538-Phosphorylation"
+Q86X55->Inhibit	PTMint:Interactions	Q9Y6Q9_Y1357-Phosphorylation
+Q86XK2->Inhibit	PTMint:Interactions	Q9NZJ0_T464-Phosphorylation
+Q8IUQ4->Inhibit	PTMint:Interactions	"Q13118_S206-Phosphorylation	Q9UPY8_S176-Phosphorylation"
+Q8IVT5->Inhibit	PTMint:Interactions	P15056_S729-Phosphorylation
+Q8IW19->Enhance	PTMint:Interactions	Q13426_T233-Phosphorylation
+Q8IW41->Enhance	PTMint:Interactions	"P31152_S186-Phosphorylation	Q16659_S189-Phosphorylation"
+Q8IWV7->Inhibit	PTMint:Interactions	P01100_S32-Phosphorylation
+Q8IY92->Enhance	PTMint:Interactions	Q96NY9_S87-Phosphorylation
+Q8IYD8->Enhance	PTMint:Interactions	P49736_S108-Phosphorylation
+Q8IYI6->Enhance	PTMint:Interactions	Q9UPT5_S250-Phosphorylation
+Q8IYW5->Enhance	PTMint:Interactions	"O60341_S131-Phosphorylation	O60341_S137-Phosphorylation"
+Q8IZL8->Enhance	PTMint:Interactions	P04150_S134-Phosphorylation
+Q8N122->Inhibit	PTMint:Interactions	"Q96B36_S202-Phosphorylation	Q96B36_S203-Phosphorylation	Q96B36_T246-Phosphorylation	Q96B36_S183-Phosphorylation	Q96B36_S183-Phosphorylation	P42345_S1415-Phosphorylation	P42345_S2159-Phosphorylation	P42345_T2164-Phosphorylation"
+Q8N163->Enhance	PTMint:Interactions	P61289_S247-Phosphorylation
+Q8N3U4->Enhance	PTMint:Interactions	Q5FBB7_T346-Phosphorylation
+Q8N668->Enhance	PTMint:Interactions	Q04206_S468-Phosphorylation
+Q8N726->Enhance	PTMint:Interactions	Q00987_Y276-Phosphorylation
+Q8N8N0->Inhibit	PTMint:Interactions	Q07817_S145-Phosphorylation
+Q8N8U2->Enhance	PTMint:Interactions	"P68431_K10-Methylation	P68431_K28-Methylation"
+Q8N9R8->Enhance	PTMint:Interactions	Q12888_S380-Phosphorylation
+Q8NB16->Enhance	PTMint:Interactions	"Q8NB16_T357-Phosphorylation	Q8NB16_S358-Phosphorylation	Q8NB16_Y376-Phosphorylation	Q9Y572_S227-Phosphorylation"
+Q8NCD3->Enhance	PTMint:Interactions	P49450_K124-Ubiquitination
+Q8NCD3->Inhibit	PTMint:Interactions	P49450_S19-Phosphorylation
+Q8NCQ5->Inhibit	PTMint:Interactions	Q9BQ15_T117-Phosphorylation
+Q8ND76->Inhibit	PTMint:Interactions	Q00536_S153-Phosphorylation
+Q8NDV7->Enhance	PTMint:Interactions	Q9UKV8_S387-Phosphorylation
+Q8NEB9->Enhance	PTMint:Interactions	"Q14457_T388-Phosphorylation	Q14457_K437-Ubiquitination	Q96F24_S113-Phosphorylation	Q96F24_S120-Phosphorylation"
+Q8NEM0->Enhance	PTMint:Interactions	P30260_S821-Phosphorylation
+Q8NG27->Enhance	PTMint:Interactions	Q96RK0_S173-Phosphorylation
+Q8NG31->Enhance	PTMint:Interactions	O43684_Y207-Phosphorylation
+Q8NHM5->Inhibit	PTMint:Interactions	P01100_S374-Phosphorylation
+Q8NHP6->Enhance	PTMint:Interactions	Q14849_S209-Phosphorylation
+Q8NHY2->Enhance	PTMint:Interactions	"P14921_S276-Phosphorylation	P14921_S282-Phosphorylation"
+Q8NHY2->Inhibit	PTMint:Interactions	"P14921_Y283-Phosphorylation	P43268_S73-Phosphorylation"
+Q8TAT6->Inhibit	PTMint:Interactions	P55072_S784-Phosphorylation
+Q8TB45->Enhance	PTMint:Interactions	Q8N122_S606-Phosphorylation
+Q8TCG1->Enhance	PTMint:Interactions	P01106_S62-Phosphorylation
+Q8TDX7->Enhance	PTMint:Interactions	Q96P20_T659-Phosphorylation
+Q8TDY2->Enhance	PTMint:Interactions	P56962_S202-Phosphorylation
+Q8TDY2->Inhibit	PTMint:Interactions	"Q96F24_S113-Phosphorylation	Q96F24_S120-Phosphorylation	O75385_S469-Phosphorylation	O75385_S495-Phosphorylation	O75385_S533-Phosphorylation"
+Q8TDY4->Enhance	PTMint:Interactions	P15311_S66-Phosphorylation
+Q8TF42->Enhance	PTMint:Interactions	P43403_K544-Ubiquitination
+Q8WU20->Inhibit	PTMint:Interactions	P04629_Y496-Phosphorylation
+Q8WUI4->Enhance	PTMint:Interactions	"Q92585_K217-Sumoylation	Q92585_K299-Sumoylation"
+Q8WUP2->Enhance	PTMint:Interactions	Q96AC1_Y193-Phosphorylation
+Q8WVF1->Enhance	PTMint:Interactions	P30405_S191-Phosphorylation
+Q8WVM0->Enhance	PTMint:Interactions	"P04637_S46-Phosphorylation	P04637_T55-Phosphorylation"
+Q8WVM7->Enhance	PTMint:Interactions	Q5FBB7_T346-Phosphorylation
+Q8WX93->Enhance	PTMint:Interactions	P31749_S129-Phosphorylation
+Q8WYL5->Enhance	PTMint:Interactions	Q9BR76_S2-Phosphorylation
+Q8WZ60->Inhibit	PTMint:Interactions	Q9HBD1_Y691-Phosphorylation
+Q8WZA2->Enhance	PTMint:Interactions	O95295_S50-Phosphorylation
+Q92466->Enhance	PTMint:Interactions	"O95251_S50-Phosphorylation	O95251_S53-Phosphorylation	P14618_K433-Acetylation"
+Q92529->Enhance	PTMint:Interactions	Q9UM73_Y1507-Phosphorylation
+Q92538->Enhance	PTMint:Interactions	Q9ULH1_Y312-Phosphorylation
+Q92547->Enhance	PTMint:Interactions	"Q13535_T1989-Phosphorylation	P54132_S304-Phosphorylation	Q9BX63_T1133-Phosphorylation	Q8NEM0_S322-Phosphorylation	Q9UPP1_S854-Phosphorylation	Q99638_S387-Phosphorylation	Q99638_S387-Phosphorylation	Q92547_S1159-Phosphorylation"
+Q92547->Inhibit	PTMint:Interactions	P54132_S338-Phosphorylation
+Q92569->Enhance	PTMint:Interactions	"Q15303_Y1056-Phosphorylation	Q9H7P9_Y489-Phosphorylation"
+Q92599->Inhibit	PTMint:Interactions	Q16181_Y319-Phosphorylation
+Q92614->Enhance	PTMint:Interactions	"Q9H4A6_T143-Phosphorylation	Q9H4A6_T148-Phosphorylation"
+Q92622->Enhance	PTMint:Interactions	"Q14457_K430-Acetylation	Q14457_K430-Acetylation	Q14457_K437-Acetylation	Q14457_K437-Acetylation	Q9P2Y5_S498-Phosphorylation"
+Q92730->Inhibit	PTMint:Interactions	"Q9NRY4_S1150-Phosphorylation	Q9NRY4_T1173-Phosphorylation	Q9NRY4_S1174-Phosphorylation"
+Q92731->Inhibit	PTMint:Interactions	Q14686_S884-Phosphorylation
+Q92766->Enhance	PTMint:Interactions	O00629_S60-Phosphorylation
+Q92769->Enhance	PTMint:Interactions	"O95644_K349-Sumoylation	O95644_K702-Sumoylation	O95644_K914-Sumoylation	O95863_S11-Phosphorylation	O43680_K24-Sumoylation"
+Q92784->Enhance	PTMint:Interactions	"P68431_K14-Acetylation	P68431_K15-Acetylation"
+Q92793->Enhance	PTMint:Interactions	"O43524_S626-Phosphorylation	P31270_S98-Phosphorylation	P31270_T119-Phosphorylation	Q14653_S398-Phosphorylation	Q14653_S339-Phosphorylation	Q14653_T390-Phosphorylation	Q14653_S396-Phosphorylation	Q14653_S396-Phosphorylation	Q14653_S396-Phosphorylation	P15172_K99-Acetylation	Q04206_S276-Phosphorylation	Q04206_S276-Phosphorylation	P15923_K34-Acetylation	P04637_K382-Acetylation	P04637_K382-Acetylation	P04637_S15-Phosphorylation	P04637_T18-Phosphorylation	P04637_S20-Phosphorylation	P04637_S33-Phosphorylation	P04637_S37-Phosphorylation	P04637_S46-Phosphorylation"
+Q92793->Inhibit	PTMint:Interactions	"P18846_S36-Phosphorylation	P18846_S41-Phosphorylation	P63279_K65-Acetylation"
+Q92830->Enhance	PTMint:Interactions	"Q9UNN5_S556-Phosphorylation	P68431_K5-Methylation"
+Q92831->Enhance	PTMint:Interactions	"P62805_R4-Methylation	Q8NHW3_S49-Phosphorylation	Q8NHW3_T53-Phosphorylation	Q8NHW3_T57-Phosphorylation	Q8NHW3_S61-Phosphorylation"
+Q92831->Inhibit	PTMint:Interactions	Q01826_S185-Phosphorylation
+Q92851->Enhance	PTMint:Interactions	"Q13158_K120-Sumoylation	Q13158_K120-Sumoylation	Q13158_K125-Sumoylation	Q13158_K125-Sumoylation	Q13158_K149-Sumoylation	Q13158_K149-Sumoylation"
+Q92878->Enhance	PTMint:Interactions	"P63167_S88-Phosphorylation	P16104_S140-Phosphorylation"
+Q92890->Inhibit	PTMint:Interactions	P55072_S784-Phosphorylation
+Q92911->Enhance	PTMint:Interactions	P53801_Y174-Phosphorylation
+Q92922->Inhibit	PTMint:Interactions	P17676_R3-Methylation
+Q92973->Inhibit	PTMint:Interactions	"P35637_Y526-Phosphorylation	P35637_Y526-Phosphorylation	P35637_Y526-Phosphorylation"
+Q92993->Enhance	PTMint:Interactions	"P23919_S88-Phosphorylation	P68431_K10-Methylation	P40337_S111-Phosphorylation"
+Q92995->Inhibit	PTMint:Interactions	Q6IA17_T372-Phosphorylation
+Q93008->Enhance	PTMint:Interactions	Q13485_T277-Phosphorylation
+Q93009->Enhance	PTMint:Interactions	P35325_Y67-Phosphorylation
+Q93009->Inhibit	PTMint:Interactions	Q96T88_S639-Phosphorylation
+Q93038->Inhibit	PTMint:Interactions	P28799_S81-Phosphorylation
+Q93052->Inhibit	PTMint:Interactions	Q14847_S146-Phosphorylation
+Q969H0->Enhance	PTMint:Interactions	"Q16204_S359-Phosphorylation	Q16204_S413-Phosphorylation	Q16204_T427-Phosphorylation	Q49AN0_T300-Phosphorylation	Q96SD1_S516-Phosphorylation	Q96SD1_S645-Phosphorylation	P23769_T176-Phosphorylation	P23771_T156-Phosphorylation	Q99684_S94-Phosphorylation	Q99684_S98-Phosphorylation	P05412_T239-Phosphorylation	P05412_S243-Phosphorylation	P17275_S251-Phosphorylation	P17275_T255-Phosphorylation	P17275_S259-Phosphorylation	Q13887_S303-Phosphorylation	Q07820_S121-Phosphorylation	Q07820_S159-Phosphorylation	Q07820_S159-Phosphorylation	Q07820_S159-Phosphorylation	Q07820_T163-Phosphorylation	P01106_T58-Phosphorylation	P01106_T58-Phosphorylation	P01106_T58-Phosphorylation	P01106_S62-Phosphorylation	Q9NXR1_T191-Phosphorylation	Q00653_S707-Phosphorylation	P04150_S404-Phosphorylation	Q9UQ13_T507-Phosphorylation	P51532_S31-Phosphorylation	P51532_S35-Phosphorylation	P48436_T236-Phosphorylation	P48436_T236-Phosphorylation	P17947_S41-Phosphorylation	P17947_S140-Phosphorylation	P36956_T426-Phosphorylation	P36956_S430-Phosphorylation	P52630_S381-Phosphorylation	P52630_T385-Phosphorylation	P52630_S393-Phosphorylation	P11388_S1361-Phosphorylation	P11388_S1365-Phosphorylation	O43379_T1053-Phosphorylation"
+Q969H0->Inhibit	PTMint:Interactions	"Q16204_T434-Phosphorylation	Q00613_T120-Phosphorylation	P05412_T239-Phosphorylation	P05412_S243-Phosphorylation	P36956_R321-Methylation"
+Q969U6->Inhibit	PTMint:Interactions	Q15437_S186-Phosphorylation
+Q969X0->Enhance	PTMint:Interactions	"P61006_T72-Phosphorylation	P61006_T72-Phosphorylation"
+Q96A65->Enhance	PTMint:Interactions	Q9UPT5_S250-Phosphorylation
+Q96AC1->Inhibit	PTMint:Interactions	"P05556_T788-Phosphorylation	P05556_T789-Phosphorylation	P05556_Y795-Phosphorylation"
+Q96B97->Inhibit	PTMint:Interactions	Q99962_T14-Phosphorylation
+Q96BY9->Inhibit	PTMint:Interactions	Q13586_Y316-Phosphorylation
+Q96BZ9->Inhibit	PTMint:Interactions	P61006_S111-Phosphorylation
+Q96CD0->Enhance	PTMint:Interactions	P30281_T283-Phosphorylation
+Q96CS3->Enhance	PTMint:Interactions	"Q15717_K313-Ubiquitination	Q15717_K326-Ubiquitination"
+Q96CW1->Enhance	PTMint:Interactions	"Q9BYF1_S783-Phosphorylation	Q13530_S380-Phosphorylation	Q13530_S383-Phosphorylation"
+Q96CW1->Inhibit	PTMint:Interactions	"Q9BYF1_Y781-Phosphorylation	P32004_Y1176-Phosphorylation"
+Q96D31->Enhance	PTMint:Interactions	"Q13586_Y316-Phosphorylation	Q13586_Y361-Phosphorylation"
+Q96D42->Inhibit	PTMint:Interactions	P63172_T94-Phosphorylation
+Q96DN5->Enhance	PTMint:Interactions	O75665_S735-Phosphorylation
+Q96EB6->Enhance	PTMint:Interactions	"Q8N163_T454-Phosphorylation	Q15831_K64-Acetylation"
+Q96EP0->Inhibit	PTMint:Interactions	"Q96BN8_Y56-Phosphorylation	Q96BN8_Y56-Phosphorylation	Q96BN8_Y56-Phosphorylation"
+Q96EP1->Inhibit	PTMint:Interactions	P53350_T210-Phosphorylation
+Q96FA3->Enhance	PTMint:Interactions	Q9Y572_T182-Phosphorylation
+Q96FJ2->Enhance	PTMint:Interactions	Q13153_S174-Phosphorylation
+Q96GD4->Enhance	PTMint:Interactions	P12956_S155-Phosphorylation
+Q96GD4->Inhibit	PTMint:Interactions	Q16543_S339-Phosphorylation
+Q96I25->Enhance	PTMint:Interactions	P54253_S775-Phosphorylation
+Q96I25->Inhibit	PTMint:Interactions	P54253_S775-Phosphorylation
+Q96IF1->Inhibit	PTMint:Interactions	O95863_S11-Phosphorylation
+Q96J02->Enhance	PTMint:Interactions	"Q4VCS5_S175-Phosphorylation	P61073_S324-Phosphorylation	P61073_S325-Phosphorylation	Q16625_S490-Phosphorylation	Q96BR1_S486-Phosphorylation"
+Q96J92->Inhibit	PTMint:Interactions	"Q9UH77_S433-Phosphorylation	Q9UH77_S433-Phosphorylation	Q9UH77_S433-Phosphorylation"
+Q96JM3->Enhance	PTMint:Interactions	P68431_K10-Methylation
+Q96L73->Enhance	PTMint:Interactions	P68431_K37-Methylation
+Q96L92->Enhance	PTMint:Interactions	Q12879_S1459-Phosphorylation
+Q96LI6->Enhance	PTMint:Interactions	P68431_K10-Methylation
+Q96MN2->Enhance	PTMint:Interactions	Q9UHD2_S527-Phosphorylation
+Q96NA2->Enhance	PTMint:Interactions	P51149_K38-Ubiquitination
+Q96P20->Inhibit	PTMint:Interactions	"Q8TDX7_S204-Phosphorylation	Q96P20_S5-Phosphorylation"
+Q96PE2->Enhance	PTMint:Interactions	"Q9H3Q1_S18-Phosphorylation	Q9H3Q1_S80-Phosphorylation"
+Q96PU5->Enhance	PTMint:Interactions	P84022_T179-Phosphorylation
+Q96PY5->Inhibit	PTMint:Interactions	Q16658_S39-Phosphorylation
+Q96QF0->Inhibit	PTMint:Interactions	"P61006_S111-Phosphorylation	P61006_S111-Phosphorylation	P61006_S111-Phosphorylation	P61006_S111-Phosphorylation	P61006_S111-Phosphorylation	P61006_S111-Phosphorylation"
+Q96RF0->Inhibit	PTMint:Interactions	Q9BXF6_T276-Phosphorylation
+Q96RL1->Enhance	PTMint:Interactions	"Q9NWV8_S29-Phosphorylation	P54132_K105-Ubiquitination	P54132_K225-Ubiquitination	P54132_K259-Ubiquitination"
+Q96RN5->Enhance	PTMint:Interactions	O15350_Y99-Phosphorylation
+Q96S55->Enhance	PTMint:Interactions	P12004_K164-Ubiquitination
+Q96S99->Enhance	PTMint:Interactions	P04637_S15-Phosphorylation
+Q96SB3->Enhance	PTMint:Interactions	O43602_S28-Phosphorylation
+Q96SN8->Enhance	PTMint:Interactions	P17612_Y70-Phosphorylation
+Q96ST3->Enhance	PTMint:Interactions	P51608_S229-Phosphorylation
+Q96ST3->Inhibit	PTMint:Interactions	"Q01196_R206-Methylation	Q01196_R210-Methylation"
+Q96SW2->Enhance	PTMint:Interactions	"P15104_K11-Acetylation	P15104_K14-Acetylation"
+Q96T60->Enhance	PTMint:Interactions	"P18887_S518-Phosphorylation	P18887_T519-Phosphorylation	P18887_T523-Phosphorylation"
+Q96T76->Enhance	PTMint:Interactions	Q07864_S1940-Phosphorylation
+Q96T88->Enhance	PTMint:Interactions	P68431_K10-Methylation
+Q99250->Enhance	PTMint:Interactions	"Q92915_S228-Phosphorylation	Q92915_S230-Phosphorylation"
+Q99442->Enhance	PTMint:Interactions	"Q9UGP8_S574-Phosphorylation	Q9UGP8_S576-Phosphorylation	Q9UGP8_S748-Phosphorylation"
+Q99497->Enhance	PTMint:Interactions	Q99497_T154-Phosphorylation
+Q99570->Enhance	PTMint:Interactions	"Q96F24_S113-Phosphorylation	Q96F24_S120-Phosphorylation	P63244_T50-Phosphorylation"
+Q99661->Inhibit	PTMint:Interactions	"Q15691_K220-Acetylation	Q15691_Y247-Phosphorylation"
+Q99683->Inhibit	PTMint:Interactions	P63104_S58-Phosphorylation
+Q99728->Enhance	PTMint:Interactions	Q4G0J3_T440-Phosphorylation
+Q99759->Enhance	PTMint:Interactions	O43318_K209-Ubiquitination
+Q99801->Enhance	PTMint:Interactions	Q13315_S1981-Phosphorylation
+Q99814->Inhibit	PTMint:Interactions	"P40337_S68-Phosphorylation	P40337_S72-Phosphorylation"
+Q99836->Enhance	PTMint:Interactions	"Q15109_S391-Phosphorylation	Q9Y608_S202-Phosphorylation"
+Q99873->Enhance	PTMint:Interactions	Q01196_T207-Phosphorylation
+Q99996->Enhance	PTMint:Interactions	P17612_Y70-Phosphorylation
+Q9BPY8->Inhibit	PTMint:Interactions	P07900_K294-Acetylation
+Q9BQS8->Inhibit	PTMint:Interactions	Q9GZQ8_T50-Phosphorylation
+Q9BSB4->Inhibit	PTMint:Interactions	"O75385_S469-Phosphorylation	O75385_S495-Phosphorylation	O75385_S533-Phosphorylation	Q8IYT8_S1027-Phosphorylation"
+Q9BSI4->Enhance	PTMint:Interactions	P54274_S114-Phosphorylation
+Q9BTC8->Inhibit	PTMint:Interactions	Q9C0K0_S2-Phosphorylation
+Q9BTT0->Inhibit	PTMint:Interactions	P0C0S5_K102-Methylation
+Q9BTU6->Enhance	PTMint:Interactions	"P20963_Y142-Phosphorylation	P20963_Y153-Phosphorylation"
+Q9BUB5->Enhance	PTMint:Interactions	Q04637_S1185-Phosphorylation
+Q9BUZ4->Enhance	PTMint:Interactions	P14598_S379-Phosphorylation
+Q9BVJ7->Enhance	PTMint:Interactions	"Q9NP62_S269-Phosphorylation	Q9NP62_S275-Phosphorylation"
+Q9BW19->Inhibit	PTMint:Interactions	"P52292_T9-Phosphorylation	P52292_S62-Phosphorylation"
+Q9BW61->Enhance	PTMint:Interactions	"Q16531_Y316-Phosphorylation	Q16531_Y316-Phosphorylation"
+Q9BXS5->Enhance	PTMint:Interactions	"Q13530_S380-Phosphorylation	Q13530_S383-Phosphorylation"
+Q9BXW9->Enhance	PTMint:Interactions	P49736_S108-Phosphorylation
+Q9BYG4->Enhance	PTMint:Interactions	"Q9H3Q1_S18-Phosphorylation	Q9H3Q1_S80-Phosphorylation"
+Q9BYX4->Enhance	PTMint:Interactions	Q9BYX4_K743-Ubiquitination
+Q9BZK7->Enhance	PTMint:Interactions	"Q9UQL6_S278-Phosphorylation	Q9UQL6_S279-Phosphorylation"
+Q9BZK7->Inhibit	PTMint:Interactions	"Q9UQL6_S259-Phosphorylation	Q9UQL6_S498-Phosphorylation"
+Q9BZL6->Inhibit	PTMint:Interactions	"Q9UQL6_S259-Phosphorylation	Q9UQL6_S498-Phosphorylation"
+Q9BZS1->Enhance	PTMint:Interactions	P09651_S199-Phosphorylation
+Q9BZV1->Enhance	PTMint:Interactions	"Q03135_K5-Ubiquitination	Q03135_K26-Ubiquitination	Q03135_K30-Ubiquitination	Q03135_K39-Ubiquitination	Q03135_K47-Ubiquitination	Q03135_K57-Ubiquitination"
+Q9C0C4->Inhibit	PTMint:Interactions	Q96L92_S51-Phosphorylation
+Q9GZM8->Enhance	PTMint:Interactions	Q9NXR1_T131-Phosphorylation
+Q9GZQ8->Enhance	PTMint:Interactions	"O60238_S34-Phosphorylation	O60238_S35-Phosphorylation	Q8IVP5_S17-Phosphorylation	Q03181_Y108-Phosphorylation	Q14524_T101-Phosphorylation"
+Q9GZQ8->Inhibit	PTMint:Interactions	"Q9Y4P1_S316-Phosphorylation	Q8IVP5_S13-Phosphorylation	Q8IVP5_Y18-Phosphorylation"
+Q9GZT9->Inhibit	PTMint:Interactions	"Q16665_K709-Acetylation	Q16665_S451-Phosphorylation"
+Q9GZV5->Enhance	PTMint:Interactions	Q8IX12_T667-Phosphorylation
+Q9H0H5->Inhibit	PTMint:Interactions	Q8NEM2_S634-Phosphorylation
+Q9H1Y0->Enhance	PTMint:Interactions	P63244_S63-Phosphorylation
+Q9H257->Enhance	PTMint:Interactions	Q8N103_Y310-Phosphorylation
+Q9H299->Enhance	PTMint:Interactions	"P00533_Y891-Phosphorylation	P04626_Y923-Phosphorylation	P04626_Y1196-Phosphorylation"
+Q9H2X6->Inhibit	PTMint:Interactions	Q8IUQ4_S19-Phosphorylation
+Q9H492->Enhance	PTMint:Interactions	"Q9BYF1_S783-Phosphorylation	Q8IVP5_S17-Phosphorylation	Q99623_S39-Phosphorylation	P49023_Y118-Phosphorylation"
+Q9H492->Inhibit	PTMint:Interactions	Q8IVP5_S13-Phosphorylation
+Q9H4B7->Inhibit	PTMint:Interactions	Q9HC35_S144-Phosphorylation
+Q9H6L5->Enhance	PTMint:Interactions	Q9H6L5_S151-Phosphorylation
+Q9H6Y7->Enhance	PTMint:Interactions	Q8WTX7_S14-Phosphorylation
+Q9H7E2->Enhance	PTMint:Interactions	P24928_R1810-Methylation
+Q9H7Z6->Enhance	PTMint:Interactions	P06400_K810-Methylation
+Q9H8S9->Enhance	PTMint:Interactions	"Q13043_T353-Phosphorylation	Q13043_T367-Phosphorylation"
+Q9H8S9->Inhibit	PTMint:Interactions	"Q15208_T7-Phosphorylation	Q15208_T183-Phosphorylation	Q15208_T407-Phosphorylation"
+Q9H8V3->Enhance	PTMint:Interactions	"Q9H0H5_S157-Phosphorylation	Q9H0H5_S157-Phosphorylation	Q9H0H5_S164-Phosphorylation	P17480_S412-Phosphorylation"
+Q9H900->Enhance	PTMint:Interactions	Q9Y6D9_S546-Phosphorylation
+Q9H9E1->Inhibit	PTMint:Interactions	P56524_S350-Phosphorylation
+Q9H9G7->Enhance	PTMint:Interactions	P68431_K10-Methylation
+Q9H9S0->Enhance	PTMint:Interactions	"Q9H9S0_T200-Phosphorylation	Q9H9S0_T280-Phosphorylation"
+Q9H9Y6->Enhance	PTMint:Interactions	Q9NYV6_S649-Phosphorylation
+Q9H9Y6->Inhibit	PTMint:Interactions	Q9NYV6_T200-Phosphorylation
+Q9HAW4->Enhance	PTMint:Interactions	O75717_T826-Phosphorylation
+Q9HBJ8->Enhance	PTMint:Interactions	O95295_S50-Phosphorylation
+Q9HC52->Inhibit	PTMint:Interactions	P35227_T334-Phosphorylation
+Q9HCE7->Inhibit	PTMint:Interactions	Q9P2Y5_S522-Phosphorylation
+Q9HCG8->Enhance	PTMint:Interactions	P38919_T163-Phosphorylation
+Q9HD47->Inhibit	PTMint:Interactions	P62826_K134-Acetylation
+Q9HD67->Enhance	PTMint:Interactions	"P35611_S12-Phosphorylation	P35611_S355-Phosphorylation	P10644_S83-Phosphorylation"
+Q9NP31->Enhance	PTMint:Interactions	"P30203_Y629-Phosphorylation	P30203_Y629-Phosphorylation"
+Q9NP85->Enhance	PTMint:Interactions	O60500_Y1193-Phosphorylation
+Q9NPF5->Enhance	PTMint:Interactions	O43684_S211-Phosphorylation
+Q9NPI1->Enhance	PTMint:Interactions	"P68431_K10-Acetylation	P68431_K15-Acetylation	P62805_K9-Acetylation	P62805_K13-Acetylation	P62805_K17-Acetylation"
+Q9NPI6->Enhance	PTMint:Interactions	Q07352_S334-Phosphorylation
+Q9NQA5->Enhance	PTMint:Interactions	Q9Y5I7_T303-Phosphorylation
+Q9NQR1->Enhance	PTMint:Interactions	"P62805_Y73-Phosphorylation	P62805_Y73-Phosphorylation"
+Q9NQS7->Inhibit	PTMint:Interactions	P53350_K492-Ubiquitination
+Q9NQU5->Inhibit	PTMint:Interactions	P60953_K166-Ubiquitination
+Q9NQZ3->Inhibit	PTMint:Interactions	"Q96EP5_T269-Phosphorylation	Q96EP5_T315-Phosphorylation"
+Q9NRA8->Enhance	PTMint:Interactions	P06730_S209-Phosphorylation
+Q9NRD5->Inhibit	PTMint:Interactions	"Q9BY11_S346-Phosphorylation	Q9BY11_S348-Phosphorylation	Q9BY11_S349-Phosphorylation	Q9UNF0_S372-Phosphorylation"
+Q9NRF2->Enhance	PTMint:Interactions	"O60674_Y813-Phosphorylation	O60674_Y813-Phosphorylation	O60674_Y813-Phosphorylation	O60674_Y813-Phosphorylation	O60674_Y813-Phosphorylation	O60674_Y813-Phosphorylation	O60674_Y813-Phosphorylation	O60674_Y813-Phosphorylation	O60674_Y813-Phosphorylation"
+Q9NS23->Inhibit	PTMint:Interactions	"Q13188_T117-Phosphorylation	Q13188_T384-Phosphorylation"
+Q9NTG7->Inhibit	PTMint:Interactions	Q9P0J1_Y381-Phosphorylation
+Q9NVA2->Inhibit	PTMint:Interactions	Q16181_Y319-Phosphorylation
+Q9NVP2->Enhance	PTMint:Interactions	"P62805_S47-Phosphorylation	P62805_S47-Phosphorylation"
+Q9NWS0->Enhance	PTMint:Interactions	"O95905_S505-Phosphorylation	P49959_S558-Phosphorylation	P49959_S561-Phosphorylation	P49959_S688-Phosphorylation	P49959_S689-Phosphorylation	Q9Y4R8_S491-Phosphorylation"
+Q9NWT6->Enhance	PTMint:Interactions	"O96018_T5-Phosphorylation	O96018_S7-Phosphorylation"
+Q9NWZ3->Enhance	PTMint:Interactions	Q15109_S391-Phosphorylation
+Q9NWZ3->Inhibit	PTMint:Interactions	"Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation	Q9NWZ3_T345-Phosphorylation"
+Q9NWZ8->Inhibit	PTMint:Interactions	"Q16637_T85-Phosphorylation	Q16637_S187-Phosphorylation"
+Q9NXC5->Inhibit	PTMint:Interactions	Q8WTX7_S14-Phosphorylation
+Q9NYF8->Enhance	PTMint:Interactions	P23246_T687-Phosphorylation
+Q9NYJ8->Enhance	PTMint:Interactions	"Q13546_K377-Ubiquitination	O43353_K209-Ubiquitination"
+Q9NYV6->Enhance	PTMint:Interactions	Q9UQ80_S360-Phosphorylation
+Q9NYY3->Enhance	PTMint:Interactions	Q96EB6_T344-Phosphorylation
+Q9NZ71->Inhibit	PTMint:Interactions	Q15554_S365-Phosphorylation
+Q9NZJ5->Inhibit	PTMint:Interactions	"P11021_K118-Acetylation	P11021_K122-Acetylation	P11021_K123-Acetylation	P11021_K125-Acetylation	P11021_K138-Acetylation	P11021_K152-Acetylation	P11021_K154-Acetylation	P11021_K352-Acetylation	P11021_K353-Acetylation	P11021_K376-Acetylation	P11021_K585-Acetylation	P11021_K633-Acetylation"
+Q9P0L0->Enhance	PTMint:Interactions	"Q9Y5P4_S315-Phosphorylation	Q14849_S209-Phosphorylation"
+Q9P1Z2->Enhance	PTMint:Interactions	"Q9UDV7_K293-Sumoylation	Q9UDV7_K331-Sumoylation	Q9UDV7_K369-Sumoylation"
+Q9P2D1->Enhance	PTMint:Interactions	"P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation"
+Q9P2Y5->Enhance	PTMint:Interactions	Q14457_Y233-Phosphorylation
+Q9UBL3->Enhance	PTMint:Interactions	Q15291_S350-Phosphorylation
+Q9UBS0->Inhibit	PTMint:Interactions	"Q15633_S283-Phosphorylation	Q15633_S286-Phosphorylation"
+Q9UBU8->Enhance	PTMint:Interactions	P68431_K37-Methylation
+Q9UDY8->Enhance	PTMint:Interactions	"Q9UDY8_K644-Ubiquitination	Q9UDY8_K644-Ubiquitination	Q9UDY8_K644-Ubiquitination	Q9UDY8_K644-Ubiquitination	Q9UDY8_K644-Ubiquitination"
+Q9UER7->Enhance	PTMint:Interactions	"Q9ULV5_S298-Phosphorylation	Q13485_K159-Sumoylation"
+Q9UER7->Inhibit	PTMint:Interactions	"P62805_S47-Phosphorylation	P62805_S47-Phosphorylation	P62805_S47-Phosphorylation	P62805_S47-Phosphorylation	P62805_S47-Phosphorylation	P62805_S47-Phosphorylation"
+Q9UEW8->Inhibit	PTMint:Interactions	Q9H4A3_S1261-Phosphorylation
+Q9UF56->Inhibit	PTMint:Interactions	"Q9UMX1_S342-Phosphorylation	Q9UMX1_S346-Phosphorylation"
+Q9UGP4->Enhance	PTMint:Interactions	Q9UKV8_S387-Phosphorylation
+Q9UGU0->Enhance	PTMint:Interactions	P03372_S118-Phosphorylation
+Q9UH65->Inhibit	PTMint:Interactions	Q9UH65_Y426-Phosphorylation
+Q9UHD2->Enhance	PTMint:Interactions	"P30086_S109-Phosphorylation	Q13114_S349-Phosphorylation"
+Q9UHD8->Inhibit	PTMint:Interactions	Q16181_Y319-Phosphorylation
+Q9UI95->Enhance	PTMint:Interactions	P68431_K10-Methylation
+Q9UIG0->Enhance	PTMint:Interactions	P68431_K10-Acetylation
+Q9UII4->Enhance	PTMint:Interactions	"P04637_Y126-Phosphorylation	P04637_Y220-Phosphorylation"
+Q9UIM3->Enhance	PTMint:Interactions	Q9BR76_S2-Phosphorylation
+Q9UJ78->Enhance	PTMint:Interactions	Q9UHL9_K495-Sumoylation
+Q9UJA5->Enhance	PTMint:Interactions	"P62805_K6-Acetylation	P62805_K9-Acetylation	P62805_K13-Acetylation	P62805_K17-Acetylation"
+Q9UJT9->Enhance	PTMint:Interactions	P12931_S104-Phosphorylation
+Q9UJX5->Inhibit	PTMint:Interactions	Q8NHZ8_T7-Phosphorylation
+Q9UK53->Enhance	PTMint:Interactions	P68431_K5-Methylation
+Q9UK99->Enhance	PTMint:Interactions	"O43918_T68-Phosphorylation	O43918_S156-Phosphorylation"
+Q9UKA4->Enhance	PTMint:Interactions	Q13576_T716-Phosphorylation
+Q9UKB1->Enhance	PTMint:Interactions	"P30304_S82-Phosphorylation	P30304_S88-Phosphorylation	Q8TB45_S286-Phosphorylation	Q8TB45_S287-Phosphorylation	Q8TB45_S291-Phosphorylation	P16471_S349-Phosphorylation	P30291_S53-Phosphorylation	P30291_S123-Phosphorylation	Q9Y2X9_S638-Phosphorylation"
+Q9UKC9->Inhibit	PTMint:Interactions	O00459_Y655-Phosphorylation
+Q9UKL0->Enhance	PTMint:Interactions	"O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation	O60341_K322-Methylation"
+Q9UKL0->Inhibit	PTMint:Interactions	"Q13127_S861-Phosphorylation	Q13127_S864-Phosphorylation"
+Q9UKT5->Enhance	PTMint:Interactions	"P02511_S19-Phosphorylation	P02511_S19-Phosphorylation	P02511_S45-Phosphorylation	P02511_S45-Phosphorylation	Q9UKT5_S12-Phosphorylation"
+Q9UKT5->Inhibit	PTMint:Interactions	P54274_S114-Phosphorylation
+Q9UKT8->Enhance	PTMint:Interactions	"Q9NP62_S322-Phosphorylation	Q9NP62_S326-Phosphorylation"
+Q9UKV3->Enhance	PTMint:Interactions	Q15942_S142-Phosphorylation
+Q9UKV5->Inhibit	PTMint:Interactions	O15503_T222-Phosphorylation
+Q9UKV8->Enhance	PTMint:Interactions	"Q14847_Y171-Phosphorylation	Q15633_K52-Sumoylation"
+Q9UKV8->Inhibit	PTMint:Interactions	"Q14847_S146-Phosphorylation	Q9H0Z9_S195-Phosphorylation	Q9BWF3_S309-Phosphorylation"
+Q9UKW4->Enhance	PTMint:Interactions	"P29317_Y588-Phosphorylation	P29317_Y594-Phosphorylation	Q15303_Y1022-Phosphorylation	Q15303_Y1162-Phosphorylation"
+Q9UKX2->Inhibit	PTMint:Interactions	P19105_Y155-Phosphorylation
+Q9ULK4->Inhibit	PTMint:Interactions	P17676_R3-Methylation
+Q9ULK5->Inhibit	PTMint:Interactions	Q9NPG1_T598-Phosphorylation
+Q9ULV8->Enhance	PTMint:Interactions	P12931_Y419-Phosphorylation
+Q9ULW0->Enhance	PTMint:Interactions	P35611_S726-Phosphorylation
+Q9ULW0->Inhibit	PTMint:Interactions	"P52292_T9-Phosphorylation	P52292_S62-Phosphorylation	P52292_S62-Phosphorylation"
+Q9ULZ2->Enhance	PTMint:Interactions	P46108_Y251-Phosphorylation
+Q9ULZ3->Inhibit	PTMint:Interactions	Q96P20_S5-Phosphorylation
+Q9UM11->Inhibit	PTMint:Interactions	O43791_S6-Phosphorylation
+Q9UMX1->Enhance	PTMint:Interactions	"P08151_S201-Phosphorylation	P08151_S204-Phosphorylation	P08151_S243-Phosphorylation	P08151_S968-Phosphorylation	P08151_T1074-Phosphorylation	P08151_S1078-Phosphorylation"
+Q9UMX1->Inhibit	PTMint:Interactions	P08151_S84-Phosphorylation
+Q9UNE7->Enhance	PTMint:Interactions	"P09651_S199-Phosphorylation	P07900_K69-Acetylation	P07900_K69-Acetylation	P07900_T90-Phosphorylation	P07900_T90-Phosphorylation	O14654_S859-Phosphorylation	O43623_S92-Phosphorylation	O43623_S96-Phosphorylation	O43623_S100-Phosphorylation	O43623_S104-Phosphorylation	P17542_T90-Phosphorylation"
+Q9UNE7->Inhibit	PTMint:Interactions	"P09467_S144-Phosphorylation	P07900_K100-Acetylation	P07900_K100-Acetylation	P07900_K294-Acetylation	P07900_K294-Acetylation	P07900_K327-Acetylation	P07900_K327-Acetylation	P07900_K478-Acetylation	P07900_K478-Acetylation	P07900_K546-Acetylation	P07900_K546-Acetylation	P07900_K558-Acetylation	P07900_K558-Acetylation	P0DMV8_K77-Acetylation	P0DMV8_S631-Phosphorylation"
+Q9UNK0->Enhance	PTMint:Interactions	Q9Y5I7_S217-Phosphorylation
+Q9UNL4->Enhance	PTMint:Interactions	"P68431_K5-Methylation	P68431_K5-Methylation"
+Q9UNQ0->Enhance	PTMint:Interactions	Q9UNQ0_T362-Phosphorylation
+Q9UPN9->Enhance	PTMint:Interactions	"P35222_S715-Phosphorylation	P68431_K24-Acetylation	P68431_K28-Acetylation	P68431_K10-Acetylation	P68431_K15-Acetylation	P68431_K18-Acetylation"
+Q9UPP1->Enhance	PTMint:Interactions	"P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation"
+Q9UPT9->Enhance	PTMint:Interactions	O60341_S683-Phosphorylation
+Q9UPY3->Inhibit	PTMint:Interactions	"Q9UKV8_Y393-Phosphorylation	Q9UKV8_Y393-Phosphorylation	Q9UKV8_Y393-Phosphorylation	Q9UKV8_Y393-Phosphorylation"
+Q9UPY5->Enhance	PTMint:Interactions	"Q14457_S90-Phosphorylation	Q14457_S93-Phosphorylation	Q14457_S96-Phosphorylation"
+Q9UPY8->Enhance	PTMint:Interactions	Q16643_S142-Phosphorylation
+Q9UQD0->Enhance	PTMint:Interactions	"Q92915_S228-Phosphorylation	Q92915_S230-Phosphorylation"
+Q9UQE7->Enhance	PTMint:Interactions	"P51608_S80-Phosphorylation	P51608_S229-Phosphorylation"
+Q9UQL6->Inhibit	PTMint:Interactions	"P06400_S249-Phosphorylation	P06400_T252-Phosphorylation"
+Q9UQM7->Inhibit	PTMint:Interactions	"Q13224_S1303-Phosphorylation	Q13224_S1303-Phosphorylation	Q13224_S1303-Phosphorylation	Q13224_S1303-Phosphorylation	Q13224_S1303-Phosphorylation"
+Q9UQQ2->Enhance	PTMint:Interactions	Q15018_Y377-Phosphorylation
+Q9Y210->Inhibit	PTMint:Interactions	P0DP23_Y100-Phosphorylation
+Q9Y232->Enhance	PTMint:Interactions	"P68431_K10-Methylation	P68431_K28-Methylation"
+Q9Y252->Enhance	PTMint:Interactions	P10275_T851-Phosphorylation
+Q9Y272->Inhibit	PTMint:Interactions	O00213_Y547-Phosphorylation
+Q9Y294->Enhance	PTMint:Interactions	P62805_S47-Phosphorylation
+Q9Y297->Enhance	PTMint:Interactions	"O43521_S93-Phosphorylation	O43521_S94-Phosphorylation	O43521_S98-Phosphorylation	P30304_S79-Phosphorylation	P30304_S79-Phosphorylation	P30304_S82-Phosphorylation	P30304_S82-Phosphorylation	P30304_S82-Phosphorylation	P30304_S82-Phosphorylation	P30304_S88-Phosphorylation	Q9HAW4_S30-Phosphorylation	Q8TB45_S286-Phosphorylation	Q8TB45_S286-Phosphorylation	Q8TB45_S286-Phosphorylation	Q8TB45_S287-Phosphorylation	Q8TB45_S287-Phosphorylation	Q8TB45_S291-Phosphorylation	Q8TB45_S291-Phosphorylation	Q8TB45_S293-Phosphorylation	Q8TB45_S293-Phosphorylation	Q8TB45_T295-Phosphorylation	Q8TB45_S299-Phosphorylation	Q8TB45_S299-Phosphorylation	Q15717_S304-Phosphorylation	Q15910_Y641-Phosphorylation	P32314_S365-Phosphorylation	P32314_S369-Phosphorylation	Q92538_S292-Phosphorylation	Q92538_S297-Phosphorylation	P08151_S102-Phosphorylation	P08151_S408-Phosphorylation	P08151_T1074-Phosphorylation	Q9H3R0_S918-Phosphorylation	Q9BRK4_S220-Phosphorylation	Q9BRK4_S224-Phosphorylation	Q9BRK4_S273-Phosphorylation	Q9BRK4_S277-Phosphorylation	O43312_S322-Phosphorylation	Q16236_S344-Phosphorylation	Q16236_S347-Phosphorylation	Q16236_S351-Phosphorylation	Q16236_S356-Phosphorylation	Q00653_S866-Phosphorylation	Q00653_S870-Phosphorylation	Q53EL6_S71-Phosphorylation	Q53EL6_S76-Phosphorylation	P16471_S349-Phosphorylation	P47736_S525-Phosphorylation	Q9Y4G8_S1244-Phosphorylation	Q9Y4G8_S1248-Phosphorylation	Q13127_S861-Phosphorylation	Q13127_S864-Phosphorylation	O95863_S249-Phosphorylation	Q15468_S395-Phosphorylation	Q13009_S329-Phosphorylation	Q13009_S334-Phosphorylation	Q13009_T340-Phosphorylation	Q6P589_S3-Phosphorylation	P30291_S53-Phosphorylation	P30291_S123-Phosphorylation"
+Q9Y297->Inhibit	PTMint:Interactions	P35222_S675-Phosphorylation
+Q9Y2L9->Inhibit	PTMint:Interactions	"Q8NF50_S2077-Phosphorylation	Q8NF50_S2082-Phosphorylation	Q8NF50_S2087-Phosphorylation"
+Q9Y2M5->Enhance	PTMint:Interactions	"P29590_S518-Phosphorylation	P29590_S518-Phosphorylation	O75385_S1042-Phosphorylation	O75385_T1046-Phosphorylation"
+Q9Y2T4->Enhance	PTMint:Interactions	P12931_S12-Phosphorylation
+Q9Y2W1->Enhance	PTMint:Interactions	P23246_T687-Phosphorylation
+Q9Y2X7->Enhance	PTMint:Interactions	"Q13153_Y153-Phosphorylation	Q13153_Y201-Phosphorylation	Q13153_Y285-Phosphorylation"
+Q9Y376->Inhibit	PTMint:Interactions	O95747_T185-Phosphorylation
+Q9Y3F4->Enhance	PTMint:Interactions	"Q9BRS8_S348-Phosphorylation	Q9BRS8_S409-Phosphorylation"
+Q9Y3F4->Inhibit	PTMint:Interactions	O15530_T354-Phosphorylation
+Q9Y3M2->Inhibit	PTMint:Interactions	P31947_S186-Phosphorylation
+Q9Y3R0->Enhance	PTMint:Interactions	"P04150_S203-Phosphorylation	P04150_S211-Phosphorylation	P04150_S226-Phosphorylation"
+Q9Y3R0->Inhibit	PTMint:Interactions	"Q09472_R2142-Methylation	O75469_S221-Phosphorylation"
+Q9Y468->Enhance	PTMint:Interactions	P10412_K26-Methylation
+Q9Y490->Enhance	PTMint:Interactions	P49023_S85-Phosphorylation
+Q9Y490->Inhibit	PTMint:Interactions	"O60331_S448-Phosphorylation	O60331_S555-Phosphorylation	O60331_S650-Phosphorylation	Q05397_S910-Phosphorylation"
+Q9Y4A5->Enhance	PTMint:Interactions	"P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation	P68431_K5-Methylation"
+Q9Y4B6->Enhance	PTMint:Interactions	P35240_S518-Phosphorylation
+Q9Y4B6->Inhibit	PTMint:Interactions	P35240_S10-Phosphorylation
+Q9Y4D1->Enhance	PTMint:Interactions	Q9Y4D1_Y652-Phosphorylation
+Q9Y4H2->Enhance	PTMint:Interactions	"Q9UM73_Y1096-Phosphorylation	Q9UM73_Y1507-Phosphorylation	Q9UM73_Y1584-Phosphorylation"
+Q9Y4K3->Enhance	PTMint:Interactions	"P31749_T308-Phosphorylation	P31749_S473-Phosphorylation	P41134_S36-Phosphorylation	O43474_S234-Phosphorylation	Q03167_S831-Phosphorylation"
+Q9Y4K3->Inhibit	PTMint:Interactions	"P32121_K295-Sumoylation	P04792_S78-Phosphorylation	P04792_S82-Phosphorylation"
+Q9Y4P1->Enhance	PTMint:Interactions	Q01813_S386-Phosphorylation
+Q9Y4P1->Inhibit	PTMint:Interactions	"P60520_S87-Phosphorylation	P60520_S88-Phosphorylation	Q9GZQ8_T50-Phosphorylation	Q9BXW4_S93-Phosphorylation	Q9BXW4_S96-Phosphorylation"
+Q9Y4X5->Enhance	PTMint:Interactions	"Q9NZQ7_S279-Phosphorylation	Q9NZQ7_S283-Phosphorylation"
+Q9Y572->Inhibit	PTMint:Interactions	Q13546_K530-Acetylation
+Q9Y5K6->Enhance	PTMint:Interactions	Q96EY5_Y204-Phosphorylation
+Q9Y5P8->Enhance	PTMint:Interactions	P67775_T304-Phosphorylation
+Q9Y5S8->Inhibit	PTMint:Interactions	"Q86UR1_S172-Phosphorylation	Q86UR1_S282-Phosphorylation"
+Q9Y5U8->Enhance	PTMint:Interactions	"Q9BXH1_S96-Phosphorylation	Q9BXH1_S106-Phosphorylation"
+Q9Y606->Enhance	PTMint:Interactions	"P62805_K6-Acetylation	P62805_K9-Acetylation	P62805_K13-Acetylation	P62805_K17-Acetylation"
+Q9Y618->Enhance	PTMint:Interactions	"O75469_S221-Phosphorylation	O95365_K61-Sumoylation"
+Q9Y618->Inhibit	PTMint:Interactions	P10828_S142-Phosphorylation
+Q9Y698->Enhance	PTMint:Interactions	P78352_Y397-Phosphorylation
+Q9Y6G9->Inhibit	PTMint:Interactions	P63172_S82-Phosphorylation
+Q9Y6I3->Enhance	PTMint:Interactions	Q16625_S490-Phosphorylation
+Q9Y6K1->Enhance	PTMint:Interactions	Q03112_S444-Phosphorylation
+Q9Y6K9->Enhance	PTMint:Interactions	"O95999_K17-Ubiquitination	O95999_K31-Ubiquitination	O95999_K31-Ubiquitination	O95999_K63-Ubiquitination	O95999_K63-Ubiquitination	O43318_K158-Ubiquitination	P61586_Y42-Phosphorylation	Q13546_K377-Ubiquitination	Q9UHD2_K69-Ubiquitination	Q9UHD2_K154-Ubiquitination	Q12933_S11-Phosphorylation	Q14142_K365-Ubiquitination"
+Q9Y6K9->Inhibit	PTMint:Interactions	Q9Y6K9_S68-Phosphorylation
+Q9Y6Q9->Inhibit	PTMint:Interactions	P10276_S77-Phosphorylation
+Q9Y6W5->Enhance	PTMint:Interactions	"Q14247_S405-Phosphorylation	Q14247_S418-Phosphorylation"
+Q9Y6W5->Inhibit	PTMint:Interactions	Q9P2A4_S342-Phosphorylation

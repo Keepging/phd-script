@@ -1,0 +1,11 @@
+Phosphorylation_site_dataset.tsv.gz: Last-Modified: Fri, 25 Oct 2024 18:26:45 GMT ETag: "9340e29793373ec0b3653e08c0195917" x-amz-meta-last-modified: 1705638334000 
+hgnc_entries.tsv.gz: Last-Modified: Fri, 25 Oct 2024 18:26:45 GMT ETag: "009820c67b5de61f66af63a2615ba295" x-amz-meta-last-modified: 1705638334000 
+uniprot_entries.tsv.gz: Last-Modified: Fri, 25 Oct 2024 18:26:46 GMT ETag: "abc1ae2a158010fcdacd24cba8ec9627-3" x-amz-meta-last-modified: 1705638334000 
+uniprot_sec_ac.txt.gz: Last-Modified: Fri, 25 Oct 2024 18:26:47 GMT ETag: "562079fff49090a76163f43b0766961c-2" x-amz-meta-last-modified: 1705638334000 
+uniprot_sprot.fasta.gz: Last-Modified: Fri, 25 Oct 2024 18:26:47 GMT ETag: "5831313975710903aa4a4e3a477fa5c4-11" x-amz-meta-last-modified: 1705638334000 
+uniprot_sprot_varsplic.fasta.gz: Last-Modified: Fri, 25 Oct 2024 18:26:47 GMT ETag: "5a2514736132fdb9a7e1268fdd4a0302-2" x-amz-meta-last-modified: 1705638376000 
+2440652923b1d5789f9122b403d021a9  /home/user/phd-script/code/Phospho/site_annotation/data/uniprot/uniprot_entries.tsv.gz
+9b2ad726b837d3083f1ec3df8a174046  /home/user/phd-script/code/Phospho/site_annotation/data/uniprot/uniprot_sec_ac.txt.gz
+dc2a0fbb8bdc11b48de48dc51e5324ed  /home/user/phd-script/code/Phospho/site_annotation/data/uniprot/uniprot_sprot.fasta.gz
+c9a38c5e25100ae76bddd817c6ffd5a0  /home/user/phd-script/code/Phospho/site_annotation/data/uniprot/uniprot_sprot_varsplic.fasta.gz
+9340e29793373ec0b3653e08c0195917  /home/user/phd-script/code/Phospho/site_annotation/data/psp/Phosphorylation_site_dataset.tsv.gz

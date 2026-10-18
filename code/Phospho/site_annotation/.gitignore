@@ -1,0 +1,3 @@
+data/uniprot/*.gz
+data/psp/*.gz
+__pycache__/
