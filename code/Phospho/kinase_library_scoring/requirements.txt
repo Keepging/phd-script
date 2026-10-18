@@ -1,0 +1,5 @@
+# Python 3.10-3.13 required by kinase-library (matplotlib~=3.8 has no 3.13 wheels; use 3.12)
+kinase-library==1.8.0
+pandas
+pyarrow
+requests
