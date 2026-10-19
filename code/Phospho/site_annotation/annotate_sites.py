@@ -14,7 +14,9 @@
 import argparse
 import collections
 import csv
+import datetime
 import gzip
+import hashlib
 import os
 import re
 import sys
@@ -94,8 +96,11 @@ def read_uniprot_entries(path):
     with gzip.open(path, "rt", encoding="utf-8") as fh:
         rd = csv.DictReader(fh, delimiter="\t")
         for r in rd:
-            if r.get("gene_primary"):
-                genes[r["accession"]] = r["gene_primary"]
+            # protmapper 列名 accession/gene_primary；UniProt REST tsv 列名 Entry/Gene Names (primary)
+            acc = r.get("accession") or r.get("Entry")
+            g = r.get("gene_primary") or r.get("Gene Names (primary)")
+            if acc and g:
+                genes[acc] = g.split(";")[0].strip()
     return genes
 
 
@@ -277,12 +282,27 @@ def main():
     ap.add_argument("--elm-instances", default=None)
     ap.add_argument("--elm-interactions", default=None)
     ap.add_argument("--elm-interaction-domains", default=None)
+    ap.add_argument("--live", action="store_true",
+                    help="使用 fetch_data.sh --live 下载到 data/*/live/ 的当前版本；某个 live 文件缺失时回退到快照并在日志/sources 文件中注明")
     ap.add_argument("--out", default="site_annotation.tsv")
     args = ap.parse_args()
 
     D = args.data_dir
     p = lambda *x: os.path.join(D, *x)
-    fasta = args.fasta or p("uniprot", "uniprot_sprot.fasta.gz")
+    live = lambda *x: p(*x) if (args.live and os.path.exists(p(*x))) else None
+    fasta = args.fasta or live("uniprot", "live", "uniprot_sprot_human.fasta.gz") or p("uniprot", "uniprot_sprot.fasta.gz")
+    sec_ac_path = live("uniprot", "live", "sec_ac.txt.gz") or p("uniprot", "uniprot_sec_ac.txt.gz")
+    entries_paths = [p("uniprot", "uniprot_entries.tsv.gz")] + ([live("uniprot", "live", "uniprot_entries_human.tsv.gz")] if live("uniprot", "live", "uniprot_entries_human.tsv.gz") else [])
+    ptm_pose_dir = live("ptm_pose_annotations", "live", "PhosphoSitePlus_Interactions.gmt") and p("ptm_pose_annotations", "live") or p("ptm_pose_annotations")
+    if args.live:
+        if live("elm", "live", "elms_index.tsv") and args.elm_classes is None:
+            args.elm_classes = live("elm", "live", "elms_index.tsv")
+            if args.elm_motifs is None:
+                args.elm_motifs = ""
+        for attr, fn in (("elm_instances", "elm_instances.tsv"), ("elm_interactions", "elm_interactions.tsv"),
+                         ("elm_interaction_domains", "elm_interaction_domains.tsv")):
+            if getattr(args, attr) is None and live("elm", "live", fn):
+                setattr(args, attr, live("elm", "live", fn))
     # 传空字符串 '' 表示不使用该文件 (例如只用官方 elms_index.tsv 时 --elm-motifs '')
     dflt = lambda v, *x: p(*x) if v is None else v
     elm_motifs = dflt(args.elm_motifs, "elm", "elm2019.motifs")
@@ -295,10 +315,12 @@ def main():
     accs = {s["protein"] for s in sites.values()}
     sys.stderr.write("位点 %d (去重后), 蛋白 %d\n" % (len(sites), len(accs)))
 
-    sec = read_sec_ac(p("uniprot", "uniprot_sec_ac.txt.gz"))
+    sec = read_sec_ac(sec_ac_path)
     wanted = set(accs) | {sec[a] for a in accs if a in sec}
     seqs = read_fasta_gz(fasta, wanted)
-    genes = read_uniprot_entries(p("uniprot", "uniprot_entries.tsv.gz"))
+    genes = {}
+    for ep in entries_paths:          # 后读的 (live) 覆盖先读的 (快照)
+        genes.update(read_uniprot_entries(ep))
     sys.stderr.write("找到序列 %d / %d\n" % (sum(1 for a in accs if a in seqs or sec.get(a) in seqs), len(accs)))
 
     classes = read_elm_classes(elm_motifs, elm_classes_tsv)
@@ -307,14 +329,41 @@ def main():
     class_domains = read_elm_interaction_domains(elm_idom)
     sys.stderr.write("ELM 类 %d, 人源实例蛋白 %d\n" % (len(classes), len(instances)))
 
-    A = lambda n: p("ptm_pose_annotations", n)
+    A = lambda n: os.path.join(ptm_pose_dir, n)
+    psp_path = p("psp", "Phosphorylation_site_dataset.tsv.gz")
+
+    # 记录本次实际使用的每个数据文件 -> <out>.sources.tsv
+    def file_info(path):
+        if not path or not os.path.exists(path):
+            return "", "missing"
+        h = hashlib.md5()
+        with open(path, "rb") as fh:
+            for chunk in iter(lambda: fh.read(1 << 20), b""):
+                h.update(chunk)
+        return h.hexdigest(), datetime.datetime.fromtimestamp(os.path.getmtime(path), datetime.timezone.utc).strftime("%Y-%m-%d")
+    used = [("uniprot_fasta", fasta), ("uniprot_sec_ac", sec_ac_path)] + \
+           [("uniprot_entries", e) for e in entries_paths] + \
+           [("elm_motifs", elm_motifs), ("elm_classes", elm_classes_tsv), ("elm_instances", elm_instances),
+            ("elm_interactions", elm_interactions), ("elm_interaction_domains", elm_idom),
+            ("ptm_pose_annotations", A("PhosphoSitePlus_Interactions.gmt")),
+            ("ptm_pose_last_updated", A("last_updated.txt")), ("psp_site_dataset", psp_path)]
+    src_out = re.sub(r"\.tsv$", "", args.out) + ".sources.tsv"
+    with open(src_out, "w", encoding="utf-8") as fs:
+        fs.write("role\tpath\tmd5\tfile_mtime_utc\n")
+        for role, path in used:
+            if not path:
+                fs.write("%s\t(not used)\t\t\n" % role)
+                continue
+            md5, mt = file_info(path)
+            fs.write("%s\t%s\t%s\t%s\n" % (role, os.path.relpath(path), md5, mt))
+            sys.stderr.write("  %-24s %s\n" % (role, os.path.relpath(path)))
     psp_inter = read_gmt(A("PhosphoSitePlus_Interactions.gmt"))
     psp_func = read_gmt(A("PhosphoSitePlus_Function.gmt"))
     psp_proc = read_gmt(A("PhosphoSitePlus_Process.gmt"))
     psp_enz = read_gmt(A("PhosphoSitePlus_Enzyme.gmt"))
     ptmint = read_gmt(A("PTMInt_Interactions.gmt"))
     omni_enz = read_gmt(A("OmniPath_Writer_Enzyme.gmt"))
-    psp_sites = read_psp_sites(p("psp", "Phosphorylation_site_dataset.tsv.gz"))
+    psp_sites = read_psp_sites(psp_path)
 
     def gene_of(acc):
         g = genes.get(acc.split("-")[0])

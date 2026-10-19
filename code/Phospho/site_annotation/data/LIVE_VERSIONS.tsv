@@ -1,0 +1,10 @@
+resource	file	version	download_date_utc	source_url	status
+ELM	data/elm/live/elms_index.tsv		2026-10-19	https://elm.eu.org/elms/elms_index.tsv	FAILED: curl: (35) Recv failure: Connection reset by peer
+ELM	data/elm/live/elm_instances.tsv		2026-10-19	https://elm.eu.org/instances.tsv?q=*&taxon=Homo%20sapiens&instance_logic=true%20positive	FAILED: curl: (35) Recv failure: Connection reset by peer
+ELM	data/elm/live/elm_interactions.tsv		2026-10-19	https://elm.eu.org/interactions/as_tsv	FAILED: curl: (35) Recv failure: Connection reset by peer
+ELM	data/elm/live/elm_interaction_domains.tsv		2026-10-19	https://elm.eu.org/interactiondomains.tsv	FAILED: curl: (35) Recv failure: Connection reset by peer
+UniProt	data/uniprot/live/uniprot_sprot_human.fasta.gz	release 2026_03 (02-September-2026); 20431 entries	2026-10-19	https://rest.uniprot.org/uniprotkb/stream?compressed=true&format=fasta&query=%28reviewed%3Atrue%29%20AND%20%28organism_id%3A9606%29	ok
+UniProt	data/uniprot/live/uniprot_entries_human.tsv.gz	release 2026_03	2026-10-19	https://rest.uniprot.org/uniprotkb/stream?compressed=true&format=tsv&fields=accession,gene_primary,length,reviewed&query=%28reviewed%3Atrue%29%20AND%20%28organism_id%3A9606%29	ok
+UniProt	data/uniprot/live/sec_ac.txt.gz	UniProtKB/Swiss-Prot Release 2026_03 of 02-Sep-2026	2026-10-19	https://ftp.uniprot.org/pub/databases/uniprot/current_release/knowledgebase/complete/docs/sec_ac.txt	ok
+PTM-POSE	data/ptm_pose_annotations/live/	ptm-pose 0.4.0; wheel sha256 bc214ce00fdf8272…; Resource_Files/last_updated 2025-03-30	2026-10-19	https://pypi.org/project/ptm-pose/0.4.0/	ok
+PhosphoSitePlus	data/psp/Phosphorylation_site_dataset.tsv.gz	protmapper 0.0.29 S3 mirror, file dated 2024-01-19	2026-10-19	https://bigmech.s3.amazonaws.com/protmapper/0.0.29/Phosphorylation_site_dataset.tsv.gz	unchanged (no newer redistributed copy)

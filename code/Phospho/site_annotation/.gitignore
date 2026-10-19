@@ -1,3 +1,5 @@
 data/uniprot/*.gz
+data/uniprot/live/*.gz
+data/uniprot/live/*.headers
 data/psp/*.gz
 __pycache__/
